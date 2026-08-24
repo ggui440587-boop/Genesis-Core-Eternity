@@ -1,0 +1,75 @@
+[package]
+name = "foyer"
+description = "foyer - Hybrid cache for Rust"
+version = { workspace = true }
+edition = { workspace = true }
+rust-version = { workspace = true }
+repository = { workspace = true }
+homepage = { workspace = true }
+keywords = { workspace = true }
+authors = { workspace = true }
+license = { workspace = true }
+readme = { workspace = true }
+
+[package.metadata.docs.rs]
+features = ["serde", "tracing", "nightly", "deadlock", "strict_assertions"]
+rustdoc-args = ["--cfg", "docsrs"]
+
+[features]
+default = []
+serde = ["foyer-common/serde", "foyer-storage/serde"]
+tracing = [
+  "fastrace/enable",
+  "foyer-common/tracing",
+  "foyer-memory/tracing",
+  "foyer-storage/tracing",
+]
+nightly = ["foyer-storage/nightly", "foyer-memory/nightly"]
+deadlock = ["foyer-storage/deadlock"]
+strict_assertions = [
+  "foyer-common/strict_assertions",
+  "foyer-memory/strict_assertions",
+  "foyer-storage/strict_assertions",
+]
+
+[dependencies]
+anyhow = { workspace = true }
+equivalent = { workspace = true }
+fastrace = { workspace = true, optional = true }
+foyer-common = { workspace = true }
+foyer-memory = { workspace = true }
+foyer-storage = { workspace = true }
+mixtrics = { workspace = true }
+pin-project = { workspace = true }
+serde = { workspace = true }
+tracing = { workspace = true }
+
+[target.'cfg(madsim)'.dependencies]
+tokio = { package = "madsim-tokio", version = "0.2", features = [
+  "rt",
+  "rt-multi-thread",
+  "sync",
+  "macros",
+  "time",
+  "signal",
+  "fs",
+] }
+
+[target.'cfg(not(madsim))'.dependencies]
+tokio = { package = "tokio", version = "1", features = [
+  "rt",
+  "rt-multi-thread",
+  "sync",
+  "macros",
+  "time",
+  "signal",
+  "fs",
+] }
+
+[dev-dependencies]
+foyer-storage = { workspace = true, features = ["test_utils"] }
+tempfile = "3"
+test-log = { workspace = true }
+
+[lints]
+workspace = true

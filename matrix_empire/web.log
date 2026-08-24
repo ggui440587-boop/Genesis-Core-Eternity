@@ -1,0 +1,13 @@
+nohup: ignoring input
+[*] 正在啟動造物主 Web 儀表板，通訊埠：8080...
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/matrix_empire/fusion_web.py", line 57, in <module>
+    with socketserver.TCPServer(("", PORT), EvolutionHandler) as httpd:
+         ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.14/socketserver.py", line 457, in __init__
+    self.server_bind()
+    ~~~~~~~~~~~~~~~~^^
+  File "/data/data/com.termux/files/usr/lib/python3.14/socketserver.py", line 478, in server_bind
+    self.socket.bind(self.server_address)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^
+OSError: [Errno 98] Address already in use

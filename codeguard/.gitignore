@@ -1,0 +1,4 @@
+.cache/
+.cargo/
+matrix_empire/*.db
+*.db

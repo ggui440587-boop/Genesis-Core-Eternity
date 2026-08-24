@@ -1,0 +1,90 @@
+[package]
+name = "foyer-storage"
+description = "storage engine for foyer - Hybrid cache for Rust"
+version = { workspace = true }
+edition = { workspace = true }
+rust-version = { workspace = true }
+repository = { workspace = true }
+homepage = { workspace = true }
+keywords = { workspace = true }
+authors = { workspace = true }
+license = { workspace = true }
+readme = { workspace = true }
+
+[features]
+default = []
+serde = ["dep:serde"]
+tracing = ["fastrace/enable", "foyer-common/tracing", "foyer-memory/tracing"]
+nightly = ["allocator-api2/nightly"]
+test_utils = []
+deadlock = ["parking_lot/deadlock_detection"]
+strict_assertions = [
+  "foyer-common/strict_assertions",
+  "foyer-memory/strict_assertions",
+]
+
+[dependencies]
+# TODO(MrCroxx): Remove this after `allocator_api` is stable.
+allocator-api2 = "0.2"
+anyhow = "1.0"
+# TODO(MrCroxx): use `array_chunks` after `#![feature(array_chunks)]` is stable.
+array-util = "1"
+auto_enums = { version = "0.8", features = ["futures03"] }
+bytes = { workspace = true }
+clap = { workspace = true }
+equivalent = { workspace = true }
+fastrace = { workspace = true, optional = true }
+flume = "0.11"
+foyer-common = { workspace = true }
+foyer-memory = { workspace = true }
+fs4 = { version = "0.13", default-features = false }
+futures-core = { workspace = true }
+futures-util = { workspace = true }
+itertools = { workspace = true }
+libc = "0.2"
+lz4 = "1.24"
+ordered_hash_map = "0.4"
+parking_lot = { workspace = true }
+paste = { workspace = true }
+pin-project = "1"
+rand = { workspace = true }
+serde = { workspace = true, optional = true }
+thiserror = { workspace = true }
+tracing = { workspace = true }
+twox-hash = "2"
+zstd = "0.13"
+
+[target.'cfg(madsim)'.dependencies]
+tokio = { package = "madsim-tokio", version = "0.2", features = [
+  "rt",
+  "rt-multi-thread",
+  "sync",
+  "macros",
+  "time",
+  "signal",
+  "fs",
+] }
+
+[target.'cfg(not(madsim))'.dependencies]
+tokio = { package = "tokio", version = "1", features = [
+  "rt",
+  "rt-multi-thread",
+  "sync",
+  "macros",
+  "time",
+  "signal",
+  "fs",
+] }
+
+[dev-dependencies]
+bytesize = { workspace = true }
+foyer-memory = { workspace = true, features = ["test_utils"] }
+tempfile = "3"
+test-log = { workspace = true }
+
+[lints]
+workspace = true
+
+[[test]]
+name = "storage_fuzzy_test"
+required-features = ["test_utils"]

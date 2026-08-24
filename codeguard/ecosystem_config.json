@@ -1,0 +1,7 @@
+{
+    "app_name": "Genesis-Core-Eternity",
+    "version": "1.0.0",
+    "max_retries": 5,
+    "environment": "Termux-Mobile",
+    "debug_mode": true
+}

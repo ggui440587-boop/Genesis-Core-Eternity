@@ -1,0 +1,36 @@
+2026-08-23 14:21:56,874 [INFO] [main.py:204] === 真實可執行防禦核心 (v8 輕量版) 啟動 ===
+2026-08-23 14:21:56,875 [INFO] [main.py:128] 正在向 Hacker News 發起請求 (嘗試 1/3)...
+2026-08-23 14:21:58,390 [INFO] [main.py:186] 正在透過原生 API 呼叫 gpt-4o-mini 進行解析...
+2026-08-23 14:22:01,345 [ERROR] [main.py:192] OpenAI API 錯誤 HTTP 429: {
+    "error": {
+        "message": "You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.",
+        "type": "insufficient_quota",
+        "param": null,
+        "code": "credit_balance_exhausted"
+    }
+}
+
+2026-08-23 14:33:48,147 [INFO] [main.py:204] === 真實可執行防禦核心 (v8 輕量版) 啟動 ===
+2026-08-23 14:33:48,148 [INFO] [main.py:128] 正在向 Hacker News 發起請求 (嘗試 1/3)...
+2026-08-23 14:33:49,773 [INFO] [main.py:186] 正在透過原生 API 呼叫 gpt-4o-mini 進行解析...
+2026-08-23 14:33:50,764 [ERROR] [main.py:192] OpenAI API 錯誤 HTTP 401: {
+    "error": {
+        "message": "Incorrect API key provided: gsk_tFRh********************************************Gi6M. You can find your API key at https://platform.openai.com/account/api-keys.",
+        "type": "invalid_request_error",
+        "param": null,
+        "code": "invalid_api_key"
+    }
+}
+
+2026-08-23 14:35:57,854 [INFO] [main.py:167] === 真實可執行防禦核心 (Groq 強化版) 啟動 ===
+2026-08-23 14:35:57,859 [INFO] [main.py:101] 正在向 Hacker News 發起請求 (嘗試 1/3)...
+2026-08-23 14:36:00,177 [INFO] [main.py:152] 正在透過 Groq API 進行極速解析...
+2026-08-23 14:36:00,550 [ERROR] [main.py:158] Groq API 錯誤 HTTP 404: {"error":{"message":"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.","type":"invalid_request_error","code":"model_not_found"}}
+
+2026-08-23 14:36:40,430 [INFO] [main.py:167] === 真實可執行防禦核心 (Groq 強化版) 啟動 ===
+2026-08-23 14:36:40,431 [INFO] [main.py:101] 正在向 Hacker News 發起請求 (嘗試 1/3)...
+2026-08-23 14:36:42,412 [INFO] [main.py:152] 正在透過 Groq API 進行極速解析...
+2026-08-23 14:36:44,895 [INFO] [main.py:191] 資料 ID [49405816] 處理完畢。總執行耗時: 4.47 秒。安全退出。
+2026-08-23 14:40:48,087 [INFO] [main.py:167] === 真實可執行防禦核心 (Groq 強化版) 啟動 ===
+2026-08-23 14:40:48,088 [INFO] [main.py:101] 正在向 Hacker News 發起請求 (嘗試 1/3)...
+2026-08-23 14:40:49,298 [INFO] [main.py:178] Hacker News ID [49405816] 已經處理過，略過發送。

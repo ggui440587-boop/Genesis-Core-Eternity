@@ -1,0 +1,7 @@
+.env
+*.db
+__pycache__/
+logs/
+live_kernel_sandbox.py
+auto_generated_tool.py
+

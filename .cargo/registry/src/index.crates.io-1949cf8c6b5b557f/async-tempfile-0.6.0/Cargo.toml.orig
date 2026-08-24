@@ -1,0 +1,32 @@
+[package]
+name = "async-tempfile"
+version = "0.6.0"
+description = "Automatically deleted async I/O temporary files."
+documentation = "https://docs.rs/async-tempfile"
+license = "MIT"
+authors = ["Markus Mayer"]
+repository = "https://github.com/sunsided/async-tempfile-rs"
+keywords = ["tokio", "temporary-files", "temp"]
+categories = ["asynchronous", "filesystem"]
+readme = "README.md"
+edition = "2021"
+
+[features]
+default = []
+uuid = ["dep:uuid"]
+
+[[test]]
+name = "tests"
+path = "tests/tests.rs"
+
+[dependencies]
+tokio = { version = "1.38.0", features = ["fs"] }
+uuid = { version = "1.9.1", features = ["v4"], optional = true }
+
+[dev-dependencies]
+tokio = { version = "1.38.0", features = ["rt-multi-thread", "macros"] }
+tokio-test = "0.4.4"
+
+[package.metadata.docs.rs]
+all-features = true
+rustdoc-args = ["--cfg", "docsrs"]

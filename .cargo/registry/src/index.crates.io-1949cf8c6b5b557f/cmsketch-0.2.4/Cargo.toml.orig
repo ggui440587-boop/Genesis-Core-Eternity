@@ -1,0 +1,16 @@
+[package]
+name = "cmsketch"
+version = "0.2.4"
+edition = "2021"
+authors = ["MrCroxx <mrcroxx@outlook.com>"]
+description = "A count min sketch implementation in Rust"
+license = "Apache-2.0"
+repository = "https://github.com/mrcroxx/cmsketch-rs"
+homepage = "https://github.com/mrcroxx/cmsketch-rs"
+rust-version = "1.81.0"
+
+[dependencies]
+
+[dev-dependencies]
+itertools = "0.14"
+rand_mt = "5"

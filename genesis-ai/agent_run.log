@@ -1,0 +1,5 @@
+nohup: ignoring input
+  File "/data/data/com.termux/files/home/genesis-ai/agent.py", line 45
+    print(--- 迴圈週期: {cycle} ---)
+                  ^
+SyntaxError: invalid syntax
