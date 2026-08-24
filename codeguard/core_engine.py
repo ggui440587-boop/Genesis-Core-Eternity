@@ -3,43 +3,43 @@ import datetime
 import os
 from git_auto_sync import GitAutoSync
 from scraper_module import ProjectScraperModule
+from ai_analyzer_module import AIAnalyzerModule
 
 # ==============================================================
-# Genesis Master Engine - 整合大腦中控、爬蟲與自動同步
+# Genesis Master Engine - 完整生態系統整核心
 # ==============================================================
 
 class GenesisMasterEngine:
     def __init__(self):
         print("=" * 60)
-        print(" 🌟 [Genesis Master Engine] 系統全面啟動中...")
+        print(" 🌟 [Genesis Master Engine] 完整生態系啟動中...")
         print("=" * 60)
         self.scraper = ProjectScraperModule()
-        self.check_environment()
-
-    def check_environment(self):
-        print("-> 🔍 檢查工作目錄與必要模組...")
-        if os.path.exists("git_auto_sync.py") and os.path.exists("scraper_module.py"):
-            print("   [✓] 所有核心模組載入正常")
-        else:
-            print("   [!] 警告: 部分模組缺失")
+        self.analyzer = AIAnalyzerModule()
 
     def run_pipeline(self):
         timestamp = datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")
-        print(f"\n-> ⏱️ 觸發完整管線 (Pipeline)，當前時間: {timestamp}")
-
-        # 1. 執行資料抓取與儲存模組 (由爬蟲模組寫入 SQLite)
-        print("-> 🕷️ 執行資料抓取與本地資料庫儲存...")
+        print(f"\n-> ⏱️ 觸發完整自動化管線，當前時間: {timestamp}")
+        
+        # 1. 執行爬蟲與資料庫儲存
+        print("-> 🕷️ [步驟 1] 執行資料抓取與本地資料庫儲存...")
         try:
             self.scraper.fetch_and_store(
-                title=f"Automated Sync Record - {timestamp}",
+                title=f"Ecosystem Sync Record - {timestamp}",
                 url="https://github.com/ggui440587-boop/Genesis-Core-Eternity"
             )
-            print("   [✓] 資料寫入資料庫完成。")
         except Exception as e:
-            print(f"   [✕] 資料寫入異常: {e}")
+            print(f"   [✕] 爬蟲模組異常: {e}")
 
-        # 2. 串聯自動同步模組，將最新資料與程式碼推送到 GitHub
-        print("-> 🚀 啟動自動同步與備份流程...")
+        # 2. 執行 AI 智慧分析與摘要
+        print("-> 🧠 [步驟 2] 執行 AI 智慧分析模組...")
+        try:
+            self.analyzer.analyze_latest_records()
+        except Exception as e:
+            print(f"   [✕] AI 分析模組異常: {e}")
+
+        # 3. 執行 Git 自動同步與遠端備份
+        print("-> 🚀 [步驟 3] 啟動 Git 自動同步與備份流程...")
         try:
             GitAutoSync.sync_repository()
             print("   [✓] 遠端同步流程執行完畢。")
@@ -58,6 +58,6 @@ class GenesisMasterEngine:
 
 if __name__ == "__main__":
     engine = GenesisMasterEngine()
-    # 測試執行一次完整管線，或直接啟動常駐服務
+    # 測試執行一次完整串聯管線
     engine.run_pipeline()
 
