@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# Flagship Infinite Core
+# Flagship Safe Core
 
 
 # === [GENE START: Requests] ===
@@ -43,7 +43,6 @@ is at <https://requests.readthedocs.io>.
 :license: Apache 2.0, see LICENSE for more details.
 """
 
-from __future__ import annotations
 
 import warnings
 
@@ -222,7 +221,6 @@ logging.getLogger(__name__).addHandler(NullHandler())
 
 # FileModeWarnings go off per the default.
 warnings.simplefilter("default", FileModeWarning, append=True)
-
 # === [GENE END: Requests] ===
 
 # === [GENE START: Rich] ===
@@ -403,7 +401,6 @@ def inspect(
 
 if __name__ == "__main__":  # pragma: no cover
     print("Hello, **World**")
-
 # === [GENE END: Rich] ===
 
 # === [GENE START: FastAPI] ===
@@ -432,5 +429,4 @@ from .responses import Response as Response
 from .routing import APIRouter as APIRouter
 from .websockets import WebSocket as WebSocket
 from .websockets import WebSocketDisconnect as WebSocketDisconnect
-
 # === [GENE END: FastAPI] ===
