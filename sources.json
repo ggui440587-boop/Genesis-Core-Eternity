@@ -1,0 +1,5 @@
+[
+    {"name": "Requests", "url": "https://raw.githubusercontent.com/psf/requests/refs/heads/main/src/requests/__init__.py"},
+    {"name": "Rich", "url": "https://raw.githubusercontent.com/Textualize/rich/refs/heads/main/rich/__init__.py"},
+    {"name": "FastAPI", "url": "https://raw.githubusercontent.com/fastapi/fastapi/refs/heads/master/fastapi/__init__.py"}
+]
