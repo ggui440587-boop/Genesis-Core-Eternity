@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# Flagship Core
+# Flagship Infinite Core
 
 
 # === [GENE START: Rich] ===
