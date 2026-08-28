@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G1507_863
+Category: 全端通用開源專案
+Generation: 1507
+Score: 37993
+Info: 【同種純化】基於前代[PURE_全端_G1506_286]進化

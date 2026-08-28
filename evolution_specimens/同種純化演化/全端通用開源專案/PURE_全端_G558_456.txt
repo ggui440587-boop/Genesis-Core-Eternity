@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G558_456
+Category: 全端通用開源專案
+Generation: 558
+Score: 14291
+Info: 【同種純化】基於前代[PURE_全端_G557_661]進化

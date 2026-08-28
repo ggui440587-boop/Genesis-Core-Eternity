@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G3777_426
+Category: AI模型與機器學習
+Generation: 3777
+Score: 94522
+Info: 【同種純化】基於前代[PURE_AI_G3776_145]進化

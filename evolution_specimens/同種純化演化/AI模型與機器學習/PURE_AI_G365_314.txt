@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G365_314
+Category: AI模型與機器學習
+Generation: 365
+Score: 9142
+Info: 【同種純化】基於前代[PURE_AI_G364_843]進化

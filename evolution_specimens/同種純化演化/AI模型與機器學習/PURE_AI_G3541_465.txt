@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G3541_465
+Category: AI模型與機器學習
+Generation: 3541
+Score: 88297
+Info: 【同種純化】基於前代[PURE_AI_G3540_854]進化

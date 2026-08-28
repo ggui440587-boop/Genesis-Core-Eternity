@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G2025_664
+Category: AI模型與機器學習
+Generation: 2025
+Score: 50217
+Info: 【同種純化】基於前代[PURE_AI_G2024_124]進化

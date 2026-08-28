@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G965_200
+Category: 全端通用開源專案
+Generation: 965
+Score: 24628
+Info: 【同種純化】基於前代[PURE_全端_G964_369]進化

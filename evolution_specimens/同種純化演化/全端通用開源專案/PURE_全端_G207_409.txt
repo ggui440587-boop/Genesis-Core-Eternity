@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G207_409
+Category: 全端通用開源專案
+Generation: 207
+Score: 5448
+Info: 【同種純化】基於前代[PURE_全端_G206_549]進化

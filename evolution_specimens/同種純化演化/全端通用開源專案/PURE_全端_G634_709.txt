@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G634_709
+Category: 全端通用開源專案
+Generation: 634
+Score: 16297
+Info: 【同種純化】基於前代[PURE_全端_G633_100]進化

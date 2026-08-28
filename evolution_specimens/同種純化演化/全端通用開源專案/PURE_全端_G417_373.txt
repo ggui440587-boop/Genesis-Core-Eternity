@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G417_373
+Category: 全端通用開源專案
+Generation: 417
+Score: 10780
+Info: 【同種純化】基於前代[PURE_全端_G416_782]進化

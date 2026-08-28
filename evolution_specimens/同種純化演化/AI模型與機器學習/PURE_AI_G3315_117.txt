@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G3315_117
+Category: AI模型與機器學習
+Generation: 3315
+Score: 82486
+Info: 【同種純化】基於前代[PURE_AI_G3314_877]進化

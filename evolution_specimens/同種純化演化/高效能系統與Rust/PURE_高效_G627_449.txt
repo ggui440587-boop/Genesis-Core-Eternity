@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G627_449
+Category: 高效能系統與Rust
+Generation: 627
+Score: 16064
+Info: 【同種純化】基於前代[PURE_高效_G626_407]進化

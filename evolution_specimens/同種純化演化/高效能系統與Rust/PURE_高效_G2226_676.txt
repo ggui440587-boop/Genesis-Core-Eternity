@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G2226_676
+Category: 高效能系統與Rust
+Generation: 2226
+Score: 55744
+Info: 【同種純化】基於前代[PURE_高效_G2225_385]進化

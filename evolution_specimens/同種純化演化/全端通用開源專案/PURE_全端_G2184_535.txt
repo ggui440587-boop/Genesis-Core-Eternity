@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G2184_535
+Category: 全端通用開源專案
+Generation: 2184
+Score: 55131
+Info: 【同種純化】基於前代[PURE_全端_G2183_989]進化

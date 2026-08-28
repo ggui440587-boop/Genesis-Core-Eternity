@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G2116_211
+Category: 高效能系統與Rust
+Generation: 2116
+Score: 53110
+Info: 【同種純化】基於前代[PURE_高效_G2115_601]進化

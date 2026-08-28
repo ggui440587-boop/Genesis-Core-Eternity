@@ -1,0 +1,4 @@
+Hybrid Specimen: HYBRID_OMEGA_1173
+Score: 212
+Parents: GH_yek + HF_OBLITERATUS_Qwen3.8-27B-OBLITERATED
+Info: 【混合初始】融合 [GH_yek] 與 [HF_OBLITERATUS_Qwen3.8-27B-OBLITERATED]

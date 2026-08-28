@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G680_925
+Category: AI模型與機器學習
+Generation: 680
+Score: 16847
+Info: 【同種純化】基於前代[PURE_AI_G679_247]進化

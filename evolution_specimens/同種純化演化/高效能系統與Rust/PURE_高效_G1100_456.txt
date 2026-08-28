@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G1100_456
+Category: 高效能系統與Rust
+Generation: 1100
+Score: 27637
+Info: 【同種純化】基於前代[PURE_高效_G1099_105]進化

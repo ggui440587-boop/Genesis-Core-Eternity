@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G810_214
+Category: 高效能系統與Rust
+Generation: 810
+Score: 20544
+Info: 【同種純化】基於前代[PURE_高效_G809_530]進化

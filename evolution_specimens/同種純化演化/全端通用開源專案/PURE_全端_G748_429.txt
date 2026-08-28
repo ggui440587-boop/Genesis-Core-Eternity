@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G748_429
+Category: 全端通用開源專案
+Generation: 748
+Score: 19247
+Info: 【同種純化】基於前代[PURE_全端_G747_814]進化

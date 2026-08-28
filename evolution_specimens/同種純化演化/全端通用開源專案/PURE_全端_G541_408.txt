@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G541_408
+Category: 全端通用開源專案
+Generation: 541
+Score: 13853
+Info: 【同種純化】基於前代[PURE_全端_G540_968]進化

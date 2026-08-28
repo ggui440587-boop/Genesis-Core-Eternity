@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G636_575
+Category: 全端通用開源專案
+Generation: 636
+Score: 16350
+Info: 【同種純化】基於前代[PURE_全端_G635_340]進化

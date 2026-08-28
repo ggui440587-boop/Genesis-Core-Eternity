@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G3621_439
+Category: AI模型與機器學習
+Generation: 3621
+Score: 90398
+Info: 【同種純化】基於前代[PURE_AI_G3620_188]進化

@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G1533_783
+Category: AI模型與機器學習
+Generation: 1533
+Score: 38087
+Info: 【同種純化】基於前代[PURE_AI_G1532_774]進化

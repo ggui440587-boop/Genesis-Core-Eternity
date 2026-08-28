@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G1103_908
+Category: 全端通用開源專案
+Generation: 1103
+Score: 28076
+Info: 【同種純化】基於前代[PURE_全端_G1102_231]進化

@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G109_891
+Category: 全端通用開源專案
+Generation: 109
+Score: 2892
+Info: 【同種純化】基於前代[PURE_全端_G108_579]進化

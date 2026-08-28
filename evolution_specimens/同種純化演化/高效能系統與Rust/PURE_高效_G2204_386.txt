@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G2204_386
+Category: 高效能系統與Rust
+Generation: 2204
+Score: 55204
+Info: 【同種純化】基於前代[PURE_高效_G2203_653]進化

@@ -1,0 +1,4 @@
+Hybrid Specimen: HYBRID_OMEGA_9667
+Score: 240974
+Parents: HF_Qwen_Qwen3.8-27B + CR_A2VConverter
+Info: 【混合神獸】融合最強[HYBRID_OMEGA_2817]與異源[HF_Qwen_Qwen3.8-27B]

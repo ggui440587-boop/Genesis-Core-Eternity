@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G2050_812
+Category: 全端通用開源專案
+Generation: 2050
+Score: 51656
+Info: 【同種純化】基於前代[PURE_全端_G2049_379]進化

@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G2289_173
+Category: AI模型與機器學習
+Generation: 2289
+Score: 56764
+Info: 【同種純化】基於前代[PURE_AI_G2288_700]進化

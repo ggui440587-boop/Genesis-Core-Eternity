@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G2450_366
+Category: 高效能系統與Rust
+Generation: 2450
+Score: 61179
+Info: 【同種純化】基於前代[PURE_高效_G2449_183]進化

@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G531_884
+Category: AI模型與機器學習
+Generation: 531
+Score: 13233
+Info: 【同種純化】基於前代[PURE_AI_G530_471]進化

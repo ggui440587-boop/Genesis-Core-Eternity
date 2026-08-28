@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G168_212
+Category: 全端通用開源專案
+Generation: 168
+Score: 4501
+Info: 【同種純化】基於前代[PURE_全端_G167_110]進化

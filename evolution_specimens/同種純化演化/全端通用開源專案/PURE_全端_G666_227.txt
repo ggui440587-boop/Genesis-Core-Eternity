@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G666_227
+Category: 全端通用開源專案
+Generation: 666
+Score: 17050
+Info: 【同種純化】基於前代[PURE_全端_G665_371]進化

@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G2722_901
+Category: 高效能系統與Rust
+Generation: 2722
+Score: 68031
+Info: 【同種純化】基於前代[PURE_高效_G2721_160]進化

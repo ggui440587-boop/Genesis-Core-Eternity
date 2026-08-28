@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G702_468
+Category: AI模型與機器學習
+Generation: 702
+Score: 17373
+Info: 【同種純化】基於前代[PURE_AI_G701_851]進化

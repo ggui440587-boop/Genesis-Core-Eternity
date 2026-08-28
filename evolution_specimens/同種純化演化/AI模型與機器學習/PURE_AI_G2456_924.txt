@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G2456_924
+Category: AI模型與機器學習
+Generation: 2456
+Score: 61005
+Info: 【同種純化】基於前代[PURE_AI_G2455_685]進化

@@ -1,4 +1,11 @@
 {
+  "system_name": "Genesis-Core-Eternity",
+  "version": "1.0.0",
+  "interval_seconds": 3600,
+  "max_log_size_mb": 10,
+  "mode": "production"
+}
+{
     "system_name": "Genesis-Core-Eternity",
     "version": "1.0.1",
     "heart_rate_seconds": 5,

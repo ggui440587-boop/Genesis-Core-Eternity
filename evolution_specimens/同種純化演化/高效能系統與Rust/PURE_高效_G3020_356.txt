@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G3020_356
+Category: 高效能系統與Rust
+Generation: 3020
+Score: 75653
+Info: 【同種純化】基於前代[PURE_高效_G3019_305]進化

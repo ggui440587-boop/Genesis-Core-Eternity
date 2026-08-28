@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G709_193
+Category: 全端通用開源專案
+Generation: 709
+Score: 18226
+Info: 【同種純化】基於前代[PURE_全端_G708_493]進化

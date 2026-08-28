@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G1429_439
+Category: AI模型與機器學習
+Generation: 1429
+Score: 35517
+Info: 【同種純化】基於前代[PURE_AI_G1428_342]進化

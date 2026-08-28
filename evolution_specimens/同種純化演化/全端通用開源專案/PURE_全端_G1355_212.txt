@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G1355_212
+Category: 全端通用開源專案
+Generation: 1355
+Score: 34112
+Info: 【同種純化】基於前代[PURE_全端_G1354_500]進化

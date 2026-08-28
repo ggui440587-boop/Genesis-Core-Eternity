@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G927_700
+Category: 全端通用開源專案
+Generation: 927
+Score: 23702
+Info: 【同種純化】基於前代[PURE_全端_G926_521]進化

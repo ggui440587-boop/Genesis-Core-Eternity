@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G484_844
+Category: 全端通用開源專案
+Generation: 484
+Score: 12484
+Info: 【同種純化】基於前代[PURE_全端_G483_645]進化

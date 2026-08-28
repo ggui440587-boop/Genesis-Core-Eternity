@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G140_736
+Category: 全端通用開源專案
+Generation: 140
+Score: 3696
+Info: 【同種純化】基於前代[PURE_全端_G139_902]進化

@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G185_894
+Category: 全端通用開源專案
+Generation: 185
+Score: 4929
+Info: 【同種純化】基於前代[PURE_全端_G184_407]進化

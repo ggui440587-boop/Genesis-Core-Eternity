@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G1805_703
+Category: AI模型與機器學習
+Generation: 1805
+Score: 44765
+Info: 【同種純化】基於前代[PURE_AI_G1804_670]進化

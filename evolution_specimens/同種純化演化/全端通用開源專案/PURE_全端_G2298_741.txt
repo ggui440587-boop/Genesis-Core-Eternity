@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G2298_741
+Category: 全端通用開源專案
+Generation: 2298
+Score: 57985
+Info: 【同種純化】基於前代[PURE_全端_G2297_110]進化

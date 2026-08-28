@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G446_528
+Category: 高效能系統與Rust
+Generation: 446
+Score: 11333
+Info: 【同種純化】基於前代[PURE_高效_G445_339]進化

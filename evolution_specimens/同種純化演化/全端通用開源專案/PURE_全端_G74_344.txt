@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G74_344
+Category: 全端通用開源專案
+Generation: 74
+Score: 1969
+Info: 【同種純化】基於前代[PURE_全端_G73_519]進化

@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G1240_129
+Category: 高效能系統與Rust
+Generation: 1240
+Score: 31162
+Info: 【同種純化】基於前代[PURE_高效_G1239_422]進化

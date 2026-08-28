@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G2242_299
+Category: AI模型與機器學習
+Generation: 2242
+Score: 55485
+Info: 【同種純化】基於前代[PURE_AI_G2241_997]進化

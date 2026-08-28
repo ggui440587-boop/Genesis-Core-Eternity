@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G578_714
+Category: 高效能系統與Rust
+Generation: 578
+Score: 14816
+Info: 【同種純化】基於前代[PURE_高效_G577_384]進化

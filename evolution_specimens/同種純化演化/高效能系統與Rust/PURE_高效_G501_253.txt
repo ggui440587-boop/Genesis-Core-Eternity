@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G501_253
+Category: 高效能系統與Rust
+Generation: 501
+Score: 12828
+Info: 【同種純化】基於前代[PURE_高效_G500_445]進化

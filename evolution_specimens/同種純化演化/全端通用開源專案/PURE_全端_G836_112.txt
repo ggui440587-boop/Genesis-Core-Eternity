@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G836_112
+Category: 全端通用開源專案
+Generation: 836
+Score: 21481
+Info: 【同種純化】基於前代[PURE_全端_G835_108]進化

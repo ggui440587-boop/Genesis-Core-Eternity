@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G1947_205
+Category: 全端通用開源專案
+Generation: 1947
+Score: 49059
+Info: 【同種純化】基於前代[PURE_全端_G1946_341]進化

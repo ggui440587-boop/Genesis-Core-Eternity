@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G520_387
+Category: AI模型與機器學習
+Generation: 520
+Score: 13013
+Info: 【同種純化】基於前代[PURE_AI_G519_773]進化

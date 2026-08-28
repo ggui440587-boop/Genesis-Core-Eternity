@@ -1,0 +1,4 @@
+Hybrid Specimen: HYBRID_OMEGA_9220
+Score: 52087
+Parents: GH_mirrord + GH_yek
+Info: 【混合神獸】融合最強[HYBRID_OMEGA_1219]與異源[GH_mirrord]

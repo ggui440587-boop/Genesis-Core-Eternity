@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G1964_137
+Category: AI模型與機器學習
+Generation: 1964
+Score: 48681
+Info: 【同種純化】基於前代[PURE_AI_G1963_939]進化

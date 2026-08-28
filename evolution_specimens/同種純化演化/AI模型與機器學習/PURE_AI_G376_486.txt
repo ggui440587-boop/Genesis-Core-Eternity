@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G376_486
+Category: AI模型與機器學習
+Generation: 376
+Score: 9418
+Info: 【同種純化】基於前代[PURE_AI_G375_685]進化

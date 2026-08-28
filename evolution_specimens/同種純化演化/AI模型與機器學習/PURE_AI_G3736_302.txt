@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G3736_302
+Category: AI模型與機器學習
+Generation: 3736
+Score: 93410
+Info: 【同種純化】基於前代[PURE_AI_G3735_706]進化

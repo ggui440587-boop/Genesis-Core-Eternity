@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G1464_546
+Category: 全端通用開源專案
+Generation: 1464
+Score: 36857
+Info: 【同種純化】基於前代[PURE_全端_G1463_253]進化

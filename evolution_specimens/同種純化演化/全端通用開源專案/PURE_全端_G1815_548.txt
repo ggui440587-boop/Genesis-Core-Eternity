@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G1815_548
+Category: 全端通用開源專案
+Generation: 1815
+Score: 45735
+Info: 【同種純化】基於前代[PURE_全端_G1814_814]進化

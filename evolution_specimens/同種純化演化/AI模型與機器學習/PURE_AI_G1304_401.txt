@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G1304_401
+Category: AI模型與機器學習
+Generation: 1304
+Score: 32360
+Info: 【同種純化】基於前代[PURE_AI_G1303_691]進化

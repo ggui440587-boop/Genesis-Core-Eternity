@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G405_312
+Category: 高效能系統與Rust
+Generation: 405
+Score: 10282
+Info: 【同種純化】基於前代[PURE_高效_G404_545]進化

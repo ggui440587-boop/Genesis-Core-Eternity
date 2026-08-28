@@ -1,0 +1,4 @@
+Hybrid Specimen: HYBRID_OMEGA_9850
+Score: 55325
+Parents: GH_litellm + CR_ABC_lumenpyx
+Info: 【混合神獸】融合最強[HYBRID_OMEGA_9731]與異源[GH_litellm]

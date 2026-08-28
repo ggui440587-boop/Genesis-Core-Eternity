@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G1993_663
+Category: AI模型與機器學習
+Generation: 1993
+Score: 49341
+Info: 【同種純化】基於前代[PURE_AI_G1992_346]進化

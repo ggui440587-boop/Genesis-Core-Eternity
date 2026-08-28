@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G3029_437
+Category: 高效能系統與Rust
+Generation: 3029
+Score: 75882
+Info: 【同種純化】基於前代[PURE_高效_G3028_506]進化

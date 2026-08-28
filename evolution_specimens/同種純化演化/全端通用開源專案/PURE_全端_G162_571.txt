@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G162_571
+Category: 全端通用開源專案
+Generation: 162
+Score: 4308
+Info: 【同種純化】基於前代[PURE_全端_G161_909]進化

@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G1686_441
+Category: 全端通用開源專案
+Generation: 1686
+Score: 42551
+Info: 【同種純化】基於前代[PURE_全端_G1685_692]進化

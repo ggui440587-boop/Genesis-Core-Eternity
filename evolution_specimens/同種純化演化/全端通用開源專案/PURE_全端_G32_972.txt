@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G32_972
+Category: 全端通用開源專案
+Generation: 32
+Score: 901
+Info: 【同種純化】基於前代[PURE_全端_G31_376]進化

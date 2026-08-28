@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G702_703
+Category: 高效能系統與Rust
+Generation: 702
+Score: 17803
+Info: 【同種純化】基於前代[PURE_高效_G701_902]進化

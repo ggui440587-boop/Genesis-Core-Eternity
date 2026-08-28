@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G3223_173
+Category: AI模型與機器學習
+Generation: 3223
+Score: 80291
+Info: 【同種純化】基於前代[PURE_AI_G3222_657]進化

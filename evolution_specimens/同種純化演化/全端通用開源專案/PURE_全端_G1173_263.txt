@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G1173_263
+Category: 全端通用開源專案
+Generation: 1173
+Score: 29774
+Info: 【同種純化】基於前代[PURE_全端_G1172_258]進化

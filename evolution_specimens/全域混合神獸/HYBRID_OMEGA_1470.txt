@@ -1,0 +1,4 @@
+Hybrid Specimen: HYBRID_OMEGA_1470
+Score: 277879
+Parents: CR_A2VConverter + HF_OBLITERATUS_Qwen3.8-27B-OBLITERATED
+Info: 【混合神獸】融合最強[HYBRID_OMEGA_5140]與異源[CR_A2VConverter]

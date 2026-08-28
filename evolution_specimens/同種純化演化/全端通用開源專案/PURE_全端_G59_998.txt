@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G59_998
+Category: 全端通用開源專案
+Generation: 59
+Score: 1584
+Info: 【同種純化】基於前代[PURE_全端_G58_740]進化

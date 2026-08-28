@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G190_889
+Category: 全端通用開源專案
+Generation: 190
+Score: 5047
+Info: 【同種純化】基於前代[PURE_全端_G189_536]進化

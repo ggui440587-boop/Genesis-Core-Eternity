@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G2153_341
+Category: 全端通用開源專案
+Generation: 2153
+Score: 54347
+Info: 【同種純化】基於前代[PURE_全端_G2152_266]進化

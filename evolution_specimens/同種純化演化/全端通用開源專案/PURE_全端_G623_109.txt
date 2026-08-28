@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G623_109
+Category: 全端通用開源專案
+Generation: 623
+Score: 15993
+Info: 【同種純化】基於前代[PURE_全端_G622_477]進化

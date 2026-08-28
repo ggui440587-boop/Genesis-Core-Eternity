@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G592_675
+Category: 全端通用開源專案
+Generation: 592
+Score: 15201
+Info: 【同種純化】基於前代[PURE_全端_G591_733]進化

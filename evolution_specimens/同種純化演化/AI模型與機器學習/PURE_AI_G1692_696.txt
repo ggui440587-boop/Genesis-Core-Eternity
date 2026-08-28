@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G1692_696
+Category: AI模型與機器學習
+Generation: 1692
+Score: 41975
+Info: 【同種純化】基於前代[PURE_AI_G1691_269]進化

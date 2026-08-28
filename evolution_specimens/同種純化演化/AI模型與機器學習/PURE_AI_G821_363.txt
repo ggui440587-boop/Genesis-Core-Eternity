@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G821_363
+Category: AI模型與機器學習
+Generation: 821
+Score: 20440
+Info: 【同種純化】基於前代[PURE_AI_G820_762]進化

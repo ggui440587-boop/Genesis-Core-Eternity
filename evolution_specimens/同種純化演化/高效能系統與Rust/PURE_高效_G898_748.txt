@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G898_748
+Category: 高效能系統與Rust
+Generation: 898
+Score: 22805
+Info: 【同種純化】基於前代[PURE_高效_G897_450]進化

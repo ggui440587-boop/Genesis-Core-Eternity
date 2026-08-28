@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G911_679
+Category: 全端通用開源專案
+Generation: 911
+Score: 23255
+Info: 【同種純化】基於前代[PURE_全端_G910_492]進化

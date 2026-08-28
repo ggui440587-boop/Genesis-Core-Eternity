@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G281_959
+Category: AI模型與機器學習
+Generation: 281
+Score: 6974
+Info: 【同種純化】基於前代[PURE_AI_G280_411]進化

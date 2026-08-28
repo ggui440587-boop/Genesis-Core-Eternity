@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G953_325
+Category: 全端通用開源專案
+Generation: 953
+Score: 24331
+Info: 【同種純化】基於前代[PURE_全端_G952_170]進化

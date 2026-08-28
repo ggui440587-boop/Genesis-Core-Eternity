@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G2973_306
+Category: AI模型與機器學習
+Generation: 2973
+Score: 73821
+Info: 【同種純化】基於前代[PURE_AI_G2972_512]進化

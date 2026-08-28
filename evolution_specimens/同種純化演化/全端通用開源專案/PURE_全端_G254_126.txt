@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G254_126
+Category: 全端通用開源專案
+Generation: 254
+Score: 6676
+Info: 【同種純化】基於前代[PURE_全端_G253_257]進化

@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G695_118
+Category: 全端通用開源專案
+Generation: 695
+Score: 17859
+Info: 【同種純化】基於前代[PURE_全端_G694_153]進化

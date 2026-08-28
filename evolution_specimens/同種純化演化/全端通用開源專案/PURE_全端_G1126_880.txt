@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G1126_880
+Category: 全端通用開源專案
+Generation: 1126
+Score: 28623
+Info: 【同種純化】基於前代[PURE_全端_G1125_277]進化

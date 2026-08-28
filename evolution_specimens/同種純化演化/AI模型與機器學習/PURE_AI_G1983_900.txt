@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G1983_900
+Category: AI模型與機器學習
+Generation: 1983
+Score: 49089
+Info: 【同種純化】基於前代[PURE_AI_G1982_882]進化

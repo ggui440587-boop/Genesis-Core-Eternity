@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G26_338
+Category: 全端通用開源專案
+Generation: 26
+Score: 745
+Info: 【同種純化】基於前代[PURE_全端_G25_870]進化

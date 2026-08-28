@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G1715_422
+Category: 全端通用開源專案
+Generation: 1715
+Score: 43300
+Info: 【同種純化】基於前代[PURE_全端_G1714_471]進化

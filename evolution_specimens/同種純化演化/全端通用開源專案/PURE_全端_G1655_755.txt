@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G1655_755
+Category: 全端通用開源專案
+Generation: 1655
+Score: 41761
+Info: 【同種純化】基於前代[PURE_全端_G1654_787]進化

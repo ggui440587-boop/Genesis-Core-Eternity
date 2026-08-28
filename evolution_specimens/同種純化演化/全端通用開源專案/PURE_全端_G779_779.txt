@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G779_779
+Category: 全端通用開源專案
+Generation: 779
+Score: 20050
+Info: 【同種純化】基於前代[PURE_全端_G778_711]進化

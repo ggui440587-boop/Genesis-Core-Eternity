@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G546_680
+Category: 高效能系統與Rust
+Generation: 546
+Score: 14005
+Info: 【同種純化】基於前代[PURE_高效_G545_830]進化

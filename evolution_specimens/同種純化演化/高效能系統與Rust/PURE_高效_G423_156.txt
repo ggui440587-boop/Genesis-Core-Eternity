@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G423_156
+Category: 高效能系統與Rust
+Generation: 423
+Score: 10682
+Info: 【同種純化】基於前代[PURE_高效_G422_574]進化

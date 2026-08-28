@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G2599_248
+Category: 全端通用開源專案
+Generation: 2599
+Score: 65793
+Info: 【同種純化】基於前代[PURE_全端_G2598_508]進化

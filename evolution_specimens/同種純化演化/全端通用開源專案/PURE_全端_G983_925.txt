@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G983_925
+Category: 全端通用開源專案
+Generation: 983
+Score: 25016
+Info: 【同種純化】基於前代[PURE_全端_G982_933]進化

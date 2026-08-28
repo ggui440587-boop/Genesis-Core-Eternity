@@ -1,0 +1,4 @@
+Hybrid Specimen: HYBRID_OMEGA_2050
+Score: 253449
+Parents: GH_litellm + HF_Qwen_Qwen3.8-Flash-Next
+Info: 【混合神獸】融合最強[HYBRID_OMEGA_7814]與異源[GH_litellm]

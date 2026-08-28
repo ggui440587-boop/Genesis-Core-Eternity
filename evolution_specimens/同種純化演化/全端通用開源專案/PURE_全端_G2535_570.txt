@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G2535_570
+Category: 全端通用開源專案
+Generation: 2535
+Score: 64163
+Info: 【同種純化】基於前代[PURE_全端_G2534_319]進化

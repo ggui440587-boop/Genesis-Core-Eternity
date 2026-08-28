@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G1895_550
+Category: AI模型與機器學習
+Generation: 1895
+Score: 46932
+Info: 【同種純化】基於前代[PURE_AI_G1894_520]進化

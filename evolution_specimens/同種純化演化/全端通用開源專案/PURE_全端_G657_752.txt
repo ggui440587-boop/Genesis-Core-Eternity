@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G657_752
+Category: 全端通用開源專案
+Generation: 657
+Score: 16797
+Info: 【同種純化】基於前代[PURE_全端_G656_448]進化

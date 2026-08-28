@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G393_758
+Category: 高效能系統與Rust
+Generation: 393
+Score: 9993
+Info: 【同種純化】基於前代[PURE_高效_G392_758]進化

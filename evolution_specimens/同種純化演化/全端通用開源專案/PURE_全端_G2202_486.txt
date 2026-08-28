@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G2202_486
+Category: 全端通用開源專案
+Generation: 2202
+Score: 55510
+Info: 【同種純化】基於前代[PURE_全端_G2201_498]進化

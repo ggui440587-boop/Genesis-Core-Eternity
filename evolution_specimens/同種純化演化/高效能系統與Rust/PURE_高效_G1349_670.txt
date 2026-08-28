@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G1349_670
+Category: 高效能系統與Rust
+Generation: 1349
+Score: 33900
+Info: 【同種純化】基於前代[PURE_高效_G1348_826]進化

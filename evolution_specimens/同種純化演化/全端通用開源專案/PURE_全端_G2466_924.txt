@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G2466_924
+Category: 全端通用開源專案
+Generation: 2466
+Score: 62365
+Info: 【同種純化】基於前代[PURE_全端_G2465_299]進化

@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G2080_273
+Category: 全端通用開源專案
+Generation: 2080
+Score: 52422
+Info: 【同種純化】基於前代[PURE_全端_G2079_401]進化

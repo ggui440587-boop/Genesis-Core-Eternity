@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G1005_153
+Category: 全端通用開源專案
+Generation: 1005
+Score: 25548
+Info: 【同種純化】基於前代[PURE_全端_G1004_275]進化

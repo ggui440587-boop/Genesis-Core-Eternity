@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G2110_248
+Category: AI模型與機器學習
+Generation: 2110
+Score: 52335
+Info: 【同種純化】基於前代[PURE_AI_G2109_270]進化

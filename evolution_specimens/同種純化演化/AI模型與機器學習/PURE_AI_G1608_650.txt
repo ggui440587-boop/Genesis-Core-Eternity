@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G1608_650
+Category: AI模型與機器學習
+Generation: 1608
+Score: 39980
+Info: 【同種純化】基於前代[PURE_AI_G1607_362]進化

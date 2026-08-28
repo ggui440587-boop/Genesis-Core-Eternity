@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G2055_887
+Category: AI模型與機器學習
+Generation: 2055
+Score: 50977
+Info: 【同種純化】基於前代[PURE_AI_G2054_842]進化

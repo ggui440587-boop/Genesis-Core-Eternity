@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G803_402
+Category: 高效能系統與Rust
+Generation: 803
+Score: 20405
+Info: 【同種純化】基於前代[PURE_高效_G802_127]進化

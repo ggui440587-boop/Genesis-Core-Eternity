@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G834_724
+Category: AI模型與機器學習
+Generation: 834
+Score: 20802
+Info: 【同種純化】基於前代[PURE_AI_G833_897]進化

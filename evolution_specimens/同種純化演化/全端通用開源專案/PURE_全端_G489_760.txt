@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G489_760
+Category: 全端通用開源專案
+Generation: 489
+Score: 12612
+Info: 【同種純化】基於前代[PURE_全端_G488_562]進化

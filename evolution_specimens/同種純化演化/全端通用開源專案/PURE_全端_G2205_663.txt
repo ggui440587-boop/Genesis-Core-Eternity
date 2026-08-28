@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G2205_663
+Category: 全端通用開源專案
+Generation: 2205
+Score: 55588
+Info: 【同種純化】基於前代[PURE_全端_G2204_846]進化

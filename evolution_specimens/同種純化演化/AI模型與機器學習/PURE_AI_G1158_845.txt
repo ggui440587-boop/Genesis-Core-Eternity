@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G1158_845
+Category: AI模型與機器學習
+Generation: 1158
+Score: 28642
+Info: 【同種純化】基於前代[PURE_AI_G1157_145]進化

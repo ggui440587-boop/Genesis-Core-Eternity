@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G1290_835
+Category: AI模型與機器學習
+Generation: 1290
+Score: 32017
+Info: 【同種純化】基於前代[PURE_AI_G1289_763]進化

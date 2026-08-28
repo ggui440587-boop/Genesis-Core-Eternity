@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G136_548
+Category: 高效能系統與Rust
+Generation: 136
+Score: 3512
+Info: 【同種純化】基於前代[PURE_高效_G135_964]進化

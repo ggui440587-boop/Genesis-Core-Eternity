@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G2842_706
+Category: AI模型與機器學習
+Generation: 2842
+Score: 70591
+Info: 【同種純化】基於前代[PURE_AI_G2841_996]進化

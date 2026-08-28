@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G1615_869
+Category: 全端通用開源專案
+Generation: 1615
+Score: 40747
+Info: 【同種純化】基於前代[PURE_全端_G1614_159]進化

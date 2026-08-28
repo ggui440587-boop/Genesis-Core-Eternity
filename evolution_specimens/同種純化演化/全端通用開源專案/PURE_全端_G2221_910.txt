@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G2221_910
+Category: 全端通用開源專案
+Generation: 2221
+Score: 56034
+Info: 【同種純化】基於前代[PURE_全端_G2220_259]進化

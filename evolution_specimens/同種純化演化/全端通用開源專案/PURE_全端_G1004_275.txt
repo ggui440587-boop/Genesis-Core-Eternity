@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G1004_275
+Category: 全端通用開源專案
+Generation: 1004
+Score: 25512
+Info: 【同種純化】基於前代[PURE_全端_G1003_912]進化

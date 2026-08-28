@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G630_262
+Category: 全端通用開源專案
+Generation: 630
+Score: 16202
+Info: 【同種純化】基於前代[PURE_全端_G629_558]進化

@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G1019_537
+Category: 全端通用開源專案
+Generation: 1019
+Score: 25904
+Info: 【同種純化】基於前代[PURE_全端_G1018_262]進化

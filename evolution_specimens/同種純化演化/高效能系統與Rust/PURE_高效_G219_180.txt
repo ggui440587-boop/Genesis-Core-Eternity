@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G219_180
+Category: 高效能系統與Rust
+Generation: 219
+Score: 5602
+Info: 【同種純化】基於前代[PURE_高效_G218_884]進化

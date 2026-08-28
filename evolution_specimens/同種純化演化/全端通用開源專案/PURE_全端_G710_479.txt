@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G710_479
+Category: 全端通用開源專案
+Generation: 710
+Score: 18263
+Info: 【同種純化】基於前代[PURE_全端_G709_193]進化

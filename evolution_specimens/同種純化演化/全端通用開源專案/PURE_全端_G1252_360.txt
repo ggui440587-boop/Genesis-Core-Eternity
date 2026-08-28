@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G1252_360
+Category: 全端通用開源專案
+Generation: 1252
+Score: 31698
+Info: 【同種純化】基於前代[PURE_全端_G1251_605]進化

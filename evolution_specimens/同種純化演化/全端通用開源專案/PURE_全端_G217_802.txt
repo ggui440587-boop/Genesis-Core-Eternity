@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G217_802
+Category: 全端通用開源專案
+Generation: 217
+Score: 5709
+Info: 【同種純化】基於前代[PURE_全端_G216_460]進化

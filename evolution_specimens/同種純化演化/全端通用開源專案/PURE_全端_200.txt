@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_200
+Category: 全端通用開源專案
+Generation: 1
+Score: 165
+Info: 【同種初始】源自 GitHub: https://github.com/pykeio/ort

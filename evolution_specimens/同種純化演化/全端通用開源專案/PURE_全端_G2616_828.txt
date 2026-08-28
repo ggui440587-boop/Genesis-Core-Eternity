@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G2616_828
+Category: 全端通用開源專案
+Generation: 2616
+Score: 66204
+Info: 【同種純化】基於前代[PURE_全端_G2615_261]進化

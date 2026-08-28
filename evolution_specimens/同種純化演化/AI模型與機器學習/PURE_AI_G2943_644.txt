@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G2943_644
+Category: AI模型與機器學習
+Generation: 2943
+Score: 73051
+Info: 【同種純化】基於前代[PURE_AI_G2942_330]進化

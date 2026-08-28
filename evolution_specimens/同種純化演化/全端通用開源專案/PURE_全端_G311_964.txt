@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G311_964
+Category: 全端通用開源專案
+Generation: 311
+Score: 8114
+Info: 【同種純化】基於前代[PURE_全端_G310_654]進化

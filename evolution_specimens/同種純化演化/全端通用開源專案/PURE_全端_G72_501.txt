@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G72_501
+Category: 全端通用開源專案
+Generation: 72
+Score: 1941
+Info: 【同種純化】基於前代[PURE_全端_G71_690]進化

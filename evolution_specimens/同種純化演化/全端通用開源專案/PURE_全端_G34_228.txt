@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G34_228
+Category: 全端通用開源專案
+Generation: 34
+Score: 950
+Info: 【同種純化】基於前代[PURE_全端_G33_988]進化

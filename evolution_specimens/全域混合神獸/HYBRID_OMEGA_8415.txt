@@ -1,0 +1,4 @@
+Hybrid Specimen: HYBRID_OMEGA_8415
+Score: 34016
+Parents: HF_unsloth_Qwen3.8-27B-GGUF + HF_zai-org_GLM-5.3-Flash
+Info: 【混合神獸】融合最強[HYBRID_OMEGA_8364]與異源[HF_unsloth_Qwen3.8-27B-GGUF]

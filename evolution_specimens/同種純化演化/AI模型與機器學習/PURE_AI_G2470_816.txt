@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G2470_816
+Category: AI模型與機器學習
+Generation: 2470
+Score: 61360
+Info: 【同種純化】基於前代[PURE_AI_G2469_893]進化

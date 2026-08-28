@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G424_907
+Category: 全端通用開源專案
+Generation: 424
+Score: 10961
+Info: 【同種純化】基於前代[PURE_全端_G423_887]進化

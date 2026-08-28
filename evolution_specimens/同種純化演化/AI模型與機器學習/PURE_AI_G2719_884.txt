@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G2719_884
+Category: AI模型與機器學習
+Generation: 2719
+Score: 67598
+Info: 【同種純化】基於前代[PURE_AI_G2718_596]進化

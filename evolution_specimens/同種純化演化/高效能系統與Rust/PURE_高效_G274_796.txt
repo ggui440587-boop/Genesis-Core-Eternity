@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G274_796
+Category: 高效能系統與Rust
+Generation: 274
+Score: 7025
+Info: 【同種純化】基於前代[PURE_高效_G273_265]進化

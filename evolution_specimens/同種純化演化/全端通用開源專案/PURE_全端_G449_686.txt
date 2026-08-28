@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G449_686
+Category: 全端通用開源專案
+Generation: 449
+Score: 11590
+Info: 【同種純化】基於前代[PURE_全端_G448_277]進化

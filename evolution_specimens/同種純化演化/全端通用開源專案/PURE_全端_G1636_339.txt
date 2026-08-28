@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G1636_339
+Category: 全端通用開源專案
+Generation: 1636
+Score: 41301
+Info: 【同種純化】基於前代[PURE_全端_G1635_112]進化

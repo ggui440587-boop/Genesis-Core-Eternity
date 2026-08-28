@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G2379_474
+Category: 全端通用開源專案
+Generation: 2379
+Score: 60143
+Info: 【同種純化】基於前代[PURE_全端_G2378_317]進化

@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G2290_794
+Category: 全端通用開源專案
+Generation: 2290
+Score: 57799
+Info: 【同種純化】基於前代[PURE_全端_G2289_436]進化

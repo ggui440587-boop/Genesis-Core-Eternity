@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G1041_828
+Category: AI模型與機器學習
+Generation: 1041
+Score: 25799
+Info: 【同種純化】基於前代[PURE_AI_G1040_717]進化

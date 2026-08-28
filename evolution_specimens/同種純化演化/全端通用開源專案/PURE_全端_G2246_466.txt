@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G2246_466
+Category: 全端通用開源專案
+Generation: 2246
+Score: 56711
+Info: 【同種純化】基於前代[PURE_全端_G2245_368]進化

@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G757_262
+Category: AI模型與機器學習
+Generation: 757
+Score: 18768
+Info: 【同種純化】基於前代[PURE_AI_G756_459]進化

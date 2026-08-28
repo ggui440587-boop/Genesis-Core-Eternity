@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G303_937
+Category: 全端通用開源專案
+Generation: 303
+Score: 7943
+Info: 【同種純化】基於前代[PURE_全端_G302_576]進化

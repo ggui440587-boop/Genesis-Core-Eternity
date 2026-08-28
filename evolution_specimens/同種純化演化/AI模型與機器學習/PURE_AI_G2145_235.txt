@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G2145_235
+Category: AI模型與機器學習
+Generation: 2145
+Score: 53168
+Info: 【同種純化】基於前代[PURE_AI_G2144_714]進化

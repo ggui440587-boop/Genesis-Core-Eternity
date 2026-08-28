@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G546_831
+Category: 全端通用開源專案
+Generation: 546
+Score: 13981
+Info: 【同種純化】基於前代[PURE_全端_G545_542]進化

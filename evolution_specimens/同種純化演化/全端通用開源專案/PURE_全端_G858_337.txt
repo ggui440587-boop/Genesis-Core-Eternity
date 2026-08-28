@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G858_337
+Category: 全端通用開源專案
+Generation: 858
+Score: 21975
+Info: 【同種純化】基於前代[PURE_全端_G857_511]進化

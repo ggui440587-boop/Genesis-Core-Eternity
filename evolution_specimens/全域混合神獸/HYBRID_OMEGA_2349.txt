@@ -1,0 +1,4 @@
+Hybrid Specimen: HYBRID_OMEGA_2349
+Score: 96533
+Parents: CR_ABC-ECS + HF_unsloth_Qwen3.8-27B-GGUF
+Info: 【混合神獸】融合最強[HYBRID_OMEGA_9187]與異源[CR_ABC-ECS]

@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G474_416
+Category: 全端通用開源專案
+Generation: 474
+Score: 12258
+Info: 【同種純化】基於前代[PURE_全端_G473_190]進化

@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G2954_564
+Category: 高效能系統與Rust
+Generation: 2954
+Score: 74049
+Info: 【同種純化】基於前代[PURE_高效_G2953_713]進化

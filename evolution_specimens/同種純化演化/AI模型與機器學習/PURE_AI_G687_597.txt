@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G687_597
+Category: AI模型與機器學習
+Generation: 687
+Score: 17030
+Info: 【同種純化】基於前代[PURE_AI_G686_955]進化

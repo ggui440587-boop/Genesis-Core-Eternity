@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G1089_836
+Category: 全端通用開源專案
+Generation: 1089
+Score: 27690
+Info: 【同種純化】基於前代[PURE_全端_G1088_530]進化

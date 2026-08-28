@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G364_415
+Category: 全端通用開源專案
+Generation: 364
+Score: 9500
+Info: 【同種純化】基於前代[PURE_全端_G363_913]進化

@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G1944_128
+Category: 全端通用開源專案
+Generation: 1944
+Score: 48968
+Info: 【同種純化】基於前代[PURE_全端_G1943_652]進化

@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G1001_127
+Category: 高效能系統與Rust
+Generation: 1001
+Score: 25267
+Info: 【同種純化】基於前代[PURE_高效_G1000_683]進化

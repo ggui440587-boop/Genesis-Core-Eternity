@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G156_125
+Category: 全端通用開源專案
+Generation: 156
+Score: 4140
+Info: 【同種純化】基於前代[PURE_全端_G155_743]進化

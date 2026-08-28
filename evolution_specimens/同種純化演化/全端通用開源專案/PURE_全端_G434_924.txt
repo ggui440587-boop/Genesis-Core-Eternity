@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G434_924
+Category: 全端通用開源專案
+Generation: 434
+Score: 11140
+Info: 【同種純化】基於前代[PURE_全端_G433_356]進化

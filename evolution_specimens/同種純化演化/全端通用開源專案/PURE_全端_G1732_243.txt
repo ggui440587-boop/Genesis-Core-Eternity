@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G1732_243
+Category: 全端通用開源專案
+Generation: 1732
+Score: 43735
+Info: 【同種純化】基於前代[PURE_全端_G1731_859]進化

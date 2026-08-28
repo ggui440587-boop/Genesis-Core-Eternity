@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G839_159
+Category: 高效能系統與Rust
+Generation: 839
+Score: 21342
+Info: 【同種純化】基於前代[PURE_高效_G838_537]進化

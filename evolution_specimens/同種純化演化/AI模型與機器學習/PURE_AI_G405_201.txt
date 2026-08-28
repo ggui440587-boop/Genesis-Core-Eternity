@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G405_201
+Category: AI模型與機器學習
+Generation: 405
+Score: 10130
+Info: 【同種純化】基於前代[PURE_AI_G404_600]進化

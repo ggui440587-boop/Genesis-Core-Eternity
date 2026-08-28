@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G980_409
+Category: 全端通用開源專案
+Generation: 980
+Score: 24947
+Info: 【同種純化】基於前代[PURE_全端_G979_424]進化

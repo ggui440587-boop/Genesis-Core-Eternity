@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G1327_445
+Category: 全端通用開源專案
+Generation: 1327
+Score: 33442
+Info: 【同種純化】基於前代[PURE_全端_G1326_584]進化

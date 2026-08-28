@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G602_328
+Category: 全端通用開源專案
+Generation: 602
+Score: 15460
+Info: 【同種純化】基於前代[PURE_全端_G601_691]進化

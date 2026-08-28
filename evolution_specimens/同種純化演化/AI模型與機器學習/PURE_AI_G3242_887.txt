@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G3242_887
+Category: AI模型與機器學習
+Generation: 3242
+Score: 80790
+Info: 【同種純化】基於前代[PURE_AI_G3241_491]進化

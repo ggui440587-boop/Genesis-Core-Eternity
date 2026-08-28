@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G200_531
+Category: AI模型與機器學習
+Generation: 200
+Score: 4972
+Info: 【同種純化】基於前代[PURE_AI_G199_716]進化

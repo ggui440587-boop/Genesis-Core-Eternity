@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G294_239
+Category: 全端通用開源專案
+Generation: 294
+Score: 7709
+Info: 【同種純化】基於前代[PURE_全端_G293_101]進化

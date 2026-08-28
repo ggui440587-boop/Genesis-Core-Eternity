@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G2089_768
+Category: 高效能系統與Rust
+Generation: 2089
+Score: 52414
+Info: 【同種純化】基於前代[PURE_高效_G2088_117]進化

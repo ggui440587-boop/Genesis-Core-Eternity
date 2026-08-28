@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G243_451
+Category: 全端通用開源專案
+Generation: 243
+Score: 6398
+Info: 【同種純化】基於前代[PURE_全端_G242_773]進化

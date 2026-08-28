@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G3830_160
+Category: AI模型與機器學習
+Generation: 3830
+Score: 95820
+Info: 【同種純化】基於前代[PURE_AI_G3829_155]進化

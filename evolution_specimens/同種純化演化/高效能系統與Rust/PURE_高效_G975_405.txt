@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G975_405
+Category: 高效能系統與Rust
+Generation: 975
+Score: 24613
+Info: 【同種純化】基於前代[PURE_高效_G974_827]進化

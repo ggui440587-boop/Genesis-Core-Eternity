@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G1192_579
+Category: 全端通用開源專案
+Generation: 1192
+Score: 30215
+Info: 【同種純化】基於前代[PURE_全端_G1191_819]進化

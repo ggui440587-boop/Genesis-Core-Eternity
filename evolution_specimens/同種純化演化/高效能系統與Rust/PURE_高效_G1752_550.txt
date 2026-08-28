@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G1752_550
+Category: 高效能系統與Rust
+Generation: 1752
+Score: 44003
+Info: 【同種純化】基於前代[PURE_高效_G1751_287]進化

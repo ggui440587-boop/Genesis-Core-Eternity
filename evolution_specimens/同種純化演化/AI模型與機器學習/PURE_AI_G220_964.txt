@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G220_964
+Category: AI模型與機器學習
+Generation: 220
+Score: 5490
+Info: 【同種純化】基於前代[PURE_AI_G219_868]進化

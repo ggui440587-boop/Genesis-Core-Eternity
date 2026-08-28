@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G19_132
+Category: AI模型與機器學習
+Generation: 19
+Score: 603
+Info: 【同種純化】基於前代[PURE_AI_G18_215]進化

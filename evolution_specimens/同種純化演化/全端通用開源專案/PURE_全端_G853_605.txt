@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G853_605
+Category: 全端通用開源專案
+Generation: 853
+Score: 21851
+Info: 【同種純化】基於前代[PURE_全端_G852_337]進化

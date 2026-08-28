@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G50_180
+Category: 高效能系統與Rust
+Generation: 50
+Score: 1392
+Info: 【同種純化】基於前代[PURE_高效_G49_185]進化

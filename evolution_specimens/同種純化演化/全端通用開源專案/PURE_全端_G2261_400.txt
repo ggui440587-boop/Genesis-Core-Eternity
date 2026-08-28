@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G2261_400
+Category: 全端通用開源專案
+Generation: 2261
+Score: 57112
+Info: 【同種純化】基於前代[PURE_全端_G2260_328]進化

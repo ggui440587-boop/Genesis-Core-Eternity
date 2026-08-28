@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G2628_420
+Category: 全端通用開源專案
+Generation: 2628
+Score: 66498
+Info: 【同種純化】基於前代[PURE_全端_G2627_434]進化

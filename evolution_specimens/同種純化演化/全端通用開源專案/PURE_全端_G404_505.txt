@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G404_505
+Category: 全端通用開源專案
+Generation: 404
+Score: 10467
+Info: 【同種純化】基於前代[PURE_全端_G403_351]進化

@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G2203_507
+Category: AI模型與機器學習
+Generation: 2203
+Score: 54463
+Info: 【同種純化】基於前代[PURE_AI_G2202_405]進化

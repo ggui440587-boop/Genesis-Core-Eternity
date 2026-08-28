@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G2014_735
+Category: AI模型與機器學習
+Generation: 2014
+Score: 49921
+Info: 【同種純化】基於前代[PURE_AI_G2013_725]進化

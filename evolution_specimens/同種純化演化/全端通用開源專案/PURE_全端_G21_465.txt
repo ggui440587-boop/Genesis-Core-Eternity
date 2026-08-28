@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G21_465
+Category: 全端通用開源專案
+Generation: 21
+Score: 641
+Info: 【同種純化】基於前代[PURE_全端_G20_255]進化

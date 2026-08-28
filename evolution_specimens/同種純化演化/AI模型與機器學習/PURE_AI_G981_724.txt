@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G981_724
+Category: AI模型與機器學習
+Generation: 981
+Score: 24355
+Info: 【同種純化】基於前代[PURE_AI_G980_915]進化

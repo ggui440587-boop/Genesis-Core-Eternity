@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G2659_855
+Category: 全端通用開源專案
+Generation: 2659
+Score: 67309
+Info: 【同種純化】基於前代[PURE_全端_G2658_954]進化

@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G3054_255
+Category: 高效能系統與Rust
+Generation: 3054
+Score: 76545
+Info: 【同種純化】基於前代[PURE_高效_G3053_449]進化

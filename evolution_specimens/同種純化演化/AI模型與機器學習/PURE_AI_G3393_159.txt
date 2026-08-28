@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G3393_159
+Category: AI模型與機器學習
+Generation: 3393
+Score: 84387
+Info: 【同種純化】基於前代[PURE_AI_G3392_179]進化

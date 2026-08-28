@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G569_164
+Category: 全端通用開源專案
+Generation: 569
+Score: 14585
+Info: 【同種純化】基於前代[PURE_全端_G568_646]進化

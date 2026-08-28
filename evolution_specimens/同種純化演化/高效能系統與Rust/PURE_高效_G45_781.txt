@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G45_781
+Category: 高效能系統與Rust
+Generation: 45
+Score: 1290
+Info: 【同種純化】基於前代[PURE_高效_G44_608]進化

@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G851_754
+Category: 高效能系統與Rust
+Generation: 851
+Score: 21635
+Info: 【同種純化】基於前代[PURE_高效_G850_453]進化

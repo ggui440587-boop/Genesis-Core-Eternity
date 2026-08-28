@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G815_775
+Category: 全端通用開源專案
+Generation: 815
+Score: 20940
+Info: 【同種純化】基於前代[PURE_全端_G814_500]進化

@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G272_181
+Category: 全端通用開源專案
+Generation: 272
+Score: 7123
+Info: 【同種純化】基於前代[PURE_全端_G271_965]進化

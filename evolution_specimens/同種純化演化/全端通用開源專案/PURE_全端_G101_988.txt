@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G101_988
+Category: 全端通用開源專案
+Generation: 101
+Score: 2697
+Info: 【同種純化】基於前代[PURE_全端_G100_326]進化

@@ -1,0 +1,4 @@
+Hybrid Specimen: HYBRID_OMEGA_3640
+Score: 304627
+Parents: HF_Qwen_Qwen3.8-Flash-Next + GH_mirrord
+Info: 【混合神獸】融合最強[HYBRID_OMEGA_1829]與異源[HF_Qwen_Qwen3.8-Flash-Next]

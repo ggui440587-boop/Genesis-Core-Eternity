@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G2921_466
+Category: AI模型與機器學習
+Generation: 2921
+Score: 72511
+Info: 【同種純化】基於前代[PURE_AI_G2920_875]進化

@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G2108_902
+Category: AI模型與機器學習
+Generation: 2108
+Score: 52294
+Info: 【同種純化】基於前代[PURE_AI_G2107_989]進化

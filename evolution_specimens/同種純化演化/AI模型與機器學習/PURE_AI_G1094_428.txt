@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G1094_428
+Category: AI模型與機器學習
+Generation: 1094
+Score: 27124
+Info: 【同種純化】基於前代[PURE_AI_G1093_204]進化

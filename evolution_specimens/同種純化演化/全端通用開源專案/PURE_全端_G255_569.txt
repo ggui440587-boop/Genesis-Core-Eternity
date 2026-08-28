@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G255_569
+Category: 全端通用開源專案
+Generation: 255
+Score: 6691
+Info: 【同種純化】基於前代[PURE_全端_G254_126]進化

@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G3806_171
+Category: AI模型與機器學習
+Generation: 3806
+Score: 95270
+Info: 【同種純化】基於前代[PURE_AI_G3805_351]進化

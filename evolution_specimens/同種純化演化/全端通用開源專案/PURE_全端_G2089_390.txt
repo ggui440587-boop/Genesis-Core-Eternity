@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G2089_390
+Category: 全端通用開源專案
+Generation: 2089
+Score: 52670
+Info: 【同種純化】基於前代[PURE_全端_G2088_462]進化

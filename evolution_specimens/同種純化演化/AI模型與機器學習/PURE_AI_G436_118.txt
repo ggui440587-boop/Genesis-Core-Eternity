@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G436_118
+Category: AI模型與機器學習
+Generation: 436
+Score: 10855
+Info: 【同種純化】基於前代[PURE_AI_G435_324]進化

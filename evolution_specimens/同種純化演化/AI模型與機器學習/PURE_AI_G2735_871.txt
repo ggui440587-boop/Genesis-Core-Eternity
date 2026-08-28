@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G2735_871
+Category: AI模型與機器學習
+Generation: 2735
+Score: 68005
+Info: 【同種純化】基於前代[PURE_AI_G2734_529]進化

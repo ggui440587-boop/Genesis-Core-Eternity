@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G33_988
+Category: 全端通用開源專案
+Generation: 33
+Score: 940
+Info: 【同種純化】基於前代[PURE_全端_G32_972]進化

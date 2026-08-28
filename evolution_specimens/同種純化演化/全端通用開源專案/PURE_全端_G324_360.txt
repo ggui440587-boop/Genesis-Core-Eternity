@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G324_360
+Category: 全端通用開源專案
+Generation: 324
+Score: 8441
+Info: 【同種純化】基於前代[PURE_全端_G323_999]進化

@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G580_417
+Category: 全端通用開源專案
+Generation: 580
+Score: 14907
+Info: 【同種純化】基於前代[PURE_全端_G579_839]進化

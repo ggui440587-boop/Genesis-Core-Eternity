@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G2427_867
+Category: 高效能系統與Rust
+Generation: 2427
+Score: 60694
+Info: 【同種純化】基於前代[PURE_高效_G2426_807]進化

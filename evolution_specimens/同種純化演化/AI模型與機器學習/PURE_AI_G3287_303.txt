@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G3287_303
+Category: AI模型與機器學習
+Generation: 3287
+Score: 81866
+Info: 【同種純化】基於前代[PURE_AI_G3286_337]進化

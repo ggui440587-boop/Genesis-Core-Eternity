@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G1039_553
+Category: 全端通用開源專案
+Generation: 1039
+Score: 26420
+Info: 【同種純化】基於前代[PURE_全端_G1038_190]進化

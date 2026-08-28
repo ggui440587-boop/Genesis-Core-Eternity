@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G230_624
+Category: 高效能系統與Rust
+Generation: 230
+Score: 5866
+Info: 【同種純化】基於前代[PURE_高效_G229_462]進化

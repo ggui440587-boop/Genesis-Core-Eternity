@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G1725_397
+Category: 全端通用開源專案
+Generation: 1725
+Score: 43583
+Info: 【同種純化】基於前代[PURE_全端_G1724_276]進化

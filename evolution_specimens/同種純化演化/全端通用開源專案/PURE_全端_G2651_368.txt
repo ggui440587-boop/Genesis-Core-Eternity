@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G2651_368
+Category: 全端通用開源專案
+Generation: 2651
+Score: 67092
+Info: 【同種純化】基於前代[PURE_全端_G2650_794]進化

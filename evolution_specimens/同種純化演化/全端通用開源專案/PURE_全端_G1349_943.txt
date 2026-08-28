@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G1349_943
+Category: 全端通用開源專案
+Generation: 1349
+Score: 33979
+Info: 【同種純化】基於前代[PURE_全端_G1348_321]進化

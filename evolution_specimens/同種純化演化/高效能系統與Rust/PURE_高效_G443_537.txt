@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G443_537
+Category: 高效能系統與Rust
+Generation: 443
+Score: 11271
+Info: 【同種純化】基於前代[PURE_高效_G442_569]進化

@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G119_548
+Category: AI模型與機器學習
+Generation: 119
+Score: 2963
+Info: 【同種純化】基於前代[PURE_AI_G118_100]進化

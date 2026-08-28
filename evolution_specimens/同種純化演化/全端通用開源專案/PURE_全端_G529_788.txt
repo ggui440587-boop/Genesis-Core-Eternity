@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G529_788
+Category: 全端通用開源專案
+Generation: 529
+Score: 13600
+Info: 【同種純化】基於前代[PURE_全端_G528_932]進化

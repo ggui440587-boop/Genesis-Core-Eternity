@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G1526_199
+Category: 全端通用開源專案
+Generation: 1526
+Score: 38479
+Info: 【同種純化】基於前代[PURE_全端_G1525_238]進化

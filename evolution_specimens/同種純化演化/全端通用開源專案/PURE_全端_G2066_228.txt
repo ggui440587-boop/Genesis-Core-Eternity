@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G2066_228
+Category: 全端通用開源專案
+Generation: 2066
+Score: 52067
+Info: 【同種純化】基於前代[PURE_全端_G2065_578]進化

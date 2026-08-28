@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G2465_173
+Category: AI模型與機器學習
+Generation: 2465
+Score: 61227
+Info: 【同種純化】基於前代[PURE_AI_G2464_745]進化

@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G725_300
+Category: 全端通用開源專案
+Generation: 725
+Score: 18682
+Info: 【同種純化】基於前代[PURE_全端_G724_139]進化

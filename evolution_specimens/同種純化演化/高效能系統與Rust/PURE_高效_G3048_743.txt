@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G3048_743
+Category: 高效能系統與Rust
+Generation: 3048
+Score: 76378
+Info: 【同種純化】基於前代[PURE_高效_G3047_157]進化

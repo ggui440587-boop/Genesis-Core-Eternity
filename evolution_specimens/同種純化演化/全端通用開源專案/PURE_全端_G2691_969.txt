@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G2691_969
+Category: 全端通用開源專案
+Generation: 2691
+Score: 68138
+Info: 【同種純化】基於前代[PURE_全端_G2690_207]進化

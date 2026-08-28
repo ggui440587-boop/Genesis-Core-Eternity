@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G2307_105
+Category: AI模型與機器學習
+Generation: 2307
+Score: 57273
+Info: 【同種純化】基於前代[PURE_AI_G2306_478]進化

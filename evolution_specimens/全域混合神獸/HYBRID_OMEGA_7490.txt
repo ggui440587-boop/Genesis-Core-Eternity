@@ -1,0 +1,4 @@
+Hybrid Specimen: HYBRID_OMEGA_7490
+Score: 3169
+Parents: GH_rmux + CR_A-Mazed
+Info: 【混合神獸】融合最強[HYBRID_OMEGA_9817]與異源[GH_rmux]

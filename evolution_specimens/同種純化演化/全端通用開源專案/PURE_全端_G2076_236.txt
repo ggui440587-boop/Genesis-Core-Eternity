@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G2076_236
+Category: 全端通用開源專案
+Generation: 2076
+Score: 52317
+Info: 【同種純化】基於前代[PURE_全端_G2075_357]進化

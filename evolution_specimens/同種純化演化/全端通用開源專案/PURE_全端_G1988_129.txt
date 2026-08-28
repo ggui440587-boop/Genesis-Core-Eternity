@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G1988_129
+Category: 全端通用開源專案
+Generation: 1988
+Score: 50121
+Info: 【同種純化】基於前代[PURE_全端_G1987_860]進化

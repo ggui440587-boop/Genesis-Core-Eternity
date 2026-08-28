@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G24_645
+Category: 全端通用開源專案
+Generation: 24
+Score: 709
+Info: 【同種純化】基於前代[PURE_全端_G23_768]進化

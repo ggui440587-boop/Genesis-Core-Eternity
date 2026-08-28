@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G206_388
+Category: AI模型與機器學習
+Generation: 206
+Score: 5112
+Info: 【同種純化】基於前代[PURE_AI_G205_265]進化

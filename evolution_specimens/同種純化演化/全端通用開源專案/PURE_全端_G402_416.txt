@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G402_416
+Category: 全端通用開源專案
+Generation: 402
+Score: 10422
+Info: 【同種純化】基於前代[PURE_全端_G401_333]進化

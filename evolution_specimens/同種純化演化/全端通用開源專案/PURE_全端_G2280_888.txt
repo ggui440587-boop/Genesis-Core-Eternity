@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G2280_888
+Category: 全端通用開源專案
+Generation: 2280
+Score: 57572
+Info: 【同種純化】基於前代[PURE_全端_G2279_337]進化

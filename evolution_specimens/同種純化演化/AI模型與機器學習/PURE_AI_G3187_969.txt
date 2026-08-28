@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G3187_969
+Category: AI模型與機器學習
+Generation: 3187
+Score: 79388
+Info: 【同種純化】基於前代[PURE_AI_G3186_367]進化

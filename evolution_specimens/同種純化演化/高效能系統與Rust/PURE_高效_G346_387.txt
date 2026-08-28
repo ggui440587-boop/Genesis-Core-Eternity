@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G346_387
+Category: 高效能系統與Rust
+Generation: 346
+Score: 8830
+Info: 【同種純化】基於前代[PURE_高效_G345_346]進化

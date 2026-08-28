@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G3163_230
+Category: AI模型與機器學習
+Generation: 3163
+Score: 78766
+Info: 【同種純化】基於前代[PURE_AI_G3162_488]進化

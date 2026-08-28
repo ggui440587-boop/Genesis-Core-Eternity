@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G412_240
+Category: 高效能系統與Rust
+Generation: 412
+Score: 10450
+Info: 【同種純化】基於前代[PURE_高效_G411_355]進化

@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G2135_569
+Category: 全端通用開源專案
+Generation: 2135
+Score: 53793
+Info: 【同種純化】基於前代[PURE_全端_G2134_633]進化

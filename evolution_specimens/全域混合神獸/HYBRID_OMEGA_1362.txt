@@ -1,0 +1,4 @@
+Hybrid Specimen: HYBRID_OMEGA_1362
+Score: 62147
+Parents: CR_A-Mazed + HF_zai-org_GLM-5.3-Flash
+Info: 【混合神獸】融合最強[HYBRID_OMEGA_2247]與異源[CR_A-Mazed]

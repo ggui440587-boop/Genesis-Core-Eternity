@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G27_169
+Category: 全端通用開源專案
+Generation: 27
+Score: 771
+Info: 【同種純化】基於前代[PURE_全端_G26_338]進化

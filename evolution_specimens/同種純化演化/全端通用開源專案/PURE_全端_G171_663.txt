@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G171_663
+Category: 全端通用開源專案
+Generation: 171
+Score: 4600
+Info: 【同種純化】基於前代[PURE_全端_G170_535]進化

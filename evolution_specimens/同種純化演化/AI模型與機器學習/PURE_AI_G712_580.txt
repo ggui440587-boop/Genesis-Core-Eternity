@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G712_580
+Category: AI模型與機器學習
+Generation: 712
+Score: 17680
+Info: 【同種純化】基於前代[PURE_AI_G711_414]進化

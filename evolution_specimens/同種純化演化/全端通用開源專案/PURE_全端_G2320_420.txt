@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G2320_420
+Category: 全端通用開源專案
+Generation: 2320
+Score: 58581
+Info: 【同種純化】基於前代[PURE_全端_G2319_767]進化

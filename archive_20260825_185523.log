@@ -1,0 +1,2 @@
+2026-08-25 18:43:27,928 [ERROR] Git 同步失敗: Command '['git', 'push']' returned non-zero exit status 128.
+2026-08-25 18:44:00,392 [ERROR] Git 同步失敗: Command '['git', 'push']' returned non-zero exit status 128.

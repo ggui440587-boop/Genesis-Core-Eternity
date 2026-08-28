@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G2243_478
+Category: 全端通用開源專案
+Generation: 2243
+Score: 56644
+Info: 【同種純化】基於前代[PURE_全端_G2242_202]進化

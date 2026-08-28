@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G299_103
+Category: 全端通用開源專案
+Generation: 299
+Score: 7841
+Info: 【同種純化】基於前代[PURE_全端_G298_776]進化

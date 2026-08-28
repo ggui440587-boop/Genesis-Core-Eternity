@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G1589_609
+Category: 全端通用開源專案
+Generation: 1589
+Score: 40137
+Info: 【同種純化】基於前代[PURE_全端_G1588_827]進化

@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G1582_853
+Category: 全端通用開源專案
+Generation: 1582
+Score: 39960
+Info: 【同種純化】基於前代[PURE_全端_G1581_927]進化

@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G2239_608
+Category: 全端通用開源專案
+Generation: 2239
+Score: 56541
+Info: 【同種純化】基於前代[PURE_全端_G2238_142]進化

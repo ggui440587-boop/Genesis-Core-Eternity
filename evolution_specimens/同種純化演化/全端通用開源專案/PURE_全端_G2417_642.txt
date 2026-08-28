@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G2417_642
+Category: 全端通用開源專案
+Generation: 2417
+Score: 61151
+Info: 【同種純化】基於前代[PURE_全端_G2416_390]進化

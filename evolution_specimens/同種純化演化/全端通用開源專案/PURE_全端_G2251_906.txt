@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G2251_906
+Category: 全端通用開源專案
+Generation: 2251
+Score: 56845
+Info: 【同種純化】基於前代[PURE_全端_G2250_111]進化

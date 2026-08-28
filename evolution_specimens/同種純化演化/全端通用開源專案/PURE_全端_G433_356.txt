@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G433_356
+Category: 全端通用開源專案
+Generation: 433
+Score: 11110
+Info: 【同種純化】基於前代[PURE_全端_G432_967]進化

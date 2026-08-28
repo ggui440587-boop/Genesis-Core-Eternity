@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G2130_918
+Category: AI模型與機器學習
+Generation: 2130
+Score: 52757
+Info: 【同種純化】基於前代[PURE_AI_G2129_261]進化

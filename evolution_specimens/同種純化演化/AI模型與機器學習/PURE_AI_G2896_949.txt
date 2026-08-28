@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G2896_949
+Category: AI模型與機器學習
+Generation: 2896
+Score: 71874
+Info: 【同種純化】基於前代[PURE_AI_G2895_523]進化

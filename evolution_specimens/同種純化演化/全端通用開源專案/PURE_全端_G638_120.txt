@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G638_120
+Category: 全端通用開源專案
+Generation: 638
+Score: 16372
+Info: 【同種純化】基於前代[PURE_全端_G637_641]進化

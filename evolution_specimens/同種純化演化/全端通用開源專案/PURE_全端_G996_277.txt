@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G996_277
+Category: 全端通用開源專案
+Generation: 996
+Score: 25324
+Info: 【同種純化】基於前代[PURE_全端_G995_152]進化

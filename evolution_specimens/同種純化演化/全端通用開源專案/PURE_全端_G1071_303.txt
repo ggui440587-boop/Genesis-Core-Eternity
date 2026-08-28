@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G1071_303
+Category: 全端通用開源專案
+Generation: 1071
+Score: 27248
+Info: 【同種純化】基於前代[PURE_全端_G1070_577]進化

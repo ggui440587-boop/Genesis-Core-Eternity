@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G2352_249
+Category: 全端通用開源專案
+Generation: 2352
+Score: 59410
+Info: 【同種純化】基於前代[PURE_全端_G2351_176]進化

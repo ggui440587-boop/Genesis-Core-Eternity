@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G2109_270
+Category: AI模型與機器學習
+Generation: 2109
+Score: 52311
+Info: 【同種純化】基於前代[PURE_AI_G2108_902]進化

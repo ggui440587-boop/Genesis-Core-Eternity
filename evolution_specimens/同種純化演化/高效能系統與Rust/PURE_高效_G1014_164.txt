@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G1014_164
+Category: 高效能系統與Rust
+Generation: 1014
+Score: 25530
+Info: 【同種純化】基於前代[PURE_高效_G1013_918]進化

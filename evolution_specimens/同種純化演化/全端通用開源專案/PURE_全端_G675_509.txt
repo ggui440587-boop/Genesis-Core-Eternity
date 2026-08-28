@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G675_509
+Category: 全端通用開源專案
+Generation: 675
+Score: 17310
+Info: 【同種純化】基於前代[PURE_全端_G674_212]進化

@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G408_380
+Category: 全端通用開源專案
+Generation: 408
+Score: 10590
+Info: 【同種純化】基於前代[PURE_全端_G407_168]進化

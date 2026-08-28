@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G558_838
+Category: 高效能系統與Rust
+Generation: 558
+Score: 14309
+Info: 【同種純化】基於前代[PURE_高效_G557_278]進化

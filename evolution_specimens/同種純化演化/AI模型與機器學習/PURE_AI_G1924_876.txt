@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G1924_876
+Category: AI模型與機器學習
+Generation: 1924
+Score: 47718
+Info: 【同種純化】基於前代[PURE_AI_G1923_225]進化

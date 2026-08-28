@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G681_463
+Category: 全端通用開源專案
+Generation: 681
+Score: 17455
+Info: 【同種純化】基於前代[PURE_全端_G680_175]進化

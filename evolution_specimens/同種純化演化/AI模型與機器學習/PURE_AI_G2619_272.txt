@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G2619_272
+Category: AI模型與機器學習
+Generation: 2619
+Score: 65127
+Info: 【同種純化】基於前代[PURE_AI_G2618_940]進化

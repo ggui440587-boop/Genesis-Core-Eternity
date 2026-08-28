@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G172_835
+Category: AI模型與機器學習
+Generation: 172
+Score: 4280
+Info: 【同種純化】基於前代[PURE_AI_G171_921]進化

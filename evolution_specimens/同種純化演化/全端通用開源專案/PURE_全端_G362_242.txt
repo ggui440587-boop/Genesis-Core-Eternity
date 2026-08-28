@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G362_242
+Category: 全端通用開源專案
+Generation: 362
+Score: 9456
+Info: 【同種純化】基於前代[PURE_全端_G361_771]進化

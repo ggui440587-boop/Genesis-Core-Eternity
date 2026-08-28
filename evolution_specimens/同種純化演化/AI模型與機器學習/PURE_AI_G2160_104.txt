@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G2160_104
+Category: AI模型與機器學習
+Generation: 2160
+Score: 53534
+Info: 【同種純化】基於前代[PURE_AI_G2159_755]進化

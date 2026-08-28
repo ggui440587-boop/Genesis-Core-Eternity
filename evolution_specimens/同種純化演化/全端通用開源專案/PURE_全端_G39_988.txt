@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G39_988
+Category: 全端通用開源專案
+Generation: 39
+Score: 1051
+Info: 【同種純化】基於前代[PURE_全端_G38_646]進化

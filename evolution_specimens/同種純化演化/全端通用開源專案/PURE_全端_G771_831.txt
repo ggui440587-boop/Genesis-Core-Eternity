@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G771_831
+Category: 全端通用開源專案
+Generation: 771
+Score: 19844
+Info: 【同種純化】基於前代[PURE_全端_G770_383]進化

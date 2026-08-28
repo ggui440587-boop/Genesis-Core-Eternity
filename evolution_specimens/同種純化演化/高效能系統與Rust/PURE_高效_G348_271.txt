@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G348_271
+Category: 高效能系統與Rust
+Generation: 348
+Score: 8878
+Info: 【同種純化】基於前代[PURE_高效_G347_864]進化

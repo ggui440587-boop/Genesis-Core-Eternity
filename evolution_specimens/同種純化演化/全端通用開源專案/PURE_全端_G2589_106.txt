@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G2589_106
+Category: 全端通用開源專案
+Generation: 2589
+Score: 65568
+Info: 【同種純化】基於前代[PURE_全端_G2588_901]進化

@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G1955_429
+Category: 全端通用開源專案
+Generation: 1955
+Score: 49318
+Info: 【同種純化】基於前代[PURE_全端_G1954_716]進化

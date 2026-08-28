@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G300_548
+Category: 全端通用開源專案
+Generation: 300
+Score: 7855
+Info: 【同種純化】基於前代[PURE_全端_G299_103]進化

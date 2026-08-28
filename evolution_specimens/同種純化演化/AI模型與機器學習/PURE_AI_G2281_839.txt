@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G2281_839
+Category: AI模型與機器學習
+Generation: 2281
+Score: 56556
+Info: 【同種純化】基於前代[PURE_AI_G2280_312]進化

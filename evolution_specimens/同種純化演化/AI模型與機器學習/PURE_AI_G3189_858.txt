@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G3189_858
+Category: AI模型與機器學習
+Generation: 3189
+Score: 79421
+Info: 【同種純化】基於前代[PURE_AI_G3188_289]進化

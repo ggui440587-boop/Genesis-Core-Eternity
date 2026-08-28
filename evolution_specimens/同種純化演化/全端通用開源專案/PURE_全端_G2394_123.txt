@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G2394_123
+Category: 全端通用開源專案
+Generation: 2394
+Score: 60526
+Info: 【同種純化】基於前代[PURE_全端_G2393_683]進化

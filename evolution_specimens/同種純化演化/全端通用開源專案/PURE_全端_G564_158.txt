@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G564_158
+Category: 全端通用開源專案
+Generation: 564
+Score: 14425
+Info: 【同種純化】基於前代[PURE_全端_G563_216]進化

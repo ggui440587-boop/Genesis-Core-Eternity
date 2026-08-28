@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G2885_802
+Category: AI模型與機器學習
+Generation: 2885
+Score: 71645
+Info: 【同種純化】基於前代[PURE_AI_G2884_648]進化

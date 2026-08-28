@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G700_634
+Category: 高效能系統與Rust
+Generation: 700
+Score: 17726
+Info: 【同種純化】基於前代[PURE_高效_G699_806]進化

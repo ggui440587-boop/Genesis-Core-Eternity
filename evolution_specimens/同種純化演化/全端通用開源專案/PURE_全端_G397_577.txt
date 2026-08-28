@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G397_577
+Category: 全端通用開源專案
+Generation: 397
+Score: 10321
+Info: 【同種純化】基於前代[PURE_全端_G396_907]進化

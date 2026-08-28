@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G1638_379
+Category: 全端通用開源專案
+Generation: 1638
+Score: 41343
+Info: 【同種純化】基於前代[PURE_全端_G1637_969]進化

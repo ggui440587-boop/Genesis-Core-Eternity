@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G1440_583
+Category: 全端通用開源專案
+Generation: 1440
+Score: 36230
+Info: 【同種純化】基於前代[PURE_全端_G1439_482]進化

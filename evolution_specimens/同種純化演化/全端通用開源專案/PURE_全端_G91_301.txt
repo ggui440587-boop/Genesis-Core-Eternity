@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G91_301
+Category: 全端通用開源專案
+Generation: 91
+Score: 2438
+Info: 【同種純化】基於前代[PURE_全端_G90_476]進化

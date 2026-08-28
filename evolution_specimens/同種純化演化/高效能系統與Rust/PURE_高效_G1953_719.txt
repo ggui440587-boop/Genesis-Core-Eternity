@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G1953_719
+Category: 高效能系統與Rust
+Generation: 1953
+Score: 49109
+Info: 【同種純化】基於前代[PURE_高效_G1952_458]進化

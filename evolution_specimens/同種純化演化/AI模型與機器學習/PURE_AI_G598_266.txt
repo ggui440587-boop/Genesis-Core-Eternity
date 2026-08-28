@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G598_266
+Category: AI模型與機器學習
+Generation: 598
+Score: 14844
+Info: 【同種純化】基於前代[PURE_AI_G597_389]進化

@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G25_913
+Category: 高效能系統與Rust
+Generation: 25
+Score: 745
+Info: 【同種純化】基於前代[PURE_高效_G24_950]進化

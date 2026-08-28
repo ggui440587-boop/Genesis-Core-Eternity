@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G2515_120
+Category: 全端通用開源專案
+Generation: 2515
+Score: 63701
+Info: 【同種純化】基於前代[PURE_全端_G2514_748]進化

@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G2043_113
+Category: 高效能系統與Rust
+Generation: 2043
+Score: 51226
+Info: 【同種純化】基於前代[PURE_高效_G2042_184]進化

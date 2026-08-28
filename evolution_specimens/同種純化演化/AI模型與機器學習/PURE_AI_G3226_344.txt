@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G3226_344
+Category: AI模型與機器學習
+Generation: 3226
+Score: 80371
+Info: 【同種純化】基於前代[PURE_AI_G3225_411]進化

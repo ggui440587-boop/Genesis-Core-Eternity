@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G2024_248
+Category: 全端通用開源專案
+Generation: 2024
+Score: 51061
+Info: 【同種純化】基於前代[PURE_全端_G2023_131]進化

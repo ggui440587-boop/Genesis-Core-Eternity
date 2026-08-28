@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G554_646
+Category: 全端通用開源專案
+Generation: 554
+Score: 14194
+Info: 【同種純化】基於前代[PURE_全端_G553_325]進化

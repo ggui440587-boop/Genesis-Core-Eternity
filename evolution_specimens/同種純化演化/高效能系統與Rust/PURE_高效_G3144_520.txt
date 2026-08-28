@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G3144_520
+Category: 高效能系統與Rust
+Generation: 3144
+Score: 78943
+Info: 【同種純化】基於前代[PURE_高效_G3143_171]進化

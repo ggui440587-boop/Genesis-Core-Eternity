@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G2124_594
+Category: 全端通用開源專案
+Generation: 2124
+Score: 53482
+Info: 【同種純化】基於前代[PURE_全端_G2123_732]進化

@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G1989_121
+Category: 高效能系統與Rust
+Generation: 1989
+Score: 49928
+Info: 【同種純化】基於前代[PURE_高效_G1988_408]進化

@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G619_916
+Category: 全端通用開源專案
+Generation: 619
+Score: 15896
+Info: 【同種純化】基於前代[PURE_全端_G618_757]進化

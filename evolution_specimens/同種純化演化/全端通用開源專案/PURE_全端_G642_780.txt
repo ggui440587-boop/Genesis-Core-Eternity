@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G642_780
+Category: 全端通用開源專案
+Generation: 642
+Score: 16458
+Info: 【同種純化】基於前代[PURE_全端_G641_187]進化

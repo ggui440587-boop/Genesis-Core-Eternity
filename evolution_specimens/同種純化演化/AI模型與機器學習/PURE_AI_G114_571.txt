@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G114_571
+Category: AI模型與機器學習
+Generation: 114
+Score: 2860
+Info: 【同種純化】基於前代[PURE_AI_G113_429]進化

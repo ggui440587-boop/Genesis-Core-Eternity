@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G1974_251
+Category: 全端通用開源專案
+Generation: 1974
+Score: 49748
+Info: 【同種純化】基於前代[PURE_全端_G1973_386]進化

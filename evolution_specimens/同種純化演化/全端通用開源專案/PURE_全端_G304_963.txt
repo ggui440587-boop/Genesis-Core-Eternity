@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G304_963
+Category: 全端通用開源專案
+Generation: 304
+Score: 7956
+Info: 【同種純化】基於前代[PURE_全端_G303_937]進化

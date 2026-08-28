@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G1574_277
+Category: 全端通用開源專案
+Generation: 1574
+Score: 39739
+Info: 【同種純化】基於前代[PURE_全端_G1573_954]進化

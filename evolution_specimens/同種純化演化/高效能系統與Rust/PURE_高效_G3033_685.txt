@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G3033_685
+Category: 高效能系統與Rust
+Generation: 3033
+Score: 76014
+Info: 【同種純化】基於前代[PURE_高效_G3032_767]進化

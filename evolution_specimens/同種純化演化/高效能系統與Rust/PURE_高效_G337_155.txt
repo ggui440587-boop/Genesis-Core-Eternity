@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G337_155
+Category: 高效能系統與Rust
+Generation: 337
+Score: 8630
+Info: 【同種純化】基於前代[PURE_高效_G336_863]進化

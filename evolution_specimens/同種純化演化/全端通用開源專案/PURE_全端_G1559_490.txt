@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G1559_490
+Category: 全端通用開源專案
+Generation: 1559
+Score: 39346
+Info: 【同種純化】基於前代[PURE_全端_G1558_266]進化

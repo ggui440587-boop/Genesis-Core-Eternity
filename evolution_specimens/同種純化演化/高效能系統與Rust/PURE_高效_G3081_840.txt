@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G3081_840
+Category: 高效能系統與Rust
+Generation: 3081
+Score: 77267
+Info: 【同種純化】基於前代[PURE_高效_G3080_864]進化

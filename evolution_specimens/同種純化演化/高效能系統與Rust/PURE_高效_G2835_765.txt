@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G2835_765
+Category: 高效能系統與Rust
+Generation: 2835
+Score: 71127
+Info: 【同種純化】基於前代[PURE_高效_G2834_846]進化

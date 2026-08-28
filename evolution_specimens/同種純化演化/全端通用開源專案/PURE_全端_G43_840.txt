@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G43_840
+Category: 全端通用開源專案
+Generation: 43
+Score: 1143
+Info: 【同種純化】基於前代[PURE_全端_G42_539]進化

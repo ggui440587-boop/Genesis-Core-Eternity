@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G936_127
+Category: 高效能系統與Rust
+Generation: 936
+Score: 23685
+Info: 【同種純化】基於前代[PURE_高效_G935_452]進化

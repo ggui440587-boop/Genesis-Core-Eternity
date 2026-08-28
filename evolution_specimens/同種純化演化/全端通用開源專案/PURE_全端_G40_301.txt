@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G40_301
+Category: 全端通用開源專案
+Generation: 40
+Score: 1082
+Info: 【同種純化】基於前代[PURE_全端_G39_988]進化

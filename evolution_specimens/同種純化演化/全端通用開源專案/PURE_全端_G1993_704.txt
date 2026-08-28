@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G1993_704
+Category: 全端通用開源專案
+Generation: 1993
+Score: 50283
+Info: 【同種純化】基於前代[PURE_全端_G1992_120]進化

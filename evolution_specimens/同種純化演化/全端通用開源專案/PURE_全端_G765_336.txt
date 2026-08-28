@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G765_336
+Category: 全端通用開源專案
+Generation: 765
+Score: 19694
+Info: 【同種純化】基於前代[PURE_全端_G764_556]進化

@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G395_445
+Category: 全端通用開源專案
+Generation: 395
+Score: 10282
+Info: 【同種純化】基於前代[PURE_全端_G394_280]進化

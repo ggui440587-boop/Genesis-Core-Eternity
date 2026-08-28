@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G2521_235
+Category: 全端通用開源專案
+Generation: 2521
+Score: 63848
+Info: 【同種純化】基於前代[PURE_全端_G2520_286]進化

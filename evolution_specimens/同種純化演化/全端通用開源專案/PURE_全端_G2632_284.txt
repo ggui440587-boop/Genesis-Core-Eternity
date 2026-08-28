@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G2632_284
+Category: 全端通用開源專案
+Generation: 2632
+Score: 66587
+Info: 【同種純化】基於前代[PURE_全端_G2631_860]進化

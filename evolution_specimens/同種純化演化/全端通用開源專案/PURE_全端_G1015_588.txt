@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G1015_588
+Category: 全端通用開源專案
+Generation: 1015
+Score: 25796
+Info: 【同種純化】基於前代[PURE_全端_G1014_430]進化

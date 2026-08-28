@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G1603_722
+Category: 全端通用開源專案
+Generation: 1603
+Score: 40412
+Info: 【同種純化】基於前代[PURE_全端_G1602_894]進化

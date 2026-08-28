@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G1133_312
+Category: AI模型與機器學習
+Generation: 1133
+Score: 28091
+Info: 【同種純化】基於前代[PURE_AI_G1132_804]進化

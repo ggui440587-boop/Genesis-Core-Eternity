@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G939_192
+Category: 全端通用開源專案
+Generation: 939
+Score: 24035
+Info: 【同種純化】基於前代[PURE_全端_G938_531]進化

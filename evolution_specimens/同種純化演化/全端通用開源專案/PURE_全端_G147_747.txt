@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G147_747
+Category: 全端通用開源專案
+Generation: 147
+Score: 3891
+Info: 【同種純化】基於前代[PURE_全端_G146_769]進化

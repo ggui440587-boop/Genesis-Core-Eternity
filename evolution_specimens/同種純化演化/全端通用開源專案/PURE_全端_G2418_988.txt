@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G2418_988
+Category: 全端通用開源專案
+Generation: 2418
+Score: 61190
+Info: 【同種純化】基於前代[PURE_全端_G2417_642]進化

@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G2165_585
+Category: 全端通用開源專案
+Generation: 2165
+Score: 54646
+Info: 【同種純化】基於前代[PURE_全端_G2164_547]進化

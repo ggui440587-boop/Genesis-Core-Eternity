@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G1334_834
+Category: 全端通用開源專案
+Generation: 1334
+Score: 33642
+Info: 【同種純化】基於前代[PURE_全端_G1333_236]進化

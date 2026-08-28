@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G651_961
+Category: 全端通用開源專案
+Generation: 651
+Score: 16675
+Info: 【同種純化】基於前代[PURE_全端_G650_311]進化

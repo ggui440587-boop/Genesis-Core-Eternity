@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G2190_206
+Category: 全端通用開源專案
+Generation: 2190
+Score: 55260
+Info: 【同種純化】基於前代[PURE_全端_G2189_249]進化

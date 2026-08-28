@@ -1,0 +1,4 @@
+Hybrid Specimen: HYBRID_OMEGA_7839
+Score: 139899
+Parents: CR_A2VConverter + CR_A-Mazed
+Info: 【混合神獸】融合最強[HYBRID_OMEGA_1854]與異源[CR_A2VConverter]

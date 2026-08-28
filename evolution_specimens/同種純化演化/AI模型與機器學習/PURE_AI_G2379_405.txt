@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G2379_405
+Category: AI模型與機器學習
+Generation: 2379
+Score: 59008
+Info: 【同種純化】基於前代[PURE_AI_G2378_570]進化

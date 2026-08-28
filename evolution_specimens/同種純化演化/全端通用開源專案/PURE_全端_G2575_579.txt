@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G2575_579
+Category: 全端通用開源專案
+Generation: 2575
+Score: 65151
+Info: 【同種純化】基於前代[PURE_全端_G2574_255]進化

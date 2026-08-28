@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G358_380
+Category: 全端通用開源專案
+Generation: 358
+Score: 9374
+Info: 【同種純化】基於前代[PURE_全端_G357_722]進化

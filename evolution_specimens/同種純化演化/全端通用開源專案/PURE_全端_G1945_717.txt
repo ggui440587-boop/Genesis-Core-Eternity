@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G1945_717
+Category: 全端通用開源專案
+Generation: 1945
+Score: 49006
+Info: 【同種純化】基於前代[PURE_全端_G1944_128]進化

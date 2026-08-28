@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G2099_523
+Category: AI模型與機器學習
+Generation: 2099
+Score: 52075
+Info: 【同種純化】基於前代[PURE_AI_G2098_913]進化

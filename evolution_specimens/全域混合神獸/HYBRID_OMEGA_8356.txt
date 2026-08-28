@@ -1,0 +1,4 @@
+Hybrid Specimen: HYBRID_OMEGA_8356
+Score: 250674
+Parents: CR_ABC-ECS + CR_ABC-ECS
+Info: 【混合神獸】融合最強[HYBRID_OMEGA_7626]與異源[CR_ABC-ECS]

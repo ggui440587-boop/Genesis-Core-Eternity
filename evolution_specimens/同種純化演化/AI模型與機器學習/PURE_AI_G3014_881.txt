@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G3014_881
+Category: AI模型與機器學習
+Generation: 3014
+Score: 74858
+Info: 【同種純化】基於前代[PURE_AI_G3013_919]進化

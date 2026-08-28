@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G2067_805
+Category: AI模型與機器學習
+Generation: 2067
+Score: 51300
+Info: 【同種純化】基於前代[PURE_AI_G2066_230]進化

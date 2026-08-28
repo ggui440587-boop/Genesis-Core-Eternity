@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G2661_726
+Category: 全端通用開源專案
+Generation: 2661
+Score: 67376
+Info: 【同種純化】基於前代[PURE_全端_G2660_742]進化

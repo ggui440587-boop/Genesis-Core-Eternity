@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G850_745
+Category: AI模型與機器學習
+Generation: 850
+Score: 21201
+Info: 【同種純化】基於前代[PURE_AI_G849_636]進化

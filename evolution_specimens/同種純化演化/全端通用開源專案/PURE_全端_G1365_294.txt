@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G1365_294
+Category: 全端通用開源專案
+Generation: 1365
+Score: 34285
+Info: 【同種純化】基於前代[PURE_全端_G1364_442]進化

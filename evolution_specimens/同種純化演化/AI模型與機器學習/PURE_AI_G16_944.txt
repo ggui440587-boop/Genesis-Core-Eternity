@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G16_944
+Category: AI模型與機器學習
+Generation: 16
+Score: 526
+Info: 【同種純化】基於前代[PURE_AI_G15_602]進化

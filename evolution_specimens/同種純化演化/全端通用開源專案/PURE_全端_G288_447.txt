@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G288_447
+Category: 全端通用開源專案
+Generation: 288
+Score: 7543
+Info: 【同種純化】基於前代[PURE_全端_G287_643]進化

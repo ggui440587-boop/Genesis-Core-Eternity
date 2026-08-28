@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G2204_846
+Category: 全端通用開源專案
+Generation: 2204
+Score: 55569
+Info: 【同種純化】基於前代[PURE_全端_G2203_927]進化

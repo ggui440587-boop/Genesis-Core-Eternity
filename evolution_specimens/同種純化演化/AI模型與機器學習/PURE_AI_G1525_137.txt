@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G1525_137
+Category: AI模型與機器學習
+Generation: 1525
+Score: 37899
+Info: 【同種純化】基於前代[PURE_AI_G1524_627]進化

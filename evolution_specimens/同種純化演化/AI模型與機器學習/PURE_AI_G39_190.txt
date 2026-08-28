@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G39_190
+Category: AI模型與機器學習
+Generation: 39
+Score: 1073
+Info: 【同種純化】基於前代[PURE_AI_G38_754]進化

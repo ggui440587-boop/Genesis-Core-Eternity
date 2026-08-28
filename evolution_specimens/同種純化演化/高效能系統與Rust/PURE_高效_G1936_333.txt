@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G1936_333
+Category: 高效能系統與Rust
+Generation: 1936
+Score: 48699
+Info: 【同種純化】基於前代[PURE_高效_G1935_566]進化

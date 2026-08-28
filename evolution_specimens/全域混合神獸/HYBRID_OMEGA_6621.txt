@@ -1,0 +1,4 @@
+Hybrid Specimen: HYBRID_OMEGA_6621
+Score: 48240
+Parents: GH_yek + HF_OBLITERATUS_Qwen3.8-27B-OBLITERATED
+Info: 【混合神獸】融合最強[HYBRID_OMEGA_2836]與異源[GH_yek]

@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G3208_751
+Category: AI模型與機器學習
+Generation: 3208
+Score: 79928
+Info: 【同種純化】基於前代[PURE_AI_G3207_168]進化

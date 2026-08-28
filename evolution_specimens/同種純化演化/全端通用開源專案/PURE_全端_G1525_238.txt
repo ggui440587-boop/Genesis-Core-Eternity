@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G1525_238
+Category: 全端通用開源專案
+Generation: 1525
+Score: 38454
+Info: 【同種純化】基於前代[PURE_全端_G1524_493]進化

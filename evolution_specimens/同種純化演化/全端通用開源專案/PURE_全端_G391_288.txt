@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G391_288
+Category: 全端通用開源專案
+Generation: 391
+Score: 10196
+Info: 【同種純化】基於前代[PURE_全端_G390_210]進化

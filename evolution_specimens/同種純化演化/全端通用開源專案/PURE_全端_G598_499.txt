@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G598_499
+Category: 全端通用開源專案
+Generation: 598
+Score: 15343
+Info: 【同種純化】基於前代[PURE_全端_G597_120]進化

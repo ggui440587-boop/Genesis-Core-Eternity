@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G706_421
+Category: AI模型與機器學習
+Generation: 706
+Score: 17506
+Info: 【同種純化】基於前代[PURE_AI_G705_336]進化

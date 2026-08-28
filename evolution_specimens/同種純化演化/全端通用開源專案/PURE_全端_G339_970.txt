@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G339_970
+Category: 全端通用開源專案
+Generation: 339
+Score: 8856
+Info: 【同種純化】基於前代[PURE_全端_G338_153]進化

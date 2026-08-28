@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G1983_440
+Category: 全端通用開源專案
+Generation: 1983
+Score: 49979
+Info: 【同種純化】基於前代[PURE_全端_G1982_850]進化

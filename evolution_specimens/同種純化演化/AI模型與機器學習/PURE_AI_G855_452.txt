@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G855_452
+Category: AI模型與機器學習
+Generation: 855
+Score: 21293
+Info: 【同種純化】基於前代[PURE_AI_G854_369]進化

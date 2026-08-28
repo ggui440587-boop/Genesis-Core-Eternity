@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G914_436
+Category: 全端通用開源專案
+Generation: 914
+Score: 23320
+Info: 【同種純化】基於前代[PURE_全端_G913_800]進化

@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G2215_290
+Category: 高效能系統與Rust
+Generation: 2215
+Score: 55485
+Info: 【同種純化】基於前代[PURE_高效_G2214_108]進化

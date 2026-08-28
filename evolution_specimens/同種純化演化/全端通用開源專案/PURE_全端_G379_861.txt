@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G379_861
+Category: 全端通用開源專案
+Generation: 379
+Score: 9905
+Info: 【同種純化】基於前代[PURE_全端_G378_766]進化

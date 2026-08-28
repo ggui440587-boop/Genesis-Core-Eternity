@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G925_850
+Category: 全端通用開源專案
+Generation: 925
+Score: 23623
+Info: 【同種純化】基於前代[PURE_全端_G924_849]進化

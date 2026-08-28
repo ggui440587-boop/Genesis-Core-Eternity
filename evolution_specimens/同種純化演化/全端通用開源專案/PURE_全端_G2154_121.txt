@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G2154_121
+Category: 全端通用開源專案
+Generation: 2154
+Score: 54372
+Info: 【同種純化】基於前代[PURE_全端_G2153_341]進化

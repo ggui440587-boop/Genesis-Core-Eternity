@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G2707_693
+Category: 高效能系統與Rust
+Generation: 2707
+Score: 67607
+Info: 【同種純化】基於前代[PURE_高效_G2706_706]進化

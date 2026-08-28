@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G1110_534
+Category: 全端通用開源專案
+Generation: 1110
+Score: 28287
+Info: 【同種純化】基於前代[PURE_全端_G1109_152]進化

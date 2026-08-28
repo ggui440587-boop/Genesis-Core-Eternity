@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G1719_954
+Category: 全端通用開源專案
+Generation: 1719
+Score: 43393
+Info: 【同種純化】基於前代[PURE_全端_G1718_712]進化

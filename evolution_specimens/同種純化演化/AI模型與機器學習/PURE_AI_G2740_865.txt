@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G2740_865
+Category: AI模型與機器學習
+Generation: 2740
+Score: 68128
+Info: 【同種純化】基於前代[PURE_AI_G2739_287]進化

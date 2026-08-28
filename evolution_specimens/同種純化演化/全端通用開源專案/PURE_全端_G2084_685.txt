@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G2084_685
+Category: 全端通用開源專案
+Generation: 2084
+Score: 52529
+Info: 【同種純化】基於前代[PURE_全端_G2083_967]進化

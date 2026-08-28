@@ -1,0 +1,4 @@
+Hybrid Specimen: HYBRID_OMEGA_5538
+Score: 183680
+Parents: GH_ort + HF_OBLITERATUS_Qwen3.8-27B-OBLITERATED
+Info: 【混合神獸】融合最強[HYBRID_OMEGA_3220]與異源[GH_ort]

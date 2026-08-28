@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G1092_888
+Category: AI模型與機器學習
+Generation: 1092
+Score: 27073
+Info: 【同種純化】基於前代[PURE_AI_G1091_242]進化

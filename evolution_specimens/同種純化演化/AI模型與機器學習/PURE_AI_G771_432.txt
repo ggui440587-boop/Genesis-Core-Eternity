@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G771_432
+Category: AI模型與機器學習
+Generation: 771
+Score: 19073
+Info: 【同種純化】基於前代[PURE_AI_G770_283]進化

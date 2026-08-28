@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G721_338
+Category: 高效能系統與Rust
+Generation: 721
+Score: 18262
+Info: 【同種純化】基於前代[PURE_高效_G720_405]進化

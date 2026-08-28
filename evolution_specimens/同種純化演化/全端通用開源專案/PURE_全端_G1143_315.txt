@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G1143_315
+Category: 全端通用開源專案
+Generation: 1143
+Score: 29060
+Info: 【同種純化】基於前代[PURE_全端_G1142_929]進化

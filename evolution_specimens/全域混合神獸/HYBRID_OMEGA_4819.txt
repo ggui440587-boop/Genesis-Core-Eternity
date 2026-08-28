@@ -1,0 +1,4 @@
+Hybrid Specimen: HYBRID_OMEGA_4819
+Score: 253714
+Parents: GH_ort + HF_unsloth_Qwen3.8-27B-GGUF
+Info: 【混合神獸】融合最強[HYBRID_OMEGA_7189]與異源[GH_ort]

@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G1312_723
+Category: 全端通用開源專案
+Generation: 1312
+Score: 33107
+Info: 【同種純化】基於前代[PURE_全端_G1311_609]進化

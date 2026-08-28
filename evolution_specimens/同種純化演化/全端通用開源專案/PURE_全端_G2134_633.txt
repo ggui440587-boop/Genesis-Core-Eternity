@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G2134_633
+Category: 全端通用開源專案
+Generation: 2134
+Score: 53770
+Info: 【同種純化】基於前代[PURE_全端_G2133_235]進化

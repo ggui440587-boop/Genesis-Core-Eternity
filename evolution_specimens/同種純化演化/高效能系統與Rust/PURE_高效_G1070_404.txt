@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G1070_404
+Category: 高效能系統與Rust
+Generation: 1070
+Score: 26874
+Info: 【同種純化】基於前代[PURE_高效_G1069_704]進化

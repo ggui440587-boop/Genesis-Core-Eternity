@@ -1,0 +1,4 @@
+Hybrid Specimen: HYBRID_OMEGA_8950
+Score: 195903
+Parents: HF_Qwen_Qwen3.8-Flash-Next + CR_A-Mazed
+Info: 【混合神獸】融合最強[HYBRID_OMEGA_1210]與異源[HF_Qwen_Qwen3.8-Flash-Next]

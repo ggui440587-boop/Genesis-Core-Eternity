@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G696_851
+Category: 全端通用開源專案
+Generation: 696
+Score: 17879
+Info: 【同種純化】基於前代[PURE_全端_G695_118]進化

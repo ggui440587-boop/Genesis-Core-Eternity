@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G2348_660
+Category: 高效能系統與Rust
+Generation: 2348
+Score: 58688
+Info: 【同種純化】基於前代[PURE_高效_G2347_793]進化

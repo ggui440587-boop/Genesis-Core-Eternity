@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G2108_929
+Category: 全端通用開源專案
+Generation: 2108
+Score: 53106
+Info: 【同種純化】基於前代[PURE_全端_G2107_867]進化

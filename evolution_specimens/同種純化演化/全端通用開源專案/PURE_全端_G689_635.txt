@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G689_635
+Category: 全端通用開源專案
+Generation: 689
+Score: 17713
+Info: 【同種純化】基於前代[PURE_全端_G688_934]進化

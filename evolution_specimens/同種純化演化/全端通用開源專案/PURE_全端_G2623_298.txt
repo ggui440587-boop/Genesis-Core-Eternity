@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G2623_298
+Category: 全端通用開源專案
+Generation: 2623
+Score: 66415
+Info: 【同種純化】基於前代[PURE_全端_G2622_916]進化

@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G2259_208
+Category: AI模型與機器學習
+Generation: 2259
+Score: 55977
+Info: 【同種純化】基於前代[PURE_AI_G2258_523]進化

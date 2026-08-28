@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G1229_545
+Category: AI模型與機器學習
+Generation: 1229
+Score: 30426
+Info: 【同種純化】基於前代[PURE_AI_G1228_119]進化

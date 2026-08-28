@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G1962_123
+Category: 全端通用開源專案
+Generation: 1962
+Score: 49481
+Info: 【同種純化】基於前代[PURE_全端_G1961_631]進化

@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G2263_457
+Category: AI模型與機器學習
+Generation: 2263
+Score: 56083
+Info: 【同種純化】基於前代[PURE_AI_G2262_675]進化

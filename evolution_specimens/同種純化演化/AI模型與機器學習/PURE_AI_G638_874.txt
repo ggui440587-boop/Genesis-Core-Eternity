@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G638_874
+Category: AI模型與機器學習
+Generation: 638
+Score: 15849
+Info: 【同種純化】基於前代[PURE_AI_G637_921]進化

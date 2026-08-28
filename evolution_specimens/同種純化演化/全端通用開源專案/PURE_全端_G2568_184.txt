@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G2568_184
+Category: 全端通用開源專案
+Generation: 2568
+Score: 64963
+Info: 【同種純化】基於前代[PURE_全端_G2567_661]進化

@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G170_686
+Category: AI模型與機器學習
+Generation: 170
+Score: 4245
+Info: 【同種純化】基於前代[PURE_AI_G169_708]進化

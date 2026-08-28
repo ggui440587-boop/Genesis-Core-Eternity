@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G1074_103
+Category: AI模型與機器學習
+Generation: 1074
+Score: 26628
+Info: 【同種純化】基於前代[PURE_AI_G1073_430]進化

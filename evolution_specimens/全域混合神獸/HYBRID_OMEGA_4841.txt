@@ -1,0 +1,4 @@
+Hybrid Specimen: HYBRID_OMEGA_4841
+Score: 72123
+Parents: GH_litellm + CR_A2VConverter
+Info: 【混合神獸】融合最強[HYBRID_OMEGA_7057]與異源[GH_litellm]

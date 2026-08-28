@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G89_783
+Category: 全端通用開源專案
+Generation: 89
+Score: 2383
+Info: 【同種純化】基於前代[PURE_全端_G88_167]進化

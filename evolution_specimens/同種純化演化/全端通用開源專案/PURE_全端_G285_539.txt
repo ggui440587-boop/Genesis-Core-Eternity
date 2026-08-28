@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G285_539
+Category: 全端通用開源專案
+Generation: 285
+Score: 7459
+Info: 【同種純化】基於前代[PURE_全端_G284_567]進化

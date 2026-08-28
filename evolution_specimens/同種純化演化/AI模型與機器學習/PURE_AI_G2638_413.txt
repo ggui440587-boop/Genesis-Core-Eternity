@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G2638_413
+Category: AI模型與機器學習
+Generation: 2638
+Score: 65644
+Info: 【同種純化】基於前代[PURE_AI_G2637_120]進化

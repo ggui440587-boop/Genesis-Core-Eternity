@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G1654_875
+Category: 高效能系統與Rust
+Generation: 1654
+Score: 41490
+Info: 【同種純化】基於前代[PURE_高效_G1653_993]進化

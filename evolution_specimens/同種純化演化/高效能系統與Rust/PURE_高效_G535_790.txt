@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G535_790
+Category: 高效能系統與Rust
+Generation: 535
+Score: 13745
+Info: 【同種純化】基於前代[PURE_高效_G534_231]進化

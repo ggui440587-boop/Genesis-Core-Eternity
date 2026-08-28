@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G678_114
+Category: AI模型與機器學習
+Generation: 678
+Score: 16807
+Info: 【同種純化】基於前代[PURE_AI_G677_155]進化

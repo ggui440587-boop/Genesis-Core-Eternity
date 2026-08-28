@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G901_694
+Category: 全端通用開源專案
+Generation: 901
+Score: 23010
+Info: 【同種純化】基於前代[PURE_全端_G900_999]進化

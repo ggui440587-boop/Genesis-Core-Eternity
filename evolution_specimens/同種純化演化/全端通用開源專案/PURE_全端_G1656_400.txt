@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G1656_400
+Category: 全端通用開源專案
+Generation: 1656
+Score: 41785
+Info: 【同種純化】基於前代[PURE_全端_G1655_755]進化

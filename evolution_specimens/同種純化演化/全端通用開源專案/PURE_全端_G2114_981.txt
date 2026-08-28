@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G2114_981
+Category: 全端通用開源專案
+Generation: 2114
+Score: 53261
+Info: 【同種純化】基於前代[PURE_全端_G2113_617]進化

@@ -1,0 +1,4 @@
+Hybrid Specimen: HYBRID_OMEGA_4382
+Score: 254574
+Parents: CR_ABC_Game_Engine + SEED_309
+Info: 【混合神獸】融合最強[HYBRID_OMEGA_1536]與異源[CR_ABC_Game_Engine]

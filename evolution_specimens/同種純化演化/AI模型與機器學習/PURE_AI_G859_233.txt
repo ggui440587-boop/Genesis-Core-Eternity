@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G859_233
+Category: AI模型與機器學習
+Generation: 859
+Score: 21415
+Info: 【同種純化】基於前代[PURE_AI_G858_379]進化

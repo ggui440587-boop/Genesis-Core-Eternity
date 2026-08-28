@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G737_760
+Category: AI模型與機器學習
+Generation: 737
+Score: 18300
+Info: 【同種純化】基於前代[PURE_AI_G736_812]進化

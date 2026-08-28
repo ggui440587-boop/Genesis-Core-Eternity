@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G648_394
+Category: 全端通用開源專案
+Generation: 648
+Score: 16615
+Info: 【同種純化】基於前代[PURE_全端_G647_925]進化

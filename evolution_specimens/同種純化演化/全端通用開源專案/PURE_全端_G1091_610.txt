@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G1091_610
+Category: 全端通用開源專案
+Generation: 1091
+Score: 27754
+Info: 【同種純化】基於前代[PURE_全端_G1090_684]進化

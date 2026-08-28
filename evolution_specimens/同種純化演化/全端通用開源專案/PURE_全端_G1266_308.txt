@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G1266_308
+Category: 全端通用開源專案
+Generation: 1266
+Score: 32005
+Info: 【同種純化】基於前代[PURE_全端_G1265_942]進化

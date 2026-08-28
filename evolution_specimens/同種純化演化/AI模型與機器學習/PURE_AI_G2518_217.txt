@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G2518_217
+Category: AI模型與機器學習
+Generation: 2518
+Score: 62640
+Info: 【同種純化】基於前代[PURE_AI_G2517_462]進化

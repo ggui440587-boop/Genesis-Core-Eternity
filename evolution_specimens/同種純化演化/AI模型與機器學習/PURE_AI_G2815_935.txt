@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G2815_935
+Category: AI模型與機器學習
+Generation: 2815
+Score: 69933
+Info: 【同種純化】基於前代[PURE_AI_G2814_139]進化

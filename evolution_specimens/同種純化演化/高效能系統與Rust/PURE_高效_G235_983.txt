@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G235_983
+Category: 高效能系統與Rust
+Generation: 235
+Score: 5999
+Info: 【同種純化】基於前代[PURE_高效_G234_113]進化

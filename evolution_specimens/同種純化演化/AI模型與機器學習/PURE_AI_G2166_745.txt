@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G2166_745
+Category: AI模型與機器學習
+Generation: 2166
+Score: 53654
+Info: 【同種純化】基於前代[PURE_AI_G2165_961]進化

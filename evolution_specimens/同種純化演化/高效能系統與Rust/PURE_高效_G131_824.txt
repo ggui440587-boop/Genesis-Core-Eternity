@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G131_824
+Category: 高效能系統與Rust
+Generation: 131
+Score: 3422
+Info: 【同種純化】基於前代[PURE_高效_G130_904]進化

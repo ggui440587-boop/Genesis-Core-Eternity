@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G1280_846
+Category: 全端通用開源專案
+Generation: 1280
+Score: 32340
+Info: 【同種純化】基於前代[PURE_全端_G1279_983]進化

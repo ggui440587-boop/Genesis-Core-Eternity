@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G631_283
+Category: 高效能系統與Rust
+Generation: 631
+Score: 16149
+Info: 【同種純化】基於前代[PURE_高效_G630_583]進化

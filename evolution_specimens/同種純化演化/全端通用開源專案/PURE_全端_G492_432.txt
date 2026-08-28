@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G492_432
+Category: 全端通用開源專案
+Generation: 492
+Score: 12678
+Info: 【同種純化】基於前代[PURE_全端_G491_933]進化

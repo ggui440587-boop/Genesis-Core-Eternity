@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G2960_719
+Category: AI模型與機器學習
+Generation: 2960
+Score: 73443
+Info: 【同種純化】基於前代[PURE_AI_G2959_446]進化

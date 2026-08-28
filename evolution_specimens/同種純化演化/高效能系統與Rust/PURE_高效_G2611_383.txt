@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G2611_383
+Category: 高效能系統與Rust
+Generation: 2611
+Score: 65194
+Info: 【同種純化】基於前代[PURE_高效_G2610_899]進化

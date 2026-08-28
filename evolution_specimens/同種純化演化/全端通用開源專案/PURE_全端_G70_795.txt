@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G70_795
+Category: 全端通用開源專案
+Generation: 70
+Score: 1902
+Info: 【同種純化】基於前代[PURE_全端_G69_517]進化

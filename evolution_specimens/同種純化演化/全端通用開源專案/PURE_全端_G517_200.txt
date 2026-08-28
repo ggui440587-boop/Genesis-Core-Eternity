@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G517_200
+Category: 全端通用開源專案
+Generation: 517
+Score: 13302
+Info: 【同種純化】基於前代[PURE_全端_G516_370]進化

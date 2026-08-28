@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G3090_483
+Category: AI模型與機器學習
+Generation: 3090
+Score: 76911
+Info: 【同種純化】基於前代[PURE_AI_G3089_275]進化

@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G977_256
+Category: 全端通用開源專案
+Generation: 977
+Score: 24896
+Info: 【同種純化】基於前代[PURE_全端_G976_658]進化

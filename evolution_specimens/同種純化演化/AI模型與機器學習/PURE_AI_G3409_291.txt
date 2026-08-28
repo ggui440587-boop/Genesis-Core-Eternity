@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G3409_291
+Category: AI模型與機器學習
+Generation: 3409
+Score: 84761
+Info: 【同種純化】基於前代[PURE_AI_G3408_909]進化

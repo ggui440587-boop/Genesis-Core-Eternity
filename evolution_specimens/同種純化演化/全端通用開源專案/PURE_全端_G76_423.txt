@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G76_423
+Category: 全端通用開源專案
+Generation: 76
+Score: 2016
+Info: 【同種純化】基於前代[PURE_全端_G75_566]進化

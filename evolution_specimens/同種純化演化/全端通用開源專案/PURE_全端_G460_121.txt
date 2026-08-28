@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G460_121
+Category: 全端通用開源專案
+Generation: 460
+Score: 11861
+Info: 【同種純化】基於前代[PURE_全端_G459_305]進化

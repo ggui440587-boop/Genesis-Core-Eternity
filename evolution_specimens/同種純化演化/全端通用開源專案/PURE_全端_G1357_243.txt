@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G1357_243
+Category: 全端通用開源專案
+Generation: 1357
+Score: 34138
+Info: 【同種純化】基於前代[PURE_全端_G1356_779]進化

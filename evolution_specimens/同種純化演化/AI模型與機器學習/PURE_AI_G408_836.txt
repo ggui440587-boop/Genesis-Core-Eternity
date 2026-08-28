@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G408_836
+Category: AI模型與機器學習
+Generation: 408
+Score: 10198
+Info: 【同種純化】基於前代[PURE_AI_G407_589]進化

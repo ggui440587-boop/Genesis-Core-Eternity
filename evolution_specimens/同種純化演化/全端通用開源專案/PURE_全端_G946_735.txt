@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G946_735
+Category: 全端通用開源專案
+Generation: 946
+Score: 24168
+Info: 【同種純化】基於前代[PURE_全端_G945_357]進化

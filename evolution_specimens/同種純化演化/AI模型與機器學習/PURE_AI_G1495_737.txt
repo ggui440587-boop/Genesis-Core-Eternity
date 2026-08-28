@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G1495_737
+Category: AI模型與機器學習
+Generation: 1495
+Score: 37145
+Info: 【同種純化】基於前代[PURE_AI_G1494_710]進化

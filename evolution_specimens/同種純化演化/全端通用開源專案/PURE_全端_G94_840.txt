@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G94_840
+Category: 全端通用開源專案
+Generation: 94
+Score: 2510
+Info: 【同種純化】基於前代[PURE_全端_G93_143]進化

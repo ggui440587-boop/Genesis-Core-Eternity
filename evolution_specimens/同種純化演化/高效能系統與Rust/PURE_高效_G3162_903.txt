@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G3162_903
+Category: 高效能系統與Rust
+Generation: 3162
+Score: 79349
+Info: 【同種純化】基於前代[PURE_高效_G3161_320]進化

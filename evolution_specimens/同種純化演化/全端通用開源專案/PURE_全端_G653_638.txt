@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G653_638
+Category: 全端通用開源專案
+Generation: 653
+Score: 16710
+Info: 【同種純化】基於前代[PURE_全端_G652_666]進化

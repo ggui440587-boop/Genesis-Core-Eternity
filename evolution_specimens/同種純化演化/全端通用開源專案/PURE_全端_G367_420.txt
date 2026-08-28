@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G367_420
+Category: 全端通用開源專案
+Generation: 367
+Score: 9581
+Info: 【同種純化】基於前代[PURE_全端_G366_902]進化

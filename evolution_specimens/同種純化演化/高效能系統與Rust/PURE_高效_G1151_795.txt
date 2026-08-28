@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G1151_795
+Category: 高效能系統與Rust
+Generation: 1151
+Score: 28873
+Info: 【同種純化】基於前代[PURE_高效_G1150_605]進化

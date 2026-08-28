@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G1040_865
+Category: 全端通用開源專案
+Generation: 1040
+Score: 26448
+Info: 【同種純化】基於前代[PURE_全端_G1039_553]進化

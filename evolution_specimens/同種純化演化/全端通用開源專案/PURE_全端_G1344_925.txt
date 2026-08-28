@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G1344_925
+Category: 全端通用開源專案
+Generation: 1344
+Score: 33847
+Info: 【同種純化】基於前代[PURE_全端_G1343_395]進化

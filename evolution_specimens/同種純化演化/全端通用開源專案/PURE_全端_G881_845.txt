@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G881_845
+Category: 全端通用開源專案
+Generation: 881
+Score: 22502
+Info: 【同種純化】基於前代[PURE_全端_G880_752]進化

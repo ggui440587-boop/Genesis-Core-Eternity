@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G20_275
+Category: 高效能系統與Rust
+Generation: 20
+Score: 635
+Info: 【同種純化】基於前代[PURE_高效_G19_593]進化

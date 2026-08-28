@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G250_547
+Category: 全端通用開源專案
+Generation: 250
+Score: 6587
+Info: 【同種純化】基於前代[PURE_全端_G249_783]進化

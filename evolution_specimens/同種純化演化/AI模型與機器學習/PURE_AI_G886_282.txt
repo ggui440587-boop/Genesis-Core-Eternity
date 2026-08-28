@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G886_282
+Category: AI模型與機器學習
+Generation: 886
+Score: 22064
+Info: 【同種純化】基於前代[PURE_AI_G885_803]進化

@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G1118_805
+Category: AI模型與機器學習
+Generation: 1118
+Score: 27676
+Info: 【同種純化】基於前代[PURE_AI_G1117_791]進化

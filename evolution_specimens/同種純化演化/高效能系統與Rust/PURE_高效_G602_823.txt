@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G602_823
+Category: 高效能系統與Rust
+Generation: 602
+Score: 15400
+Info: 【同種純化】基於前代[PURE_高效_G601_409]進化

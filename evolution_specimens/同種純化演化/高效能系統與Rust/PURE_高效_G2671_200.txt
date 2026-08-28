@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G2671_200
+Category: 高效能系統與Rust
+Generation: 2671
+Score: 66719
+Info: 【同種純化】基於前代[PURE_高效_G2670_498]進化

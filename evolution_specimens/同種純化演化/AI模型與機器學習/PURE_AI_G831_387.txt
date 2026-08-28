@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G831_387
+Category: AI模型與機器學習
+Generation: 831
+Score: 20706
+Info: 【同種純化】基於前代[PURE_AI_G830_784]進化

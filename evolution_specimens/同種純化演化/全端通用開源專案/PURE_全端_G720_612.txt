@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G720_612
+Category: 全端通用開源專案
+Generation: 720
+Score: 18515
+Info: 【同種純化】基於前代[PURE_全端_G719_117]進化

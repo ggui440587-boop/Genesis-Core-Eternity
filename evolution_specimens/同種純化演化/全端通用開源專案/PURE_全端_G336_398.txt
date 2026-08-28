@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G336_398
+Category: 全端通用開源專案
+Generation: 336
+Score: 8761
+Info: 【同種純化】基於前代[PURE_全端_G335_109]進化

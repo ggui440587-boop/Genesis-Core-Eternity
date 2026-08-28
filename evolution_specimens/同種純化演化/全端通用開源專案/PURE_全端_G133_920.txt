@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G133_920
+Category: 全端通用開源專案
+Generation: 133
+Score: 3484
+Info: 【同種純化】基於前代[PURE_全端_G132_522]進化

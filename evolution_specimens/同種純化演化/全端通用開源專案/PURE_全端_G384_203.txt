@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G384_203
+Category: 全端通用開源專案
+Generation: 384
+Score: 10024
+Info: 【同種純化】基於前代[PURE_全端_G383_815]進化

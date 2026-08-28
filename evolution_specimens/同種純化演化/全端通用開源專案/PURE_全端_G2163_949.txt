@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G2163_949
+Category: 全端通用開源專案
+Generation: 2163
+Score: 54605
+Info: 【同種純化】基於前代[PURE_全端_G2162_367]進化

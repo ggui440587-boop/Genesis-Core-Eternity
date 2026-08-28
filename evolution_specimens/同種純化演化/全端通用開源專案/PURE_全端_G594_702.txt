@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G594_702
+Category: 全端通用開源專案
+Generation: 594
+Score: 15238
+Info: 【同種純化】基於前代[PURE_全端_G593_516]進化

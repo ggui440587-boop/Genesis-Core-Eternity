@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G61_379
+Category: 全端通用開源專案
+Generation: 61
+Score: 1653
+Info: 【同種純化】基於前代[PURE_全端_G60_725]進化

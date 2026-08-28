@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G2057_549
+Category: 全端通用開源專案
+Generation: 2057
+Score: 51847
+Info: 【同種純化】基於前代[PURE_全端_G2056_962]進化

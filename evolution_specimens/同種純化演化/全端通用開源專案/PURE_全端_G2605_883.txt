@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G2605_883
+Category: 全端通用開源專案
+Generation: 2605
+Score: 65937
+Info: 【同種純化】基於前代[PURE_全端_G2604_660]進化

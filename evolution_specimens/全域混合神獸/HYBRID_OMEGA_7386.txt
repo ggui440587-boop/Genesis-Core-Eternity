@@ -1,0 +1,4 @@
+Hybrid Specimen: HYBRID_OMEGA_7386
+Score: 42500
+Parents: CR_A2VConverter + GH_ort
+Info: 【混合神獸】融合最強[HYBRID_OMEGA_1951]與異源[CR_A2VConverter]

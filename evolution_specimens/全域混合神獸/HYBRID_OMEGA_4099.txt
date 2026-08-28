@@ -1,0 +1,4 @@
+Hybrid Specimen: HYBRID_OMEGA_4099
+Score: 221344
+Parents: GH_rmux + HF_OBLITERATUS_Qwen3.8-27B-OBLITERATED
+Info: 【混合神獸】融合最強[HYBRID_OMEGA_2606]與異源[GH_rmux]

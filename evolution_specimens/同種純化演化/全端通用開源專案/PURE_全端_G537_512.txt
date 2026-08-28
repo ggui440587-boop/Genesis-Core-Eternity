@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G537_512
+Category: 全端通用開源專案
+Generation: 537
+Score: 13753
+Info: 【同種純化】基於前代[PURE_全端_G536_929]進化

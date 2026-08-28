@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G2087_891
+Category: 全端通用開源專案
+Generation: 2087
+Score: 52617
+Info: 【同種純化】基於前代[PURE_全端_G2086_970]進化

@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G1788_329
+Category: AI模型與機器學習
+Generation: 1788
+Score: 44371
+Info: 【同種純化】基於前代[PURE_AI_G1787_400]進化

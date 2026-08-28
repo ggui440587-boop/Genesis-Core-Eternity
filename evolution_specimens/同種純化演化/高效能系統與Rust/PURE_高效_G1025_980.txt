@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G1025_980
+Category: 高效能系統與Rust
+Generation: 1025
+Score: 25778
+Info: 【同種純化】基於前代[PURE_高效_G1024_720]進化

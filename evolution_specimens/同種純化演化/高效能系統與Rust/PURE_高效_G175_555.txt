@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G175_555
+Category: 高效能系統與Rust
+Generation: 175
+Score: 4547
+Info: 【同種純化】基於前代[PURE_高效_G174_107]進化

@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G901_512
+Category: AI模型與機器學習
+Generation: 901
+Score: 22433
+Info: 【同種純化】基於前代[PURE_AI_G900_809]進化

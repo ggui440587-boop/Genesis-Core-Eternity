@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G1027_470
+Category: 全端通用開源專案
+Generation: 1027
+Score: 26095
+Info: 【同種純化】基於前代[PURE_全端_G1026_646]進化

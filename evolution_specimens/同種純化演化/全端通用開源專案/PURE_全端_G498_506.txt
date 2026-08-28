@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G498_506
+Category: 全端通用開源專案
+Generation: 498
+Score: 12832
+Info: 【同種純化】基於前代[PURE_全端_G497_696]進化

@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G3414_148
+Category: AI模型與機器學習
+Generation: 3414
+Score: 84890
+Info: 【同種純化】基於前代[PURE_AI_G3413_947]進化

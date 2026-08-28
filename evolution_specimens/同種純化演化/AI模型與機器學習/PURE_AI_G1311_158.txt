@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G1311_158
+Category: AI模型與機器學習
+Generation: 1311
+Score: 32540
+Info: 【同種純化】基於前代[PURE_AI_G1310_313]進化

@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G413_855
+Category: 高效能系統與Rust
+Generation: 413
+Score: 10485
+Info: 【同種純化】基於前代[PURE_高效_G412_240]進化

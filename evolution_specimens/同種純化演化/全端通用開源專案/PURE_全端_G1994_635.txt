@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G1994_635
+Category: 全端通用開源專案
+Generation: 1994
+Score: 50306
+Info: 【同種純化】基於前代[PURE_全端_G1993_704]進化

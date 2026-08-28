@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G2578_554
+Category: AI模型與機器學習
+Generation: 2578
+Score: 64127
+Info: 【同種純化】基於前代[PURE_AI_G2577_198]進化

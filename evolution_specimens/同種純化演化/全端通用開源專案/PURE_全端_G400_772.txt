@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G400_772
+Category: 全端通用開源專案
+Generation: 400
+Score: 10371
+Info: 【同種純化】基於前代[PURE_全端_G399_322]進化

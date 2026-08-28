@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G1898_104
+Category: AI模型與機器學習
+Generation: 1898
+Score: 47025
+Info: 【同種純化】基於前代[PURE_AI_G1897_531]進化

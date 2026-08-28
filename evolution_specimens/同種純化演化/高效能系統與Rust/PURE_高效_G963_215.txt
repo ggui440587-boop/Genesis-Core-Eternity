@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G963_215
+Category: 高效能系統與Rust
+Generation: 963
+Score: 24300
+Info: 【同種純化】基於前代[PURE_高效_G962_284]進化

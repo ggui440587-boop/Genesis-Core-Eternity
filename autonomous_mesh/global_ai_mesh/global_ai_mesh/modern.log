@@ -1,0 +1,25 @@
+nohup: ignoring input
+ * Serving Flask app 'app_modern'
+ * Debug mode: off
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8082
+ * Running on http://192.168.1.101:8082
+[33mPress CTRL+C to quit[0m
+127.0.0.1 - - [28/Aug/2026 08:07:25] "GET /api/status HTTP/1.1" 200 -
+127.0.0.1 - - [28/Aug/2026 08:07:27] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [28/Aug/2026 08:07:27] "GET /api/status HTTP/1.1" 200 -
+127.0.0.1 - - [28/Aug/2026 08:07:29] "GET /api/status HTTP/1.1" 200 -
+127.0.0.1 - - [28/Aug/2026 08:07:31] "GET /api/status HTTP/1.1" 200 -
+127.0.0.1 - - [28/Aug/2026 08:07:33] "GET /api/status HTTP/1.1" 200 -
+127.0.0.1 - - [28/Aug/2026 08:07:35] "GET /api/status HTTP/1.1" 200 -
+127.0.0.1 - - [28/Aug/2026 08:07:37] "GET /api/status HTTP/1.1" 200 -
+127.0.0.1 - - [28/Aug/2026 08:07:39] "GET /api/status HTTP/1.1" 200 -
+127.0.0.1 - - [28/Aug/2026 08:07:41] "GET /api/status HTTP/1.1" 200 -
+127.0.0.1 - - [28/Aug/2026 08:07:43] "GET /api/status HTTP/1.1" 200 -
+127.0.0.1 - - [28/Aug/2026 08:07:45] "GET /api/status HTTP/1.1" 200 -
+127.0.0.1 - - [28/Aug/2026 08:07:47] "GET /api/status HTTP/1.1" 200 -
+127.0.0.1 - - [28/Aug/2026 08:07:49] "GET /api/status HTTP/1.1" 200 -
+127.0.0.1 - - [28/Aug/2026 08:07:51] "GET /api/status HTTP/1.1" 200 -
+127.0.0.1 - - [28/Aug/2026 08:07:53] "GET /api/status HTTP/1.1" 200 -
+127.0.0.1 - - [28/Aug/2026 08:07:55] "GET /api/status HTTP/1.1" 200 -

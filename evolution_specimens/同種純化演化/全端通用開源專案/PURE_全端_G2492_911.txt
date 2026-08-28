@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G2492_911
+Category: 全端通用開源專案
+Generation: 2492
+Score: 63051
+Info: 【同種純化】基於前代[PURE_全端_G2491_352]進化

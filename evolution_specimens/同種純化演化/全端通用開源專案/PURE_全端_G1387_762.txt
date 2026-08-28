@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G1387_762
+Category: 全端通用開源專案
+Generation: 1387
+Score: 34843
+Info: 【同種純化】基於前代[PURE_全端_G1386_534]進化

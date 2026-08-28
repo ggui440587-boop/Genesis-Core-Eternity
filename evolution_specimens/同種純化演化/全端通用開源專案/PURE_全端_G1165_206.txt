@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G1165_206
+Category: 全端通用開源專案
+Generation: 1165
+Score: 29615
+Info: 【同種純化】基於前代[PURE_全端_G1164_416]進化

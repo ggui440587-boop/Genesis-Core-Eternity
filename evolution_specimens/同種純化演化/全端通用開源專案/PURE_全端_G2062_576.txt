@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G2062_576
+Category: 全端通用開源專案
+Generation: 2062
+Score: 51982
+Info: 【同種純化】基於前代[PURE_全端_G2061_318]進化

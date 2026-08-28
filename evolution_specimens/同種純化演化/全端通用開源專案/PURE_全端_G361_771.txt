@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G361_771
+Category: 全端通用開源專案
+Generation: 361
+Score: 9439
+Info: 【同種純化】基於前代[PURE_全端_G360_458]進化

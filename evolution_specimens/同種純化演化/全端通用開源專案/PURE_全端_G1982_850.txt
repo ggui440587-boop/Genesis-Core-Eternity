@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G1982_850
+Category: 全端通用開源專案
+Generation: 1982
+Score: 49956
+Info: 【同種純化】基於前代[PURE_全端_G1981_722]進化

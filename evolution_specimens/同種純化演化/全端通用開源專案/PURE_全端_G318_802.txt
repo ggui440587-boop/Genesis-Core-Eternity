@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G318_802
+Category: 全端通用開源專案
+Generation: 318
+Score: 8313
+Info: 【同種純化】基於前代[PURE_全端_G317_808]進化

@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G2199_485
+Category: 全端通用開源專案
+Generation: 2199
+Score: 55421
+Info: 【同種純化】基於前代[PURE_全端_G2198_920]進化

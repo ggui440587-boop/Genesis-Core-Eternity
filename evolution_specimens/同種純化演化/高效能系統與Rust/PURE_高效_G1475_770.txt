@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G1475_770
+Category: 高效能系統與Rust
+Generation: 1475
+Score: 37112
+Info: 【同種純化】基於前代[PURE_高效_G1474_258]進化

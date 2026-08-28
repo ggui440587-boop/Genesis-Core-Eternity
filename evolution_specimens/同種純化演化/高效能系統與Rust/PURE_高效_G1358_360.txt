@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G1358_360
+Category: 高效能系統與Rust
+Generation: 1358
+Score: 34138
+Info: 【同種純化】基於前代[PURE_高效_G1357_243]進化

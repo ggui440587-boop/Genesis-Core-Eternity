@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G455_856
+Category: 全端通用開源專案
+Generation: 455
+Score: 11763
+Info: 【同種純化】基於前代[PURE_全端_G454_165]進化

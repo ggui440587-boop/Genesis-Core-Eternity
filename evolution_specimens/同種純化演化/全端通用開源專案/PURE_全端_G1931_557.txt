@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G1931_557
+Category: 全端通用開源專案
+Generation: 1931
+Score: 48611
+Info: 【同種純化】基於前代[PURE_全端_G1930_489]進化

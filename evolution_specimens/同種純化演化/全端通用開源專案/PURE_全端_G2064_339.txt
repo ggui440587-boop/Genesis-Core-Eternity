@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G2064_339
+Category: 全端通用開源專案
+Generation: 2064
+Score: 52038
+Info: 【同種純化】基於前代[PURE_全端_G2063_743]進化

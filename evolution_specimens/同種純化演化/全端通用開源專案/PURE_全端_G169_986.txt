@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G169_986
+Category: 全端通用開源專案
+Generation: 169
+Score: 4538
+Info: 【同種純化】基於前代[PURE_全端_G168_212]進化

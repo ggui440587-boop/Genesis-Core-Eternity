@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G2002_835
+Category: AI模型與機器學習
+Generation: 2002
+Score: 49561
+Info: 【同種純化】基於前代[PURE_AI_G2001_925]進化

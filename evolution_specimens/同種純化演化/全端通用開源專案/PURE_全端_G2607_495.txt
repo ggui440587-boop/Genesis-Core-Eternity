@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G2607_495
+Category: 全端通用開源專案
+Generation: 2607
+Score: 65964
+Info: 【同種純化】基於前代[PURE_全端_G2606_290]進化

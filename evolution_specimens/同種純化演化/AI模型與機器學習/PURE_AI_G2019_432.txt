@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G2019_432
+Category: AI模型與機器學習
+Generation: 2019
+Score: 50027
+Info: 【同種純化】基於前代[PURE_AI_G2018_912]進化

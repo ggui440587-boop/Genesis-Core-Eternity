@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G2342_562
+Category: 全端通用開源專案
+Generation: 2342
+Score: 59141
+Info: 【同種純化】基於前代[PURE_全端_G2341_879]進化

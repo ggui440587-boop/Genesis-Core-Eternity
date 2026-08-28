@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G1044_510
+Category: 高效能系統與Rust
+Generation: 1044
+Score: 26232
+Info: 【同種純化】基於前代[PURE_高效_G1043_226]進化

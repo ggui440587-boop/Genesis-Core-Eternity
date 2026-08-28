@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G2021_930
+Category: AI模型與機器學習
+Generation: 2021
+Score: 50081
+Info: 【同種純化】基於前代[PURE_AI_G2020_500]進化

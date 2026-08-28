@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G653_494
+Category: AI模型與機器學習
+Generation: 653
+Score: 16188
+Info: 【同種純化】基於前代[PURE_AI_G652_617]進化

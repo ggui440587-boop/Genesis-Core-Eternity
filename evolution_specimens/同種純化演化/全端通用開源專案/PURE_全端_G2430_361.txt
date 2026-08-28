@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G2430_361
+Category: 全端通用開源專案
+Generation: 2430
+Score: 61499
+Info: 【同種純化】基於前代[PURE_全端_G2429_917]進化

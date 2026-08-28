@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G464_894
+Category: AI模型與機器學習
+Generation: 464
+Score: 11569
+Info: 【同種純化】基於前代[PURE_AI_G463_751]進化

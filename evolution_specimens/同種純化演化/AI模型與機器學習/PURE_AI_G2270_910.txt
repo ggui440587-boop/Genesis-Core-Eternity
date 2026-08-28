@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G2270_910
+Category: AI模型與機器學習
+Generation: 2270
+Score: 56294
+Info: 【同種純化】基於前代[PURE_AI_G2269_460]進化

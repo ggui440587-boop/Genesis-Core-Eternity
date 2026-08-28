@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G708_772
+Category: 高效能系統與Rust
+Generation: 708
+Score: 17954
+Info: 【同種純化】基於前代[PURE_高效_G707_309]進化

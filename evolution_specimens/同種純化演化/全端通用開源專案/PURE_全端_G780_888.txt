@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G780_888
+Category: 全端通用開源專案
+Generation: 780
+Score: 20082
+Info: 【同種純化】基於前代[PURE_全端_G779_779]進化

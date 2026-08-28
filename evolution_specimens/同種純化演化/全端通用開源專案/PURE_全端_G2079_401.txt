@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G2079_401
+Category: 全端通用開源專案
+Generation: 2079
+Score: 52382
+Info: 【同種純化】基於前代[PURE_全端_G2078_163]進化

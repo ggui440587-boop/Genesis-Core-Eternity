@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G2577_420
+Category: 高效能系統與Rust
+Generation: 2577
+Score: 64373
+Info: 【同種純化】基於前代[PURE_高效_G2576_789]進化

@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G2645_266
+Category: 全端通用開源專案
+Generation: 2645
+Score: 66917
+Info: 【同種純化】基於前代[PURE_全端_G2644_699]進化

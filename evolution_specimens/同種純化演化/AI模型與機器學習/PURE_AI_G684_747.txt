@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G684_747
+Category: AI模型與機器學習
+Generation: 684
+Score: 16954
+Info: 【同種純化】基於前代[PURE_AI_G683_340]進化

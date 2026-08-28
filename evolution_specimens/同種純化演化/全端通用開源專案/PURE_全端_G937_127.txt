@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G937_127
+Category: 全端通用開源專案
+Generation: 937
+Score: 24003
+Info: 【同種純化】基於前代[PURE_全端_G936_150]進化

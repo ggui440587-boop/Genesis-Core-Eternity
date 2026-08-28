@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G2399_927
+Category: 全端通用開源專案
+Generation: 2399
+Score: 60689
+Info: 【同種純化】基於前代[PURE_全端_G2398_158]進化

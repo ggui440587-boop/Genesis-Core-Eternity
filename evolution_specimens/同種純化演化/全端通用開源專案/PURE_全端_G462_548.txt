@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G462_548
+Category: 全端通用開源專案
+Generation: 462
+Score: 11911
+Info: 【同種純化】基於前代[PURE_全端_G461_914]進化

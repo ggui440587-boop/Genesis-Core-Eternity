@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G648_331
+Category: AI模型與機器學習
+Generation: 648
+Score: 16062
+Info: 【同種純化】基於前代[PURE_AI_G647_152]進化

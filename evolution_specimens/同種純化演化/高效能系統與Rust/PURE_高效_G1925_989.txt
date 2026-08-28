@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G1925_989
+Category: 高效能系統與Rust
+Generation: 1925
+Score: 48441
+Info: 【同種純化】基於前代[PURE_高效_G1924_206]進化

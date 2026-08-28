@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G1880_578
+Category: 全端通用開源專案
+Generation: 1880
+Score: 47450
+Info: 【同種純化】基於前代[PURE_全端_G1879_905]進化

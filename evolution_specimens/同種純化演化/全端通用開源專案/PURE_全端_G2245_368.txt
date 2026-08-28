@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G2245_368
+Category: 全端通用開源專案
+Generation: 2245
+Score: 56692
+Info: 【同種純化】基於前代[PURE_全端_G2244_658]進化

@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G2652_639
+Category: 全端通用開源專案
+Generation: 2652
+Score: 67107
+Info: 【同種純化】基於前代[PURE_全端_G2651_368]進化

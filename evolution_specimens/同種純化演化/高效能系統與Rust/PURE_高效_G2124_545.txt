@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G2124_545
+Category: 高效能系統與Rust
+Generation: 2124
+Score: 53340
+Info: 【同種純化】基於前代[PURE_高效_G2123_710]進化

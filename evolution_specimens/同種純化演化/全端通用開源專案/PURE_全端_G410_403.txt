@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G410_403
+Category: 全端通用開源專案
+Generation: 410
+Score: 10647
+Info: 【同種純化】基於前代[PURE_全端_G409_974]進化

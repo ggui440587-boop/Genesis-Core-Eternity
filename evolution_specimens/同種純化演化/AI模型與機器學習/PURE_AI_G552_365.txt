@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G552_365
+Category: AI模型與機器學習
+Generation: 552
+Score: 13773
+Info: 【同種純化】基於前代[PURE_AI_G551_867]進化

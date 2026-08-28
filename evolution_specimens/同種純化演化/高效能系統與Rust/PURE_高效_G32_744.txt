@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G32_744
+Category: 高效能系統與Rust
+Generation: 32
+Score: 914
+Info: 【同種純化】基於前代[PURE_高效_G31_330]進化

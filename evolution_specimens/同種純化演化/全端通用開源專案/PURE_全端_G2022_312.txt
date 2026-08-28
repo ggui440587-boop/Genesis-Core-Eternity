@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G2022_312
+Category: 全端通用開源專案
+Generation: 2022
+Score: 51034
+Info: 【同種純化】基於前代[PURE_全端_G2021_363]進化

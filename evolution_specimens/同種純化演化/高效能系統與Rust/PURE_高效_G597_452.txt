@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G597_452
+Category: 高效能系統與Rust
+Generation: 597
+Score: 15254
+Info: 【同種純化】基於前代[PURE_高效_G596_916]進化

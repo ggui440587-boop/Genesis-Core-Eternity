@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G103_830
+Category: 全端通用開源專案
+Generation: 103
+Score: 2741
+Info: 【同種純化】基於前代[PURE_全端_G102_508]進化

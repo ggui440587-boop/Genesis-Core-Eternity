@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G2614_613
+Category: 全端通用開源專案
+Generation: 2614
+Score: 66169
+Info: 【同種純化】基於前代[PURE_全端_G2613_298]進化

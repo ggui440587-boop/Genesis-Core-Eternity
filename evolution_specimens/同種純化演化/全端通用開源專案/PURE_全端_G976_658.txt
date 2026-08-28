@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G976_658
+Category: 全端通用開源專案
+Generation: 976
+Score: 24878
+Info: 【同種純化】基於前代[PURE_全端_G975_247]進化

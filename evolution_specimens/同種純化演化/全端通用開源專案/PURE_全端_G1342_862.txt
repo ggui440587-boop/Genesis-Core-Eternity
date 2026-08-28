@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G1342_862
+Category: 全端通用開源專案
+Generation: 1342
+Score: 33813
+Info: 【同種純化】基於前代[PURE_全端_G1341_422]進化

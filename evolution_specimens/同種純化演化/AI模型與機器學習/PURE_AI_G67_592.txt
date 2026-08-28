@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G67_592
+Category: AI模型與機器學習
+Generation: 67
+Score: 1715
+Info: 【同種純化】基於前代[PURE_AI_G66_549]進化

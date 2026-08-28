@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G1702_870
+Category: 全端通用開源專案
+Generation: 1702
+Score: 42950
+Info: 【同種純化】基於前代[PURE_全端_G1701_810]進化

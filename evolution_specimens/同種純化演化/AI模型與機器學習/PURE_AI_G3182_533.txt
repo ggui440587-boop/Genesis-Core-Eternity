@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G3182_533
+Category: AI模型與機器學習
+Generation: 3182
+Score: 79264
+Info: 【同種純化】基於前代[PURE_AI_G3181_741]進化

@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G2385_521
+Category: 全端通用開源專案
+Generation: 2385
+Score: 60287
+Info: 【同種純化】基於前代[PURE_全端_G2384_475]進化

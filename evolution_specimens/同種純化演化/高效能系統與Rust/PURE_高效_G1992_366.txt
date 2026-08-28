@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G1992_366
+Category: 高效能系統與Rust
+Generation: 1992
+Score: 49997
+Info: 【同種純化】基於前代[PURE_高效_G1991_845]進化

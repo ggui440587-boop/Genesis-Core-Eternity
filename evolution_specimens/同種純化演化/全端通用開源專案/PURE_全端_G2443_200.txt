@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G2443_200
+Category: 全端通用開源專案
+Generation: 2443
+Score: 61837
+Info: 【同種純化】基於前代[PURE_全端_G2442_271]進化

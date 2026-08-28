@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G386_382
+Category: AI模型與機器學習
+Generation: 386
+Score: 9681
+Info: 【同種純化】基於前代[PURE_AI_G385_681]進化

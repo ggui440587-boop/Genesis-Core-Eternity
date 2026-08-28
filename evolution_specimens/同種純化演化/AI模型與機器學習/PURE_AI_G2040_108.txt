@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G2040_108
+Category: AI模型與機器學習
+Generation: 2040
+Score: 50599
+Info: 【同種純化】基於前代[PURE_AI_G2039_904]進化

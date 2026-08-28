@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G970_327
+Category: AI模型與機器學習
+Generation: 970
+Score: 24110
+Info: 【同種純化】基於前代[PURE_AI_G969_447]進化

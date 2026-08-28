@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G604_181
+Category: AI模型與機器學習
+Generation: 604
+Score: 14966
+Info: 【同種純化】基於前代[PURE_AI_G603_121]進化

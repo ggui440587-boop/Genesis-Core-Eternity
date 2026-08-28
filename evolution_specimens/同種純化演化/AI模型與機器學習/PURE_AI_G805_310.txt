@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G805_310
+Category: AI模型與機器學習
+Generation: 805
+Score: 19972
+Info: 【同種純化】基於前代[PURE_AI_G804_591]進化

@@ -1,0 +1,4 @@
+Hybrid Specimen: HYBRID_OMEGA_3984
+Score: 121247
+Parents: GH_litellm + HF_unsloth_Qwen3.8-27B-GGUF
+Info: 【混合神獸】融合最強[HYBRID_OMEGA_2288]與異源[GH_litellm]

@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G2546_584
+Category: 全端通用開源專案
+Generation: 2546
+Score: 64452
+Info: 【同種純化】基於前代[PURE_全端_G2545_847]進化

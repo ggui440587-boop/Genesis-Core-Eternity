@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G1084_253
+Category: AI模型與機器學習
+Generation: 1084
+Score: 26865
+Info: 【同種純化】基於前代[PURE_AI_G1083_853]進化

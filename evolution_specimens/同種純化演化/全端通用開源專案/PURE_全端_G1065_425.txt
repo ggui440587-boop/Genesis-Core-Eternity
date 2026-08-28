@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G1065_425
+Category: 全端通用開源專案
+Generation: 1065
+Score: 27080
+Info: 【同種純化】基於前代[PURE_全端_G1064_805]進化

@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G88_167
+Category: 全端通用開源專案
+Generation: 88
+Score: 2366
+Info: 【同種純化】基於前代[PURE_全端_G87_758]進化

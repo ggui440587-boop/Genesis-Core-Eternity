@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G260_340
+Category: 高效能系統與Rust
+Generation: 260
+Score: 6628
+Info: 【同種純化】基於前代[PURE_高效_G259_932]進化

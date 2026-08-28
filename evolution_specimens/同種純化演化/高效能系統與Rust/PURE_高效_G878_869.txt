@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G878_869
+Category: 高效能系統與Rust
+Generation: 878
+Score: 22319
+Info: 【同種純化】基於前代[PURE_高效_G877_749]進化

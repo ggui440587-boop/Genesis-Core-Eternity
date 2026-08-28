@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G127_781
+Category: 高效能系統與Rust
+Generation: 127
+Score: 3284
+Info: 【同種純化】基於前代[PURE_高效_G126_919]進化

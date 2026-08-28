@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G3625_375
+Category: AI模型與機器學習
+Generation: 3625
+Score: 90507
+Info: 【同種純化】基於前代[PURE_AI_G3624_665]進化

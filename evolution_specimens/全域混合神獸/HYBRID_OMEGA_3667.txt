@@ -1,0 +1,4 @@
+Hybrid Specimen: HYBRID_OMEGA_3667
+Score: 256069
+Parents: HF_Qwen_Qwen3.8-Flash-Next + GH_rmux
+Info: 【混合神獸】融合最強[HYBRID_OMEGA_8509]與異源[HF_Qwen_Qwen3.8-Flash-Next]

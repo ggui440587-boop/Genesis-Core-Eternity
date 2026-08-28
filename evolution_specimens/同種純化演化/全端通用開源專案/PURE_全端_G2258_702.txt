@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G2258_702
+Category: 全端通用開源專案
+Generation: 2258
+Score: 57043
+Info: 【同種純化】基於前代[PURE_全端_G2257_776]進化

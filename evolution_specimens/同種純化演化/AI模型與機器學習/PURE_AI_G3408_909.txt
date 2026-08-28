@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G3408_909
+Category: AI模型與機器學習
+Generation: 3408
+Score: 84731
+Info: 【同種純化】基於前代[PURE_AI_G3407_670]進化

@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G1036_420
+Category: 全端通用開源專案
+Generation: 1036
+Score: 26335
+Info: 【同種純化】基於前代[PURE_全端_G1035_377]進化

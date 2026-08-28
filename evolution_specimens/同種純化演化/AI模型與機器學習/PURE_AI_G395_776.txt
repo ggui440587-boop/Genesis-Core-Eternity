@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G395_776
+Category: AI模型與機器學習
+Generation: 395
+Score: 9911
+Info: 【同種純化】基於前代[PURE_AI_G394_743]進化

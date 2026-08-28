@@ -1,0 +1,4 @@
+Hybrid Specimen: HYBRID_OMEGA_7066
+Score: 275316
+Parents: HF_Qwen_Qwen3.8-27B + GH_yek
+Info: 【混合神獸】融合最強[HYBRID_OMEGA_1268]與異源[HF_Qwen_Qwen3.8-27B]

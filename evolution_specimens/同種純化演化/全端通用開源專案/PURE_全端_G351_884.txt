@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G351_884
+Category: 全端通用開源專案
+Generation: 351
+Score: 9174
+Info: 【同種純化】基於前代[PURE_全端_G350_560]進化

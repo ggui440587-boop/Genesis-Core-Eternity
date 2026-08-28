@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G2026_402
+Category: 全端通用開源專案
+Generation: 2026
+Score: 51104
+Info: 【同種純化】基於前代[PURE_全端_G2025_288]進化

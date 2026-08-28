@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G255_889
+Category: AI模型與機器學習
+Generation: 255
+Score: 6323
+Info: 【同種純化】基於前代[PURE_AI_G254_519]進化

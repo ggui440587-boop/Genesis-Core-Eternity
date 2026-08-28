@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G3218_870
+Category: AI模型與機器學習
+Generation: 3218
+Score: 80132
+Info: 【同種純化】基於前代[PURE_AI_G3217_329]進化

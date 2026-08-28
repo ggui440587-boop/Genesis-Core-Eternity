@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G2404_373
+Category: 全端通用開源專案
+Generation: 2404
+Score: 60824
+Info: 【同種純化】基於前代[PURE_全端_G2403_564]進化

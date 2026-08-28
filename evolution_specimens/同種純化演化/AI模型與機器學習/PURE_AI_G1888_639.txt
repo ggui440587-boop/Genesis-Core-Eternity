@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G1888_639
+Category: AI模型與機器學習
+Generation: 1888
+Score: 46788
+Info: 【同種純化】基於前代[PURE_AI_G1887_823]進化

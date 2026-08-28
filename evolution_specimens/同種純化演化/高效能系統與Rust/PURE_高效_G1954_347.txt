@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G1954_347
+Category: 高效能系統與Rust
+Generation: 1954
+Score: 49136
+Info: 【同種純化】基於前代[PURE_高效_G1953_719]進化

@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G1841_113
+Category: AI模型與機器學習
+Generation: 1841
+Score: 45683
+Info: 【同種純化】基於前代[PURE_AI_G1840_465]進化

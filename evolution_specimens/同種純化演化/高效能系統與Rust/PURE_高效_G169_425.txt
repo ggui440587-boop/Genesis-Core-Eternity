@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G169_425
+Category: 高效能系統與Rust
+Generation: 169
+Score: 4387
+Info: 【同種純化】基於前代[PURE_高效_G168_259]進化

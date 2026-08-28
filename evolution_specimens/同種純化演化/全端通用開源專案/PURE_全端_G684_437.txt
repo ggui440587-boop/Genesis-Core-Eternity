@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G684_437
+Category: 全端通用開源專案
+Generation: 684
+Score: 17562
+Info: 【同種純化】基於前代[PURE_全端_G683_235]進化

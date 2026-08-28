@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G1806_631
+Category: 高效能系統與Rust
+Generation: 1806
+Score: 45250
+Info: 【同種純化】基於前代[PURE_高效_G1805_126]進化

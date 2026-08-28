@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G1323_238
+Category: 全端通用開源專案
+Generation: 1323
+Score: 33345
+Info: 【同種純化】基於前代[PURE_全端_G1322_263]進化

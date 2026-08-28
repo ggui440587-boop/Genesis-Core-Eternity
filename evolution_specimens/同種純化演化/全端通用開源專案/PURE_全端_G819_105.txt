@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G819_105
+Category: 全端通用開源專案
+Generation: 819
+Score: 21058
+Info: 【同種純化】基於前代[PURE_全端_G818_738]進化

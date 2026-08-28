@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G2604_240
+Category: 高效能系統與Rust
+Generation: 2604
+Score: 65057
+Info: 【同種純化】基於前代[PURE_高效_G2603_675]進化

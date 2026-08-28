@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G2503_678
+Category: 全端通用開源專案
+Generation: 2503
+Score: 63359
+Info: 【同種純化】基於前代[PURE_全端_G2502_947]進化

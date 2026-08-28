@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G2508_100
+Category: 全端通用開源專案
+Generation: 2508
+Score: 63526
+Info: 【同種純化】基於前代[PURE_全端_G2507_625]進化

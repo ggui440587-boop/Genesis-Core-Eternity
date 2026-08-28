@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G2690_705
+Category: AI模型與機器學習
+Generation: 2690
+Score: 66915
+Info: 【同種純化】基於前代[PURE_AI_G2689_993]進化

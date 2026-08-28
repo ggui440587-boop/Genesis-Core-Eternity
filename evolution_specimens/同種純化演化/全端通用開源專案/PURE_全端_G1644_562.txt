@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G1644_562
+Category: 全端通用開源專案
+Generation: 1644
+Score: 41465
+Info: 【同種純化】基於前代[PURE_全端_G1643_151]進化

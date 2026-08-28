@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G2183_989
+Category: 全端通用開源專案
+Generation: 2183
+Score: 55091
+Info: 【同種純化】基於前代[PURE_全端_G2182_374]進化

@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G992_235
+Category: AI模型與機器學習
+Generation: 992
+Score: 24693
+Info: 【同種純化】基於前代[PURE_AI_G991_569]進化

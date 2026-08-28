@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G1864_817
+Category: 全端通用開源專案
+Generation: 1864
+Score: 46990
+Info: 【同種純化】基於前代[PURE_全端_G1863_396]進化

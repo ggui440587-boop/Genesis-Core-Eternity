@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G3623_692
+Category: AI模型與機器學習
+Generation: 3623
+Score: 90470
+Info: 【同種純化】基於前代[PURE_AI_G3622_564]進化

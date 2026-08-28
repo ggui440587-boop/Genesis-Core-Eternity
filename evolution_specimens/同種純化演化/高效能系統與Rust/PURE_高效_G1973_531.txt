@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G1973_531
+Category: 高效能系統與Rust
+Generation: 1973
+Score: 49586
+Info: 【同種純化】基於前代[PURE_高效_G1972_537]進化

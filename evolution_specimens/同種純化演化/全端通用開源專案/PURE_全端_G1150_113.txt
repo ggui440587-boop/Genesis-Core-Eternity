@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G1150_113
+Category: 全端通用開源專案
+Generation: 1150
+Score: 29232
+Info: 【同種純化】基於前代[PURE_全端_G1149_654]進化

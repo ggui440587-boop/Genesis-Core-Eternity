@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G1787_628
+Category: 全端通用開源專案
+Generation: 1787
+Score: 45087
+Info: 【同種純化】基於前代[PURE_全端_G1786_619]進化

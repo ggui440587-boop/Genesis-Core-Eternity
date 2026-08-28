@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G1244_232
+Category: AI模型與機器學習
+Generation: 1244
+Score: 30831
+Info: 【同種純化】基於前代[PURE_AI_G1243_182]進化

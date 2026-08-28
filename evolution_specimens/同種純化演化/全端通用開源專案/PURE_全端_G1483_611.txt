@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G1483_611
+Category: 全端通用開源專案
+Generation: 1483
+Score: 37363
+Info: 【同種純化】基於前代[PURE_全端_G1482_428]進化

@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G838_848
+Category: 全端通用開源專案
+Generation: 838
+Score: 21532
+Info: 【同種純化】基於前代[PURE_全端_G837_980]進化

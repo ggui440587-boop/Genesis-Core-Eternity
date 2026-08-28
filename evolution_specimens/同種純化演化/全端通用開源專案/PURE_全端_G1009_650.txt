@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G1009_650
+Category: 全端通用開源專案
+Generation: 1009
+Score: 25681
+Info: 【同種純化】基於前代[PURE_全端_G1008_488]進化

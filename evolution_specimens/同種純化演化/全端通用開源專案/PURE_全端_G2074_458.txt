@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G2074_458
+Category: 全端通用開源專案
+Generation: 2074
+Score: 52247
+Info: 【同種純化】基於前代[PURE_全端_G2073_631]進化

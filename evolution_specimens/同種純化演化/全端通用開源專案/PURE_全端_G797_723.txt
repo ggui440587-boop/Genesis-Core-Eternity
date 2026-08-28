@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G797_723
+Category: 全端通用開源專案
+Generation: 797
+Score: 20514
+Info: 【同種純化】基於前代[PURE_全端_G796_384]進化

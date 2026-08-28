@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G2317_714
+Category: 全端通用開源專案
+Generation: 2317
+Score: 58521
+Info: 【同種純化】基於前代[PURE_全端_G2316_451]進化

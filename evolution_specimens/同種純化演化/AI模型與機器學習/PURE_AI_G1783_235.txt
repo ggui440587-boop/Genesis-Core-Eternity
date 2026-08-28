@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G1783_235
+Category: AI模型與機器學習
+Generation: 1783
+Score: 44257
+Info: 【同種純化】基於前代[PURE_AI_G1782_402]進化

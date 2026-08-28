@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G292_120
+Category: 全端通用開源專案
+Generation: 292
+Score: 7667
+Info: 【同種純化】基於前代[PURE_全端_G291_328]進化

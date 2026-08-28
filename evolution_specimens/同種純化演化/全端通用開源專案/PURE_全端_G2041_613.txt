@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G2041_613
+Category: 全端通用開源專案
+Generation: 2041
+Score: 51478
+Info: 【同種純化】基於前代[PURE_全端_G2040_625]進化

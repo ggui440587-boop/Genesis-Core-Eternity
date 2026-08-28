@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G1900_538
+Category: AI模型與機器學習
+Generation: 1900
+Score: 47080
+Info: 【同種純化】基於前代[PURE_AI_G1899_744]進化

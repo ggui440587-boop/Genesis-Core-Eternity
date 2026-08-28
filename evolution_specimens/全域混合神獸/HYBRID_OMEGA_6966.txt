@@ -1,0 +1,4 @@
+Hybrid Specimen: HYBRID_OMEGA_6966
+Score: 189102
+Parents: GH_litellm + GH_rmux
+Info: 【混合神獸】融合最強[HYBRID_OMEGA_5416]與異源[GH_litellm]

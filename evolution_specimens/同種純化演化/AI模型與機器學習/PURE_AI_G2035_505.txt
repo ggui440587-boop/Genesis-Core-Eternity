@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G2035_505
+Category: AI模型與機器學習
+Generation: 2035
+Score: 50481
+Info: 【同種純化】基於前代[PURE_AI_G2034_442]進化

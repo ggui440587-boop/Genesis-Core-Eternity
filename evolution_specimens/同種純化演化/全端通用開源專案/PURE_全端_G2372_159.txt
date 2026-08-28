@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G2372_159
+Category: 全端通用開源專案
+Generation: 2372
+Score: 59950
+Info: 【同種純化】基於前代[PURE_全端_G2371_284]進化

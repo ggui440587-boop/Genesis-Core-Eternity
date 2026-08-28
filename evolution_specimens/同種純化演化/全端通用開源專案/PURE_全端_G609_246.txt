@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G609_246
+Category: 全端通用開源專案
+Generation: 609
+Score: 15612
+Info: 【同種純化】基於前代[PURE_全端_G608_500]進化

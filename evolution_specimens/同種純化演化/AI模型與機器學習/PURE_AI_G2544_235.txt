@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G2544_235
+Category: AI模型與機器學習
+Generation: 2544
+Score: 63316
+Info: 【同種純化】基於前代[PURE_AI_G2543_426]進化

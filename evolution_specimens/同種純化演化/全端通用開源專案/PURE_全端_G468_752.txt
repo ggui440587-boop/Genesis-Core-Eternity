@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G468_752
+Category: 全端通用開源專案
+Generation: 468
+Score: 12101
+Info: 【同種純化】基於前代[PURE_全端_G467_190]進化

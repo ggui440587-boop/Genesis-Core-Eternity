@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G2122_278
+Category: 全端通用開源專案
+Generation: 2122
+Score: 53434
+Info: 【同種純化】基於前代[PURE_全端_G2121_431]進化

@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G431_854
+Category: AI模型與機器學習
+Generation: 431
+Score: 10756
+Info: 【同種純化】基於前代[PURE_AI_G430_785]進化

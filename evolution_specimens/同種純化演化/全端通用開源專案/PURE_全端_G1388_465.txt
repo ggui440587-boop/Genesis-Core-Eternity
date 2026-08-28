@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G1388_465
+Category: 全端通用開源專案
+Generation: 1388
+Score: 34879
+Info: 【同種純化】基於前代[PURE_全端_G1387_762]進化

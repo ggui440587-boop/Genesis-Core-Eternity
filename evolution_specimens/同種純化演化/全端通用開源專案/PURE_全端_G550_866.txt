@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G550_866
+Category: 全端通用開源專案
+Generation: 550
+Score: 14090
+Info: 【同種純化】基於前代[PURE_全端_G549_824]進化

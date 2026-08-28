@@ -1,0 +1,4 @@
+Hybrid Specimen: HYBRID_OMEGA_8846
+Score: 159472
+Parents: HF_zai-org_GLM-5.3-Flash + CR_ABC_lumenpyx
+Info: 【混合神獸】融合最強[HYBRID_OMEGA_4774]與異源[HF_zai-org_GLM-5.3-Flash]

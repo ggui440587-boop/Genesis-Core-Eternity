@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G656_522
+Category: AI模型與機器學習
+Generation: 656
+Score: 16265
+Info: 【同種純化】基於前代[PURE_AI_G655_669]進化

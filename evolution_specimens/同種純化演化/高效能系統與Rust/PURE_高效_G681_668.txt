@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G681_668
+Category: 高效能系統與Rust
+Generation: 681
+Score: 17320
+Info: 【同種純化】基於前代[PURE_高效_G680_742]進化

@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G2169_461
+Category: 全端通用開源專案
+Generation: 2169
+Score: 54761
+Info: 【同種純化】基於前代[PURE_全端_G2168_689]進化

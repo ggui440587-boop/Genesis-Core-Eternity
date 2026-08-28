@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G337_520
+Category: 全端通用開源專案
+Generation: 337
+Score: 8787
+Info: 【同種純化】基於前代[PURE_全端_G336_398]進化

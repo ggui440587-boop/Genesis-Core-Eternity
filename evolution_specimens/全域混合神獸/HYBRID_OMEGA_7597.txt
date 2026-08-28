@@ -1,0 +1,4 @@
+Hybrid Specimen: HYBRID_OMEGA_7597
+Score: 287167
+Parents: HF_Qwen_Qwen3.8-27B + HF_Qwen_Qwen3.8-27B
+Info: 【混合神獸】融合最強[HYBRID_OMEGA_5179]與異源[HF_Qwen_Qwen3.8-27B]

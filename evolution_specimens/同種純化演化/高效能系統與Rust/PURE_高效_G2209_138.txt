@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G2209_138
+Category: 高效能系統與Rust
+Generation: 2209
+Score: 55342
+Info: 【同種純化】基於前代[PURE_高效_G2208_162]進化

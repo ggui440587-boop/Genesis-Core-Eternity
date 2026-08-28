@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G1926_264
+Category: 全端通用開源專案
+Generation: 1926
+Score: 48527
+Info: 【同種純化】基於前代[PURE_全端_G1925_734]進化

@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G118_801
+Category: 全端通用開源專案
+Generation: 118
+Score: 3090
+Info: 【同種純化】基於前代[PURE_全端_G117_133]進化

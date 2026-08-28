@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G396_907
+Category: 全端通用開源專案
+Generation: 396
+Score: 10303
+Info: 【同種純化】基於前代[PURE_全端_G395_445]進化

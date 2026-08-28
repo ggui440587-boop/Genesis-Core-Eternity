@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G204_517
+Category: 全端通用開源專案
+Generation: 204
+Score: 5366
+Info: 【同種純化】基於前代[PURE_全端_G203_418]進化

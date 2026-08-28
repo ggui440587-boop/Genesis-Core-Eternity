@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G876_430
+Category: 全端通用開源專案
+Generation: 876
+Score: 22431
+Info: 【同種純化】基於前代[PURE_全端_G875_440]進化

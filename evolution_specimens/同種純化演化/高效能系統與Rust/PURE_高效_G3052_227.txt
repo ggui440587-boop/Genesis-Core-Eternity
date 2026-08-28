@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G3052_227
+Category: 高效能系統與Rust
+Generation: 3052
+Score: 76484
+Info: 【同種純化】基於前代[PURE_高效_G3051_740]進化

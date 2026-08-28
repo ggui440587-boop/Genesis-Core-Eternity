@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G232_147
+Category: 高效能系統與Rust
+Generation: 232
+Score: 5932
+Info: 【同種純化】基於前代[PURE_高效_G231_473]進化

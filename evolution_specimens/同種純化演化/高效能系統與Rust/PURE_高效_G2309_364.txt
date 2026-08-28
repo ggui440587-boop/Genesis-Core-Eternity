@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G2309_364
+Category: 高效能系統與Rust
+Generation: 2309
+Score: 57700
+Info: 【同種純化】基於前代[PURE_高效_G2308_282]進化

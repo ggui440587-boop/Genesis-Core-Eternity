@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G2043_889
+Category: AI模型與機器學習
+Generation: 2043
+Score: 50652
+Info: 【同種純化】基於前代[PURE_AI_G2042_931]進化

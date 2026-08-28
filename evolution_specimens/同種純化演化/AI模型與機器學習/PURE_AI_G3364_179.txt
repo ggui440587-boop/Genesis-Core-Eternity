@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G3364_179
+Category: AI模型與機器學習
+Generation: 3364
+Score: 83725
+Info: 【同種純化】基於前代[PURE_AI_G3363_140]進化

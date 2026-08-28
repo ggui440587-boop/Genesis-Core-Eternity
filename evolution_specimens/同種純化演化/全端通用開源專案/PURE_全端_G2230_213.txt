@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G2230_213
+Category: 全端通用開源專案
+Generation: 2230
+Score: 56257
+Info: 【同種純化】基於前代[PURE_全端_G2229_690]進化

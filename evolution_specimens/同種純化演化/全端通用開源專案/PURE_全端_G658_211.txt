@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G658_211
+Category: 全端通用開源專案
+Generation: 658
+Score: 16823
+Info: 【同種純化】基於前代[PURE_全端_G657_752]進化

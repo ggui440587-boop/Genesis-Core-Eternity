@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G1916_631
+Category: 全端通用開源專案
+Generation: 1916
+Score: 48307
+Info: 【同種純化】基於前代[PURE_全端_G1915_256]進化

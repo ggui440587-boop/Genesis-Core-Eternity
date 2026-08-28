@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G2054_978
+Category: 全端通用開源專案
+Generation: 2054
+Score: 51776
+Info: 【同種純化】基於前代[PURE_全端_G2053_149]進化

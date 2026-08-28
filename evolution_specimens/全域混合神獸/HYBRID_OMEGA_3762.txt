@@ -1,0 +1,4 @@
+Hybrid Specimen: HYBRID_OMEGA_3762
+Score: 115190
+Parents: SEED_446 + HF_unsloth_Qwen3.8-27B-GGUF
+Info: 【混合神獸】融合最強[HYBRID_OMEGA_9171]與異源[SEED_446]

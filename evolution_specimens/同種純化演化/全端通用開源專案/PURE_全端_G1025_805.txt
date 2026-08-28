@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G1025_805
+Category: 全端通用開源專案
+Generation: 1025
+Score: 26036
+Info: 【同種純化】基於前代[PURE_全端_G1024_906]進化

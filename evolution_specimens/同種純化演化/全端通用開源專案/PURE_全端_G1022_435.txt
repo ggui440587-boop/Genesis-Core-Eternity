@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G1022_435
+Category: 全端通用開源專案
+Generation: 1022
+Score: 25965
+Info: 【同種純化】基於前代[PURE_全端_G1021_207]進化

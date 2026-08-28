@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G3069_908
+Category: AI模型與機器學習
+Generation: 3069
+Score: 76341
+Info: 【同種純化】基於前代[PURE_AI_G3068_977]進化

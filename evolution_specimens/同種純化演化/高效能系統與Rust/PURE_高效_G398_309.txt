@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G398_309
+Category: 高效能系統與Rust
+Generation: 398
+Score: 10115
+Info: 【同種純化】基於前代[PURE_高效_G397_840]進化

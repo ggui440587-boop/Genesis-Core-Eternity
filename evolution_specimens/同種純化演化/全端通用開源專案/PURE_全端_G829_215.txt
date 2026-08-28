@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G829_215
+Category: 全端通用開源專案
+Generation: 829
+Score: 21323
+Info: 【同種純化】基於前代[PURE_全端_G828_523]進化

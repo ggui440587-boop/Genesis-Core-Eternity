@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G577_349
+Category: 全端通用開源專案
+Generation: 577
+Score: 14822
+Info: 【同種純化】基於前代[PURE_全端_G576_158]進化

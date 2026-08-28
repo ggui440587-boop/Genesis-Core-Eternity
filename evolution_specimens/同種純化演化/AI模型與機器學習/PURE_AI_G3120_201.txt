@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G3120_201
+Category: AI模型與機器學習
+Generation: 3120
+Score: 77695
+Info: 【同種純化】基於前代[PURE_AI_G3119_932]進化

@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G138_108
+Category: 高效能系統與Rust
+Generation: 138
+Score: 3590
+Info: 【同種純化】基於前代[PURE_高效_G137_846]進化

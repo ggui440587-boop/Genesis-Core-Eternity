@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G2155_819
+Category: AI模型與機器學習
+Generation: 2155
+Score: 53402
+Info: 【同種純化】基於前代[PURE_AI_G2154_770]進化

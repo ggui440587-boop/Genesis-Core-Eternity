@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G2705_190
+Category: 全端通用開源專案
+Generation: 2705
+Score: 68509
+Info: 【同種純化】基於前代[PURE_全端_G2704_210]進化

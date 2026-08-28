@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G178_528
+Category: AI模型與機器學習
+Generation: 178
+Score: 4382
+Info: 【同種純化】基於前代[PURE_AI_G177_119]進化

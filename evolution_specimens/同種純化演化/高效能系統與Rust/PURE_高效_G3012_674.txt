@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G3012_674
+Category: 高效能系統與Rust
+Generation: 3012
+Score: 75433
+Info: 【同種純化】基於前代[PURE_高效_G3011_690]進化

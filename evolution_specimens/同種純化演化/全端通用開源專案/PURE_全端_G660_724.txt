@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G660_724
+Category: 全端通用開源專案
+Generation: 660
+Score: 16880
+Info: 【同種純化】基於前代[PURE_全端_G659_214]進化

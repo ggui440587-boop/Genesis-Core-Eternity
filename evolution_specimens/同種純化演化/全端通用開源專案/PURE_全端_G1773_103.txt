@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G1773_103
+Category: 全端通用開源專案
+Generation: 1773
+Score: 44728
+Info: 【同種純化】基於前代[PURE_全端_G1772_143]進化

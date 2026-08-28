@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G3133_504
+Category: 高效能系統與Rust
+Generation: 3133
+Score: 78655
+Info: 【同種純化】基於前代[PURE_高效_G3132_207]進化

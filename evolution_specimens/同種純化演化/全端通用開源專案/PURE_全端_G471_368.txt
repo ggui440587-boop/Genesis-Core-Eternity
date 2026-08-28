@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G471_368
+Category: 全端通用開源專案
+Generation: 471
+Score: 12177
+Info: 【同種純化】基於前代[PURE_全端_G470_986]進化

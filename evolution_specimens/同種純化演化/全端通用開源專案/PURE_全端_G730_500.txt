@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G730_500
+Category: 全端通用開源專案
+Generation: 730
+Score: 18832
+Info: 【同種純化】基於前代[PURE_全端_G729_991]進化

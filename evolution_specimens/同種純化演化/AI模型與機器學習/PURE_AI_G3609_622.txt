@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G3609_622
+Category: AI模型與機器學習
+Generation: 3609
+Score: 90043
+Info: 【同種純化】基於前代[PURE_AI_G3608_772]進化

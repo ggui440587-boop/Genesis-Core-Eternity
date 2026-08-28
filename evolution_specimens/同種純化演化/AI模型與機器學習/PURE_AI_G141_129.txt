@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G141_129
+Category: AI模型與機器學習
+Generation: 141
+Score: 3506
+Info: 【同種純化】基於前代[PURE_AI_G140_787]進化

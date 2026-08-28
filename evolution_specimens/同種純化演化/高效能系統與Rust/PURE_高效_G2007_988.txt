@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G2007_988
+Category: 高效能系統與Rust
+Generation: 2007
+Score: 50337
+Info: 【同種純化】基於前代[PURE_高效_G2006_996]進化

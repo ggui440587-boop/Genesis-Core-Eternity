@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G746_568
+Category: 全端通用開源專案
+Generation: 746
+Score: 19206
+Info: 【同種純化】基於前代[PURE_全端_G745_810]進化

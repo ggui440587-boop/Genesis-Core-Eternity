@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G1790_206
+Category: 全端通用開源專案
+Generation: 1790
+Score: 45177
+Info: 【同種純化】基於前代[PURE_全端_G1789_634]進化

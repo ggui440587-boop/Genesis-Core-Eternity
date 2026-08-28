@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G2063_424
+Category: 高效能系統與Rust
+Generation: 2063
+Score: 51758
+Info: 【同種純化】基於前代[PURE_高效_G2062_231]進化

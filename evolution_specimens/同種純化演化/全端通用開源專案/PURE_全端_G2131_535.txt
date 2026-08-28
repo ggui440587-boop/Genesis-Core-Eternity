@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G2131_535
+Category: 全端通用開源專案
+Generation: 2131
+Score: 53672
+Info: 【同種純化】基於前代[PURE_全端_G2130_660]進化

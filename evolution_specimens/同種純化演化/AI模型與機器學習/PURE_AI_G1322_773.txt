@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G1322_773
+Category: AI模型與機器學習
+Generation: 1322
+Score: 32830
+Info: 【同種純化】基於前代[PURE_AI_G1321_854]進化

@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G530_474
+Category: 全端通用開源專案
+Generation: 530
+Score: 13630
+Info: 【同種純化】基於前代[PURE_全端_G529_788]進化

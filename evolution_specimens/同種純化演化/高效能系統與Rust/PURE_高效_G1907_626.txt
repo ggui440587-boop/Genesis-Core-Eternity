@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G1907_626
+Category: 高效能系統與Rust
+Generation: 1907
+Score: 47967
+Info: 【同種純化】基於前代[PURE_高效_G1906_905]進化

@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G870_383
+Category: 全端通用開源專案
+Generation: 870
+Score: 22288
+Info: 【同種純化】基於前代[PURE_全端_G869_291]進化

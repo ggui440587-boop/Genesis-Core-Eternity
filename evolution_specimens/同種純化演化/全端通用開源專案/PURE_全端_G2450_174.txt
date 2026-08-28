@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G2450_174
+Category: 全端通用開源專案
+Generation: 2450
+Score: 61972
+Info: 【同種純化】基於前代[PURE_全端_G2449_731]進化

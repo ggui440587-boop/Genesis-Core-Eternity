@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G807_928
+Category: 全端通用開源專案
+Generation: 807
+Score: 20749
+Info: 【同種純化】基於前代[PURE_全端_G806_133]進化

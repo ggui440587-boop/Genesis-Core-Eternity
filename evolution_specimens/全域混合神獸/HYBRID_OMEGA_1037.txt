@@ -1,0 +1,4 @@
+Hybrid Specimen: HYBRID_OMEGA_1037
+Score: 200290
+Parents: CR_ABC_Game_Engine + GH_mirrord
+Info: 【混合神獸】融合最強[HYBRID_OMEGA_5157]與異源[CR_ABC_Game_Engine]

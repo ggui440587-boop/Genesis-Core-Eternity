@@ -1,0 +1,4 @@
+Hybrid Specimen: HYBRID_OMEGA_5241
+Score: 288968
+Parents: GH_yek + HF_OBLITERATUS_Qwen3.8-27B-OBLITERATED
+Info: 【混合神獸】融合最強[HYBRID_OMEGA_2276]與異源[GH_yek]

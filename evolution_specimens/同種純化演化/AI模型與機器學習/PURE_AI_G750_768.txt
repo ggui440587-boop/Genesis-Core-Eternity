@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G750_768
+Category: AI模型與機器學習
+Generation: 750
+Score: 18585
+Info: 【同種純化】基於前代[PURE_AI_G749_679]進化

@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G1923_225
+Category: AI模型與機器學習
+Generation: 1923
+Score: 47707
+Info: 【同種純化】基於前代[PURE_AI_G1922_808]進化

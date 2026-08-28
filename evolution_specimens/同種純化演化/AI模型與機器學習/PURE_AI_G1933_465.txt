@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G1933_465
+Category: AI模型與機器學習
+Generation: 1933
+Score: 47954
+Info: 【同種純化】基於前代[PURE_AI_G1932_220]進化

@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G75_566
+Category: 全端通用開源專案
+Generation: 75
+Score: 1982
+Info: 【同種純化】基於前代[PURE_全端_G74_344]進化

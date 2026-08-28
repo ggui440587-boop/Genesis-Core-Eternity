@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G724_139
+Category: 全端通用開源專案
+Generation: 724
+Score: 18642
+Info: 【同種純化】基於前代[PURE_全端_G723_395]進化

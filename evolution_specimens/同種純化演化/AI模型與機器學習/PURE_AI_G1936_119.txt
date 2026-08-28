@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G1936_119
+Category: AI模型與機器學習
+Generation: 1936
+Score: 48024
+Info: 【同種純化】基於前代[PURE_AI_G1935_410]進化

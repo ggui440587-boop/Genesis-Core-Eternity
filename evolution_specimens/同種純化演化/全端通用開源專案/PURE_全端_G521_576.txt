@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G521_576
+Category: 全端通用開源專案
+Generation: 521
+Score: 13402
+Info: 【同種純化】基於前代[PURE_全端_G520_861]進化

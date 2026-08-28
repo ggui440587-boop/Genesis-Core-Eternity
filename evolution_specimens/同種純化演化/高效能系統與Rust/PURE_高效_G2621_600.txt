@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G2621_600
+Category: 高效能系統與Rust
+Generation: 2621
+Score: 65404
+Info: 【同種純化】基於前代[PURE_高效_G2620_920]進化

@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G12_357
+Category: 全端通用開源專案
+Generation: 12
+Score: 429
+Info: 【同種純化】基於前代[PURE_全端_G11_302]進化

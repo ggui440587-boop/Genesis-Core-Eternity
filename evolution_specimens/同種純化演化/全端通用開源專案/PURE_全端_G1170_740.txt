@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G1170_740
+Category: 全端通用開源專案
+Generation: 1170
+Score: 29702
+Info: 【同種純化】基於前代[PURE_全端_G1169_806]進化

@@ -1,0 +1,4 @@
+Hybrid Specimen: HYBRID_OMEGA_1976
+Score: 297843
+Parents: GH_litellm + HF_OBLITERATUS_Qwen3.8-27B-OBLITERATED
+Info: 【混合神獸】融合最強[HYBRID_OMEGA_8945]與異源[GH_litellm]

@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G458_376
+Category: 全端通用開源專案
+Generation: 458
+Score: 11835
+Info: 【同種純化】基於前代[PURE_全端_G457_467]進化

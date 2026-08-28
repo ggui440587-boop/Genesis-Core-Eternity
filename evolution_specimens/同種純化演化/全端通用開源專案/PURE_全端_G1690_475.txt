@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G1690_475
+Category: 全端通用開源專案
+Generation: 1690
+Score: 42635
+Info: 【同種純化】基於前代[PURE_全端_G1689_642]進化

@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G813_693
+Category: AI模型與機器學習
+Generation: 813
+Score: 20179
+Info: 【同種純化】基於前代[PURE_AI_G812_587]進化

@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G225_703
+Category: 全端通用開源專案
+Generation: 225
+Score: 5963
+Info: 【同種純化】基於前代[PURE_全端_G224_658]進化

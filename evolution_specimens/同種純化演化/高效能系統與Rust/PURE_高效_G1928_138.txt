@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G1928_138
+Category: 高效能系統與Rust
+Generation: 1928
+Score: 48513
+Info: 【同種純化】基於前代[PURE_高效_G1927_525]進化

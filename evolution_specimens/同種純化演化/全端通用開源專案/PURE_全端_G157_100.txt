@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G157_100
+Category: 全端通用開源專案
+Generation: 157
+Score: 4176
+Info: 【同種純化】基於前代[PURE_全端_G156_125]進化

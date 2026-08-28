@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G1326_584
+Category: 全端通用開源專案
+Generation: 1326
+Score: 33406
+Info: 【同種純化】基於前代[PURE_全端_G1325_635]進化

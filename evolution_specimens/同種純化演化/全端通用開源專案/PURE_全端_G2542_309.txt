@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G2542_309
+Category: 全端通用開源專案
+Generation: 2542
+Score: 64345
+Info: 【同種純化】基於前代[PURE_全端_G2541_593]進化

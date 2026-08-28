@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G120_775
+Category: 全端通用開源專案
+Generation: 120
+Score: 3139
+Info: 【同種純化】基於前代[PURE_全端_G119_175]進化

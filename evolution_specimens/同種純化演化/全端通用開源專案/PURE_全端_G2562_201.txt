@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G2562_201
+Category: 全端通用開源專案
+Generation: 2562
+Score: 64797
+Info: 【同種純化】基於前代[PURE_全端_G2561_393]進化

@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G890_501
+Category: 全端通用開源專案
+Generation: 890
+Score: 22748
+Info: 【同種純化】基於前代[PURE_全端_G889_482]進化

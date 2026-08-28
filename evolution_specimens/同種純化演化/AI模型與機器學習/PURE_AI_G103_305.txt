@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G103_305
+Category: AI模型與機器學習
+Generation: 103
+Score: 2593
+Info: 【同種純化】基於前代[PURE_AI_G102_687]進化

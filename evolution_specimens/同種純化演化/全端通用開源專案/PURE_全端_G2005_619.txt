@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G2005_619
+Category: 全端通用開源專案
+Generation: 2005
+Score: 50612
+Info: 【同種純化】基於前代[PURE_全端_G2004_427]進化

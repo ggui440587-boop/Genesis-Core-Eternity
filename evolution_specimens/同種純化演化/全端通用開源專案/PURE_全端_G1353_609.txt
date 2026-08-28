@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G1353_609
+Category: 全端通用開源專案
+Generation: 1353
+Score: 34064
+Info: 【同種純化】基於前代[PURE_全端_G1352_256]進化

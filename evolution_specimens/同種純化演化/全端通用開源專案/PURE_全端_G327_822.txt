@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G327_822
+Category: 全端通用開源專案
+Generation: 327
+Score: 8514
+Info: 【同種純化】基於前代[PURE_全端_G326_723]進化

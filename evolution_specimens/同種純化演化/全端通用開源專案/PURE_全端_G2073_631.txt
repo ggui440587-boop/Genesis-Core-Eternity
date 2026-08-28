@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G2073_631
+Category: 全端通用開源專案
+Generation: 2073
+Score: 52222
+Info: 【同種純化】基於前代[PURE_全端_G2072_993]進化

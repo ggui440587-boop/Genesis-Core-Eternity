@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G1866_541
+Category: 全端通用開源專案
+Generation: 1866
+Score: 47041
+Info: 【同種純化】基於前代[PURE_全端_G1865_838]進化

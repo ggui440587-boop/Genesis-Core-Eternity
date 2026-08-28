@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G127_228
+Category: 全端通用開源專案
+Generation: 127
+Score: 3305
+Info: 【同種純化】基於前代[PURE_全端_G126_253]進化

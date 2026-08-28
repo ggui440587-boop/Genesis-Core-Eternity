@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G669_489
+Category: 全端通用開源專案
+Generation: 669
+Score: 17135
+Info: 【同種純化】基於前代[PURE_全端_G668_281]進化

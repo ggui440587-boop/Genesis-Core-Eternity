@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G809_953
+Category: 全端通用開源專案
+Generation: 809
+Score: 20793
+Info: 【同種純化】基於前代[PURE_全端_G808_682]進化

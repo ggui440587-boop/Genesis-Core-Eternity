@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G504_923
+Category: 全端通用開源專案
+Generation: 504
+Score: 13000
+Info: 【同種純化】基於前代[PURE_全端_G503_727]進化

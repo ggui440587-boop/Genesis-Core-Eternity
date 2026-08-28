@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G690_281
+Category: 高效能系統與Rust
+Generation: 690
+Score: 17526
+Info: 【同種純化】基於前代[PURE_高效_G689_299]進化

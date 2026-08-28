@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G257_728
+Category: 高效能系統與Rust
+Generation: 257
+Score: 6545
+Info: 【同種純化】基於前代[PURE_高效_G256_510]進化

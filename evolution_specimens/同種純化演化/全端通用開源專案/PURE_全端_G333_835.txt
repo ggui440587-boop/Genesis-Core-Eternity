@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G333_835
+Category: 全端通用開源專案
+Generation: 333
+Score: 8669
+Info: 【同種純化】基於前代[PURE_全端_G332_885]進化

@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G662_416
+Category: 全端通用開源專案
+Generation: 662
+Score: 16938
+Info: 【同種純化】基於前代[PURE_全端_G661_213]進化

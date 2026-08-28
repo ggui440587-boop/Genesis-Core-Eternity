@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G3065_715
+Category: AI模型與機器學習
+Generation: 3065
+Score: 76244
+Info: 【同種純化】基於前代[PURE_AI_G3064_839]進化

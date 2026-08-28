@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G350_560
+Category: 全端通用開源專案
+Generation: 350
+Score: 9141
+Info: 【同種純化】基於前代[PURE_全端_G349_515]進化

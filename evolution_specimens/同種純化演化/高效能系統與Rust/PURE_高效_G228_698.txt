@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G228_698
+Category: 高效能系統與Rust
+Generation: 228
+Score: 5827
+Info: 【同種純化】基於前代[PURE_高效_G227_902]進化

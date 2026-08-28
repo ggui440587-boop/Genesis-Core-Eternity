@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G3494_156
+Category: AI模型與機器學習
+Generation: 3494
+Score: 87047
+Info: 【同種純化】基於前代[PURE_AI_G3493_330]進化

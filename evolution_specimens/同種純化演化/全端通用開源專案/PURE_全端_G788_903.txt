@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G788_903
+Category: 全端通用開源專案
+Generation: 788
+Score: 20288
+Info: 【同種純化】基於前代[PURE_全端_G787_586]進化

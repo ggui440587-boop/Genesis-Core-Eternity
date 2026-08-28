@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G2587_371
+Category: 全端通用開源專案
+Generation: 2587
+Score: 65493
+Info: 【同種純化】基於前代[PURE_全端_G2586_677]進化

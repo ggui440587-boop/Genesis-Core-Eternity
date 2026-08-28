@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G2462_795
+Category: 高效能系統與Rust
+Generation: 2462
+Score: 61472
+Info: 【同種純化】基於前代[PURE_高效_G2461_836]進化

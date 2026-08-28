@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G1634_261
+Category: 全端通用開源專案
+Generation: 1634
+Score: 41255
+Info: 【同種純化】基於前代[PURE_全端_G1633_286]進化

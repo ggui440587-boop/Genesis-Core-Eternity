@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G740_881
+Category: 高效能系統與Rust
+Generation: 740
+Score: 18785
+Info: 【同種純化】基於前代[PURE_高效_G739_804]進化

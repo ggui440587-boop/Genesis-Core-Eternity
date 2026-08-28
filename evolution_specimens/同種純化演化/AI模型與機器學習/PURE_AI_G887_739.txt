@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G887_739
+Category: AI模型與機器學習
+Generation: 887
+Score: 22095
+Info: 【同種純化】基於前代[PURE_AI_G886_282]進化

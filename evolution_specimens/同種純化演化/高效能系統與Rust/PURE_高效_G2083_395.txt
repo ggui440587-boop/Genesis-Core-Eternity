@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G2083_395
+Category: 高效能系統與Rust
+Generation: 2083
+Score: 52268
+Info: 【同種純化】基於前代[PURE_高效_G2082_612]進化

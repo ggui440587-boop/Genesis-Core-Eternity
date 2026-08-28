@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G2654_556
+Category: 全端通用開源專案
+Generation: 2654
+Score: 67171
+Info: 【同種純化】基於前代[PURE_全端_G2653_245]進化

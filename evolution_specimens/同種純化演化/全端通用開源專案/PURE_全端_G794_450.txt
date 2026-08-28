@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G794_450
+Category: 全端通用開源專案
+Generation: 794
+Score: 20436
+Info: 【同種純化】基於前代[PURE_全端_G793_890]進化

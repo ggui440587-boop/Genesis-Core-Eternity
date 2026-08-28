@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G693_190
+Category: 全端通用開源專案
+Generation: 693
+Score: 17791
+Info: 【同種純化】基於前代[PURE_全端_G692_517]進化

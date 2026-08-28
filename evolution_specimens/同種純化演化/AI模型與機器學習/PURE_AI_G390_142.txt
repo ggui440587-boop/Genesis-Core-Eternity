@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G390_142
+Category: AI模型與機器學習
+Generation: 390
+Score: 9769
+Info: 【同種純化】基於前代[PURE_AI_G389_696]進化

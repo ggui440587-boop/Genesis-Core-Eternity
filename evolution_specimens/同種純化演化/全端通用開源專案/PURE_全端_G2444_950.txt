@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G2444_950
+Category: 全端通用開源專案
+Generation: 2444
+Score: 61867
+Info: 【同種純化】基於前代[PURE_全端_G2443_200]進化

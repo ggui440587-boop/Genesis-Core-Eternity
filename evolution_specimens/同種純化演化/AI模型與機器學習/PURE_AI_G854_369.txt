@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G854_369
+Category: AI模型與機器學習
+Generation: 854
+Score: 21264
+Info: 【同種純化】基於前代[PURE_AI_G853_641]進化

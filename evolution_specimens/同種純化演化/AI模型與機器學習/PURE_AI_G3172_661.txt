@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G3172_661
+Category: AI模型與機器學習
+Generation: 3172
+Score: 79000
+Info: 【同種純化】基於前代[PURE_AI_G3171_823]進化

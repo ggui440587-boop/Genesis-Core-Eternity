@@ -1,0 +1,4 @@
+Hybrid Specimen: HYBRID_OMEGA_8273
+Score: 148287
+Parents: CR_A-Mazed + CR_ABC_lumenpyx
+Info: 【混合神獸】融合最強[HYBRID_OMEGA_6559]與異源[CR_A-Mazed]

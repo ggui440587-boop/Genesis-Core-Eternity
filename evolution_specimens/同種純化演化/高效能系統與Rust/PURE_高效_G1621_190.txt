@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G1621_190
+Category: 高效能系統與Rust
+Generation: 1621
+Score: 40647
+Info: 【同種純化】基於前代[PURE_高效_G1620_864]進化

@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G1061_875
+Category: 高效能系統與Rust
+Generation: 1061
+Score: 26600
+Info: 【同種純化】基於前代[PURE_高效_G1060_623]進化

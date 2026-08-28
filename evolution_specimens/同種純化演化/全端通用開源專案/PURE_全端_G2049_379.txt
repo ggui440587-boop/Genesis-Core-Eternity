@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G2049_379
+Category: 全端通用開源專案
+Generation: 2049
+Score: 51638
+Info: 【同種純化】基於前代[PURE_全端_G2048_363]進化

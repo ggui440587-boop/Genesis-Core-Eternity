@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G571_440
+Category: 高效能系統與Rust
+Generation: 571
+Score: 14627
+Info: 【同種純化】基於前代[PURE_高效_G570_583]進化

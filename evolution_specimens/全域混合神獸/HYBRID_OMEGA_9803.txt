@@ -1,0 +1,4 @@
+Hybrid Specimen: HYBRID_OMEGA_9803
+Score: 260647
+Parents: CR_ABC-ECS + HF_Qwen_Qwen3.8-Flash-Next
+Info: 【混合神獸】融合最強[HYBRID_OMEGA_2218]與異源[CR_ABC-ECS]

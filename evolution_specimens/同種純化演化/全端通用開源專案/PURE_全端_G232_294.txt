@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G232_294
+Category: 全端通用開源專案
+Generation: 232
+Score: 6143
+Info: 【同種純化】基於前代[PURE_全端_G231_743]進化

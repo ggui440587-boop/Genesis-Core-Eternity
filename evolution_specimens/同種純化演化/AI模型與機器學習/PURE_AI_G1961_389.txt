@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G1961_389
+Category: AI模型與機器學習
+Generation: 1961
+Score: 48641
+Info: 【同種純化】基於前代[PURE_AI_G1960_795]進化

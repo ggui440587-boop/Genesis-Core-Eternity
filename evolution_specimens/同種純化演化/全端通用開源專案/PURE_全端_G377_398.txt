@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G377_398
+Category: 全端通用開源專案
+Generation: 377
+Score: 9843
+Info: 【同種純化】基於前代[PURE_全端_G376_765]進化

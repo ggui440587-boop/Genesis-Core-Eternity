@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G2156_907
+Category: 全端通用開源專案
+Generation: 2156
+Score: 54432
+Info: 【同種純化】基於前代[PURE_全端_G2155_554]進化

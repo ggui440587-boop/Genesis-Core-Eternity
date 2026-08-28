@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G2290_683
+Category: 高效能系統與Rust
+Generation: 2290
+Score: 57255
+Info: 【同種純化】基於前代[PURE_高效_G2289_679]進化

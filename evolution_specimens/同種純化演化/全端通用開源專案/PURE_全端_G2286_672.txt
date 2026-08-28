@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G2286_672
+Category: 全端通用開源專案
+Generation: 2286
+Score: 57694
+Info: 【同種純化】基於前代[PURE_全端_G2285_403]進化

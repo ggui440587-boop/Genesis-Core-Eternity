@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G1035_377
+Category: 全端通用開源專案
+Generation: 1035
+Score: 26306
+Info: 【同種純化】基於前代[PURE_全端_G1034_798]進化

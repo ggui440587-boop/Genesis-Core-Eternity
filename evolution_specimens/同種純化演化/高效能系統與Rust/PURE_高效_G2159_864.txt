@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G2159_864
+Category: 高效能系統與Rust
+Generation: 2159
+Score: 54135
+Info: 【同種純化】基於前代[PURE_高效_G2158_870]進化

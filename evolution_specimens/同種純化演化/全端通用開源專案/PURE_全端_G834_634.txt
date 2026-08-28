@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G834_634
+Category: 全端通用開源專案
+Generation: 834
+Score: 21430
+Info: 【同種純化】基於前代[PURE_全端_G833_311]進化

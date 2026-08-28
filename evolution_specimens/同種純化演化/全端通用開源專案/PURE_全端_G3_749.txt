@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G3_749
+Category: 全端通用開源專案
+Generation: 3
+Score: 206
+Info: 【同種純化】基於前代[PURE_全端_G2_355]進化

@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G2845_245
+Category: AI模型與機器學習
+Generation: 2845
+Score: 70665
+Info: 【同種純化】基於前代[PURE_AI_G2844_856]進化

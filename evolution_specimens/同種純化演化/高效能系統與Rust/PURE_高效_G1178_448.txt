@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G1178_448
+Category: 高效能系統與Rust
+Generation: 1178
+Score: 29536
+Info: 【同種純化】基於前代[PURE_高效_G1177_810]進化

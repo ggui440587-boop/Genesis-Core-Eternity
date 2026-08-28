@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G625_139
+Category: 高效能系統與Rust
+Generation: 625
+Score: 15997
+Info: 【同種純化】基於前代[PURE_高效_G624_781]進化

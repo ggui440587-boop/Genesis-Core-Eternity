@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G738_481
+Category: 全端通用開源專案
+Generation: 738
+Score: 19047
+Info: 【同種純化】基於前代[PURE_全端_G737_622]進化

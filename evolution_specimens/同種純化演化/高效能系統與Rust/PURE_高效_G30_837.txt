@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G30_837
+Category: 高效能系統與Rust
+Generation: 30
+Score: 875
+Info: 【同種純化】基於前代[PURE_高效_G29_137]進化

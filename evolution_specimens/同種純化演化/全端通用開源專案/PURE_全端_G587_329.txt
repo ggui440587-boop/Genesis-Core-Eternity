@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G587_329
+Category: 全端通用開源專案
+Generation: 587
+Score: 15063
+Info: 【同種純化】基於前代[PURE_全端_G586_854]進化

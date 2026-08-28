@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G2527_488
+Category: 全端通用開源專案
+Generation: 2527
+Score: 63957
+Info: 【同種純化】基於前代[PURE_全端_G2526_190]進化

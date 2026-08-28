@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G931_190
+Category: 全端通用開源專案
+Generation: 931
+Score: 23810
+Info: 【同種純化】基於前代[PURE_全端_G930_887]進化

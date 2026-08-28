@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G30_510
+Category: AI模型與機器學習
+Generation: 30
+Score: 878
+Info: 【同種純化】基於前代[PURE_AI_G29_721]進化

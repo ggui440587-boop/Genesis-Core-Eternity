@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G1813_237
+Category: 全端通用開源專案
+Generation: 1813
+Score: 45696
+Info: 【同種純化】基於前代[PURE_全端_G1812_808]進化

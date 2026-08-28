@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G31_376
+Category: 全端通用開源專案
+Generation: 31
+Score: 888
+Info: 【同種純化】基於前代[PURE_全端_G30_546]進化

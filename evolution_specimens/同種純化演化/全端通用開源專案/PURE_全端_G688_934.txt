@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G688_934
+Category: 全端通用開源專案
+Generation: 688
+Score: 17676
+Info: 【同種純化】基於前代[PURE_全端_G687_674]進化

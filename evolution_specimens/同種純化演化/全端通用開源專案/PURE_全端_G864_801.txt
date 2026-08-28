@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G864_801
+Category: 全端通用開源專案
+Generation: 864
+Score: 22133
+Info: 【同種純化】基於前代[PURE_全端_G863_864]進化

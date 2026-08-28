@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G1031_867
+Category: 全端通用開源專案
+Generation: 1031
+Score: 26200
+Info: 【同種純化】基於前代[PURE_全端_G1030_379]進化

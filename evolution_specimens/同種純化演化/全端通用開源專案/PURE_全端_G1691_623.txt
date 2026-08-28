@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G1691_623
+Category: 全端通用開源專案
+Generation: 1691
+Score: 42665
+Info: 【同種純化】基於前代[PURE_全端_G1690_475]進化

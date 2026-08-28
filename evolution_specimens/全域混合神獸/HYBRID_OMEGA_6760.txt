@@ -1,0 +1,4 @@
+Hybrid Specimen: HYBRID_OMEGA_6760
+Score: 306397
+Parents: GH_mirrord + GH_litellm
+Info: 【混合神獸】融合最強[HYBRID_OMEGA_7186]與異源[GH_mirrord]

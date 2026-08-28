@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G2824_911
+Category: AI模型與機器學習
+Generation: 2824
+Score: 70181
+Info: 【同種純化】基於前代[PURE_AI_G2823_253]進化

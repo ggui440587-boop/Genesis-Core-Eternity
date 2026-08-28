@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G784_619
+Category: 全端通用開源專案
+Generation: 784
+Score: 20212
+Info: 【同種純化】基於前代[PURE_全端_G783_646]進化

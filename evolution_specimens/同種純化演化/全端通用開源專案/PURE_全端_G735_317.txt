@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G735_317
+Category: 全端通用開源專案
+Generation: 735
+Score: 18964
+Info: 【同種純化】基於前代[PURE_全端_G734_476]進化

@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G1962_655
+Category: 高效能系統與Rust
+Generation: 1962
+Score: 49312
+Info: 【同種純化】基於前代[PURE_高效_G1961_405]進化

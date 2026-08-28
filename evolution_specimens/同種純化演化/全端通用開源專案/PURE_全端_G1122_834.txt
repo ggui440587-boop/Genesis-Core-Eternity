@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G1122_834
+Category: 全端通用開源專案
+Generation: 1122
+Score: 28528
+Info: 【同種純化】基於前代[PURE_全端_G1121_352]進化

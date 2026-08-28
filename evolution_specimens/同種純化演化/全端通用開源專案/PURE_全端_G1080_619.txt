@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G1080_619
+Category: 全端通用開源專案
+Generation: 1080
+Score: 27442
+Info: 【同種純化】基於前代[PURE_全端_G1079_593]進化

@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G490_748
+Category: 全端通用開源專案
+Generation: 490
+Score: 12634
+Info: 【同種純化】基於前代[PURE_全端_G489_760]進化

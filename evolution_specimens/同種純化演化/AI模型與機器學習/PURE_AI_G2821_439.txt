@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G2821_439
+Category: AI模型與機器學習
+Generation: 2821
+Score: 70104
+Info: 【同種純化】基於前代[PURE_AI_G2820_441]進化

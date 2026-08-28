@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G136_342
+Category: 全端通用開源專案
+Generation: 136
+Score: 3569
+Info: 【同種純化】基於前代[PURE_全端_G135_304]進化

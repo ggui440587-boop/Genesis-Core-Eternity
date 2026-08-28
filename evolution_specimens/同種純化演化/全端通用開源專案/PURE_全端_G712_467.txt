@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G712_467
+Category: 全端通用開源專案
+Generation: 712
+Score: 18304
+Info: 【同種純化】基於前代[PURE_全端_G711_972]進化

@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G198_627
+Category: 全端通用開源專案
+Generation: 198
+Score: 5238
+Info: 【同種純化】基於前代[PURE_全端_G197_199]進化

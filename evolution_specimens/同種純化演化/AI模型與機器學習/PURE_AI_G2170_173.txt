@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G2170_173
+Category: AI模型與機器學習
+Generation: 2170
+Score: 53720
+Info: 【同種純化】基於前代[PURE_AI_G2169_327]進化

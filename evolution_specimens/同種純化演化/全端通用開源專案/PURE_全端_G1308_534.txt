@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G1308_534
+Category: 全端通用開源專案
+Generation: 1308
+Score: 33012
+Info: 【同種純化】基於前代[PURE_全端_G1307_741]進化

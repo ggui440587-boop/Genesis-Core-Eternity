@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G25_929
+Category: AI模型與機器學習
+Generation: 25
+Score: 720
+Info: 【同種純化】基於前代[PURE_AI_G24_182]進化

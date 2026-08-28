@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G1933_908
+Category: 高效能系統與Rust
+Generation: 1933
+Score: 48623
+Info: 【同種純化】基於前代[PURE_高效_G1932_529]進化

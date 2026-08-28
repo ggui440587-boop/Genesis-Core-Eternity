@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G2133_235
+Category: 全端通用開源專案
+Generation: 2133
+Score: 53732
+Info: 【同種純化】基於前代[PURE_全端_G2132_552]進化

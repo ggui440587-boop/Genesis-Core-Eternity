@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G2641_264
+Category: 全端通用開源專案
+Generation: 2641
+Score: 66831
+Info: 【同種純化】基於前代[PURE_全端_G2640_403]進化

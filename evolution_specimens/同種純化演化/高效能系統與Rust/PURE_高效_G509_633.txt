@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G509_633
+Category: 高效能系統與Rust
+Generation: 509
+Score: 13053
+Info: 【同種純化】基於前代[PURE_高效_G508_247]進化

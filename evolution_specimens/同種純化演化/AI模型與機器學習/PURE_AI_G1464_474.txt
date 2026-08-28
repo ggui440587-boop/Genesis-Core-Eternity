@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G1464_474
+Category: AI模型與機器學習
+Generation: 1464
+Score: 36385
+Info: 【同種純化】基於前代[PURE_AI_G1463_258]進化

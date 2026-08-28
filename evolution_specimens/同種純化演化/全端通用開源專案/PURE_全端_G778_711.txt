@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G778_711
+Category: 全端通用開源專案
+Generation: 778
+Score: 20039
+Info: 【同種純化】基於前代[PURE_全端_G777_952]進化

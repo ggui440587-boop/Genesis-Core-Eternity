@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G533_104
+Category: 全端通用開源專案
+Generation: 533
+Score: 13678
+Info: 【同種純化】基於前代[PURE_全端_G532_957]進化

@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G2194_315
+Category: 全端通用開源專案
+Generation: 2194
+Score: 55331
+Info: 【同種純化】基於前代[PURE_全端_G2193_930]進化

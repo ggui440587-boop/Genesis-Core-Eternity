@@ -1,0 +1,4 @@
+Hybrid Specimen: HYBRID_OMEGA_6684
+Score: 300477
+Parents: CR_ABC_lumenpyx + CR_A2VConverter
+Info: 【混合神獸】融合最強[HYBRID_OMEGA_4341]與異源[CR_ABC_lumenpyx]

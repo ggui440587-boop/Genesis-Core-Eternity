@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G768_219
+Category: 全端通用開源專案
+Generation: 768
+Score: 19784
+Info: 【同種純化】基於前代[PURE_全端_G767_297]進化

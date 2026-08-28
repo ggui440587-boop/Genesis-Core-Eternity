@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G2650_794
+Category: 全端通用開源專案
+Generation: 2650
+Score: 67056
+Info: 【同種純化】基於前代[PURE_全端_G2649_928]進化

@@ -1,0 +1,4 @@
+Hybrid Specimen: HYBRID_OMEGA_8321
+Score: 169542
+Parents: HF_Qwen_Qwen3.8-Flash-Next + SEED_605
+Info: 【混合神獸】融合最強[HYBRID_OMEGA_5367]與異源[HF_Qwen_Qwen3.8-Flash-Next]

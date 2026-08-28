@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G427_656
+Category: AI模型與機器學習
+Generation: 427
+Score: 10662
+Info: 【同種純化】基於前代[PURE_AI_G426_225]進化

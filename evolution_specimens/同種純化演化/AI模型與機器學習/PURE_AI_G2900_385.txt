@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G2900_385
+Category: AI模型與機器學習
+Generation: 2900
+Score: 71980
+Info: 【同種純化】基於前代[PURE_AI_G2899_832]進化

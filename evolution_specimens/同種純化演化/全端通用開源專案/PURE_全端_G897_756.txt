@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G897_756
+Category: 全端通用開源專案
+Generation: 897
+Score: 22930
+Info: 【同種純化】基於前代[PURE_全端_G896_910]進化

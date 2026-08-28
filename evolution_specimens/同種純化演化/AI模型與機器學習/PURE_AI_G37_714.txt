@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G37_714
+Category: AI模型與機器學習
+Generation: 37
+Score: 1019
+Info: 【同種純化】基於前代[PURE_AI_G36_583]進化

@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G723_487
+Category: AI模型與機器學習
+Generation: 723
+Score: 17953
+Info: 【同種純化】基於前代[PURE_AI_G722_912]進化

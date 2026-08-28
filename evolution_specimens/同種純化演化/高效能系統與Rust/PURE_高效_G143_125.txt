@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G143_125
+Category: 高效能系統與Rust
+Generation: 143
+Score: 3722
+Info: 【同種純化】基於前代[PURE_高效_G142_888]進化

@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G387_486
+Category: 全端通用開源專案
+Generation: 387
+Score: 10100
+Info: 【同種純化】基於前代[PURE_全端_G386_117]進化

@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G234_389
+Category: 全端通用開源專案
+Generation: 234
+Score: 6184
+Info: 【同種純化】基於前代[PURE_全端_G233_836]進化

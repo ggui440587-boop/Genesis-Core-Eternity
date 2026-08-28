@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G1338_775
+Category: AI模型與機器學習
+Generation: 1338
+Score: 33226
+Info: 【同種純化】基於前代[PURE_AI_G1337_553]進化

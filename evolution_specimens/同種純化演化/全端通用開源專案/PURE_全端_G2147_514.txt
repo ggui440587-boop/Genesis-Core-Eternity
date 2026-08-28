@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G2147_514
+Category: 全端通用開源專案
+Generation: 2147
+Score: 54195
+Info: 【同種純化】基於前代[PURE_全端_G2146_422]進化

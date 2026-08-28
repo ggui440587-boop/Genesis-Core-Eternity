@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G3655_997
+Category: AI模型與機器學習
+Generation: 3655
+Score: 91228
+Info: 【同種純化】基於前代[PURE_AI_G3654_664]進化

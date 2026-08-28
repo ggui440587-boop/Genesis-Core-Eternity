@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G2552_255
+Category: 全端通用開源專案
+Generation: 2552
+Score: 64563
+Info: 【同種純化】基於前代[PURE_全端_G2551_817]進化

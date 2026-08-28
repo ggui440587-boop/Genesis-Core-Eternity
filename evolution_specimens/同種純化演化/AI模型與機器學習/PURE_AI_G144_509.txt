@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G144_509
+Category: AI模型與機器學習
+Generation: 144
+Score: 3588
+Info: 【同種純化】基於前代[PURE_AI_G143_512]進化

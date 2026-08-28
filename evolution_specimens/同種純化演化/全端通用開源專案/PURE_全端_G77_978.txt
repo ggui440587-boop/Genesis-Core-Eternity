@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G77_978
+Category: 全端通用開源專案
+Generation: 77
+Score: 2051
+Info: 【同種純化】基於前代[PURE_全端_G76_423]進化

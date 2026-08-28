@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G1535_858
+Category: AI模型與機器學習
+Generation: 1535
+Score: 38128
+Info: 【同種純化】基於前代[PURE_AI_G1534_700]進化

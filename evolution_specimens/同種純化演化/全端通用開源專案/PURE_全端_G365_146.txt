@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G365_146
+Category: 全端通用開源專案
+Generation: 365
+Score: 9513
+Info: 【同種純化】基於前代[PURE_全端_G364_415]進化

@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G1762_628
+Category: 全端通用開源專案
+Generation: 1762
+Score: 44446
+Info: 【同種純化】基於前代[PURE_全端_G1761_658]進化

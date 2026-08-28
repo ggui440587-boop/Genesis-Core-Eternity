@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G3135_558
+Category: AI模型與機器學習
+Generation: 3135
+Score: 78077
+Info: 【同種純化】基於前代[PURE_AI_G3134_111]進化

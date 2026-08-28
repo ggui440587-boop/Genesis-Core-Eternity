@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G2191_128
+Category: 高效能系統與Rust
+Generation: 2191
+Score: 54865
+Info: 【同種純化】基於前代[PURE_高效_G2190_462]進化

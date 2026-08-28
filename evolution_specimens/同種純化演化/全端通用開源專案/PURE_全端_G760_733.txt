@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G760_733
+Category: 全端通用開源專案
+Generation: 760
+Score: 19568
+Info: 【同種純化】基於前代[PURE_全端_G759_733]進化

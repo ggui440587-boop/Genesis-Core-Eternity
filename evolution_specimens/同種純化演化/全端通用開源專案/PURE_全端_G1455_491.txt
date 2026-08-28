@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G1455_491
+Category: 全端通用開源專案
+Generation: 1455
+Score: 36618
+Info: 【同種純化】基於前代[PURE_全端_G1454_177]進化

@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G403_351
+Category: 全端通用開源專案
+Generation: 403
+Score: 10441
+Info: 【同種純化】基於前代[PURE_全端_G402_416]進化

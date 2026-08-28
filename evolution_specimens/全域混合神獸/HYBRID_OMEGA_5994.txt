@@ -1,0 +1,4 @@
+Hybrid Specimen: HYBRID_OMEGA_5994
+Score: 58491
+Parents: GH_mirrord + GH_rmux
+Info: 【混合神獸】融合最強[HYBRID_OMEGA_4249]與異源[GH_mirrord]

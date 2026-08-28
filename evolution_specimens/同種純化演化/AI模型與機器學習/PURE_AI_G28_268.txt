@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G28_268
+Category: AI模型與機器學習
+Generation: 28
+Score: 808
+Info: 【同種純化】基於前代[PURE_AI_G27_678]進化

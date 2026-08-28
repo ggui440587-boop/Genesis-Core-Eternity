@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G187_371
+Category: 全端通用開源專案
+Generation: 187
+Score: 5004
+Info: 【同種純化】基於前代[PURE_全端_G186_489]進化

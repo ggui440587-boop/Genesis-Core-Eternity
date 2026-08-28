@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G283_432
+Category: 全端通用開源專案
+Generation: 283
+Score: 7409
+Info: 【同種純化】基於前代[PURE_全端_G282_325]進化

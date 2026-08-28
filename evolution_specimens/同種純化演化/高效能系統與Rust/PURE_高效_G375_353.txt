@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G375_353
+Category: 高效能系統與Rust
+Generation: 375
+Score: 9580
+Info: 【同種純化】基於前代[PURE_高效_G374_713]進化

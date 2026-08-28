@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G39_776
+Category: 高效能系統與Rust
+Generation: 39
+Score: 1105
+Info: 【同種純化】基於前代[PURE_高效_G38_164]進化

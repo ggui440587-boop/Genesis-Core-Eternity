@@ -1,0 +1,4 @@
+Hybrid Specimen: HYBRID_OMEGA_9510
+Score: 84879
+Parents: CR_A-Mazed + GH_yek
+Info: 【混合神獸】融合最強[HYBRID_OMEGA_9928]與異源[CR_A-Mazed]

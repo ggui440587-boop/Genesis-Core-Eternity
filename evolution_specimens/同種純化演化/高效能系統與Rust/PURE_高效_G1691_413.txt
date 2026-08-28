@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G1691_413
+Category: 高效能系統與Rust
+Generation: 1691
+Score: 42413
+Info: 【同種純化】基於前代[PURE_高效_G1690_982]進化

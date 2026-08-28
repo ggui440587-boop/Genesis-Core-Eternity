@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G2008_803
+Category: 全端通用開源專案
+Generation: 2008
+Score: 50675
+Info: 【同種純化】基於前代[PURE_全端_G2007_102]進化

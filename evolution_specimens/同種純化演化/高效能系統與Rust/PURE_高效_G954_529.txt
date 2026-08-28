@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G954_529
+Category: 高效能系統與Rust
+Generation: 954
+Score: 24056
+Info: 【同種純化】基於前代[PURE_高效_G953_844]進化

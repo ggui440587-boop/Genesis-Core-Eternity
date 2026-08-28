@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G803_753
+Category: 全端通用開源專案
+Generation: 803
+Score: 20684
+Info: 【同種純化】基於前代[PURE_全端_G802_542]進化

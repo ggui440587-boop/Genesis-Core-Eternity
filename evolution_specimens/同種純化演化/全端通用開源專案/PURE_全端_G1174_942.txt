@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G1174_942
+Category: 全端通用開源專案
+Generation: 1174
+Score: 29810
+Info: 【同種純化】基於前代[PURE_全端_G1173_263]進化

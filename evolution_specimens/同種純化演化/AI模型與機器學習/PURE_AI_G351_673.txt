@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G351_673
+Category: AI模型與機器學習
+Generation: 351
+Score: 8807
+Info: 【同種純化】基於前代[PURE_AI_G350_842]進化

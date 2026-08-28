@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G344_660
+Category: 高效能系統與Rust
+Generation: 344
+Score: 8788
+Info: 【同種純化】基於前代[PURE_高效_G343_265]進化

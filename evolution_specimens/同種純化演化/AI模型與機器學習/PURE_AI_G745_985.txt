@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G745_985
+Category: AI模型與機器學習
+Generation: 745
+Score: 18489
+Info: 【同種純化】基於前代[PURE_AI_G744_930]進化

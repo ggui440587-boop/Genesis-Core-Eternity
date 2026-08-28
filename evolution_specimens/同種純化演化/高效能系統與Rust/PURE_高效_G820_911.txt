@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G820_911
+Category: 高效能系統與Rust
+Generation: 820
+Score: 20833
+Info: 【同種純化】基於前代[PURE_高效_G819_786]進化

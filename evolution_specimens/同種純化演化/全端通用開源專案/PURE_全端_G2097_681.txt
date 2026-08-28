@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G2097_681
+Category: 全端通用開源專案
+Generation: 2097
+Score: 52830
+Info: 【同種純化】基於前代[PURE_全端_G2096_171]進化

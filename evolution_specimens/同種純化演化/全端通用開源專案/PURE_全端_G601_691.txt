@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G601_691
+Category: 全端通用開源專案
+Generation: 601
+Score: 15435
+Info: 【同種純化】基於前代[PURE_全端_G600_455]進化

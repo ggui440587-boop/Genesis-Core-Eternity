@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G136_891
+Category: AI模型與機器學習
+Generation: 136
+Score: 3340
+Info: 【同種純化】基於前代[PURE_AI_G135_496]進化

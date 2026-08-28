@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G604_732
+Category: 全端通用開源專案
+Generation: 604
+Score: 15496
+Info: 【同種純化】基於前代[PURE_全端_G603_764]進化

@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G74_619
+Category: 高效能系統與Rust
+Generation: 74
+Score: 2086
+Info: 【同種純化】基於前代[PURE_高效_G73_248]進化

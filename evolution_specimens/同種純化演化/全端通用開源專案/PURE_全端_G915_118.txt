@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G915_118
+Category: 全端通用開源專案
+Generation: 915
+Score: 23331
+Info: 【同種純化】基於前代[PURE_全端_G914_436]進化

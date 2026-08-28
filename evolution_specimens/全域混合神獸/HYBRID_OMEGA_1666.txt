@@ -1,0 +1,4 @@
+Hybrid Specimen: HYBRID_OMEGA_1666
+Score: 303300
+Parents: HF_zai-org_GLM-5.3-Flash + GH_rmux
+Info: 【混合神獸】融合最強[HYBRID_OMEGA_6157]與異源[HF_zai-org_GLM-5.3-Flash]

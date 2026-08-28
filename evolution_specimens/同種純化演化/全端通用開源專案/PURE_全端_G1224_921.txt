@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G1224_921
+Category: 全端通用開源專案
+Generation: 1224
+Score: 31017
+Info: 【同種純化】基於前代[PURE_全端_G1223_272]進化

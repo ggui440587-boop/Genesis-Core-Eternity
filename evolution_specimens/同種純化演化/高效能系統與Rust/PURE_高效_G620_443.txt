@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G620_443
+Category: 高效能系統與Rust
+Generation: 620
+Score: 15845
+Info: 【同種純化】基於前代[PURE_高效_G619_994]進化

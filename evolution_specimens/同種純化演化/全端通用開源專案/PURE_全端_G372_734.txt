@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G372_734
+Category: 全端通用開源專案
+Generation: 372
+Score: 9689
+Info: 【同種純化】基於前代[PURE_全端_G371_285]進化

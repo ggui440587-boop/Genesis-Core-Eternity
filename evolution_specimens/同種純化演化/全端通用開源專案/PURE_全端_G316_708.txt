@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G316_708
+Category: 全端通用開源專案
+Generation: 316
+Score: 8258
+Info: 【同種純化】基於前代[PURE_全端_G315_278]進化

@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G656_448
+Category: 全端通用開源專案
+Generation: 656
+Score: 16772
+Info: 【同種純化】基於前代[PURE_全端_G655_523]進化

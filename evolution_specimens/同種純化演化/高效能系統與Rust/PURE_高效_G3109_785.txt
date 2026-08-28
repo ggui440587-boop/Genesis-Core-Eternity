@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G3109_785
+Category: 高效能系統與Rust
+Generation: 3109
+Score: 78054
+Info: 【同種純化】基於前代[PURE_高效_G3108_892]進化

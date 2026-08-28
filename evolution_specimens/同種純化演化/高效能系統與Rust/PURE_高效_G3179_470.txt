@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G3179_470
+Category: 高效能系統與Rust
+Generation: 3179
+Score: 79729
+Info: 【同種純化】基於前代[PURE_高效_G3178_593]進化

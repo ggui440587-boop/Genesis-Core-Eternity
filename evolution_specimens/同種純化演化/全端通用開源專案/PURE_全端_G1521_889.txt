@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G1521_889
+Category: 全端通用開源專案
+Generation: 1521
+Score: 38357
+Info: 【同種純化】基於前代[PURE_全端_G1520_620]進化

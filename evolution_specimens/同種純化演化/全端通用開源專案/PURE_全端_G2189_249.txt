@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G2189_249
+Category: 全端通用開源專案
+Generation: 2189
+Score: 55227
+Info: 【同種純化】基於前代[PURE_全端_G2188_411]進化

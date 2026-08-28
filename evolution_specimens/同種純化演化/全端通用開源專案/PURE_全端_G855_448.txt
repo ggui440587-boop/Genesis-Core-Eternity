@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G855_448
+Category: 全端通用開源專案
+Generation: 855
+Score: 21881
+Info: 【同種純化】基於前代[PURE_全端_G854_997]進化

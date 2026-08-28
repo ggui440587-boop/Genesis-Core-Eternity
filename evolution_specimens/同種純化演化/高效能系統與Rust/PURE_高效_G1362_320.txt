@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G1362_320
+Category: 高效能系統與Rust
+Generation: 1362
+Score: 34256
+Info: 【同種純化】基於前代[PURE_高效_G1361_193]進化

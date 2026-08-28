@@ -1,1 +1,13 @@
 nohup: ignoring input
+-> [!] 模組導入警告：cannot import name 'CoreEngine' from 'core_engine' (/data/data/com.termux/files/home/codeguard/core_engine.py)，將使用內建安全降級模式。
+-> 🛡️ [Production Mode] 正在啟動 codeguard 實戰防護與自動化管線...
+-> 🚀 [Pipeline] 開始執行實戰巡檢週期...
+   -> 執行安全防火牆掃描...
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/codeguard/run_pipeline.py", line 47, in <module>
+    pipeline.execute_real_combat_cycle()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "/data/data/com.termux/files/home/codeguard/run_pipeline.py", line 29, in execute_real_combat_cycle
+    self.firewall.inspect_environment()
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'SecurityFirewall' object has no attribute 'inspect_environment'

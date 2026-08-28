@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G979_424
+Category: 全端通用開源專案
+Generation: 979
+Score: 24935
+Info: 【同種純化】基於前代[PURE_全端_G978_723]進化

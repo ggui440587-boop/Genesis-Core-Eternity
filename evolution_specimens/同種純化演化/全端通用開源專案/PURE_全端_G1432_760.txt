@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G1432_760
+Category: 全端通用開源專案
+Generation: 1432
+Score: 36030
+Info: 【同種純化】基於前代[PURE_全端_G1431_823]進化

@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G333_115
+Category: 高效能系統與Rust
+Generation: 333
+Score: 8522
+Info: 【同種純化】基於前代[PURE_高效_G332_218]進化

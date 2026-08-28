@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G110_956
+Category: AI模型與機器學習
+Generation: 110
+Score: 2769
+Info: 【同種純化】基於前代[PURE_AI_G109_685]進化

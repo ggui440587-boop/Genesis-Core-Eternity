@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G1613_546
+Category: 全端通用開源專案
+Generation: 1613
+Score: 40670
+Info: 【同種純化】基於前代[PURE_全端_G1612_625]進化

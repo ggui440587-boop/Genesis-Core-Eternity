@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G1479_479
+Category: 高效能系統與Rust
+Generation: 1479
+Score: 37198
+Info: 【同種純化】基於前代[PURE_高效_G1478_896]進化

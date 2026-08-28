@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G360_458
+Category: 全端通用開源專案
+Generation: 360
+Score: 9416
+Info: 【同種純化】基於前代[PURE_全端_G359_127]進化

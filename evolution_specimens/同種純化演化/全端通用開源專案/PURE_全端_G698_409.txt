@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G698_409
+Category: 全端通用開源專案
+Generation: 698
+Score: 17924
+Info: 【同種純化】基於前代[PURE_全端_G697_301]進化

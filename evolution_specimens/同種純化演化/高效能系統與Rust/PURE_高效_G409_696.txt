@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G409_696
+Category: 高效能系統與Rust
+Generation: 409
+Score: 10375
+Info: 【同種純化】基於前代[PURE_高效_G408_265]進化

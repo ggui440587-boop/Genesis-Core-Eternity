@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G3728_134
+Category: AI模型與機器學習
+Generation: 3728
+Score: 93191
+Info: 【同種純化】基於前代[PURE_AI_G3727_970]進化

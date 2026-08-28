@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G2928_241
+Category: AI模型與機器學習
+Generation: 2928
+Score: 72687
+Info: 【同種純化】基於前代[PURE_AI_G2927_945]進化

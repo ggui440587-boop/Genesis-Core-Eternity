@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G483_645
+Category: 全端通用開源專案
+Generation: 483
+Score: 12457
+Info: 【同種純化】基於前代[PURE_全端_G482_660]進化

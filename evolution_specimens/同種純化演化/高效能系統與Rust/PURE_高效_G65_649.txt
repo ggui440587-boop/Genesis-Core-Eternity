@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G65_649
+Category: 高效能系統與Rust
+Generation: 65
+Score: 1827
+Info: 【同種純化】基於前代[PURE_高效_G64_200]進化

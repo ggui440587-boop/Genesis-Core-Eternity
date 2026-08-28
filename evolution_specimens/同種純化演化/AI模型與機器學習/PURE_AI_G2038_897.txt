@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G2038_897
+Category: AI模型與機器學習
+Generation: 2038
+Score: 50556
+Info: 【同種純化】基於前代[PURE_AI_G2037_713]進化

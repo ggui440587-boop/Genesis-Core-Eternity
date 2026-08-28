@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G1746_686
+Category: 全端通用開源專案
+Generation: 1746
+Score: 44080
+Info: 【同種純化】基於前代[PURE_全端_G1745_803]進化

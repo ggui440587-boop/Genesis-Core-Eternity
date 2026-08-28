@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G82_612
+Category: AI模型與機器學習
+Generation: 82
+Score: 2060
+Info: 【同種純化】基於前代[PURE_AI_G81_893]進化

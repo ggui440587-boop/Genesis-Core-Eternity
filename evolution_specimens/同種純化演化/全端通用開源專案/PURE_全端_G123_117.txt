@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G123_117
+Category: 全端通用開源專案
+Generation: 123
+Score: 3203
+Info: 【同種純化】基於前代[PURE_全端_G122_593]進化

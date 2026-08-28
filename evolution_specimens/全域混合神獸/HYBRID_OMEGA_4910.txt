@@ -1,0 +1,4 @@
+Hybrid Specimen: HYBRID_OMEGA_4910
+Score: 92162
+Parents: SEED_916 + HF_zai-org_GLM-5.3-Flash
+Info: 【混合神獸】融合最強[HYBRID_OMEGA_4664]與異源[SEED_916]

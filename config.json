@@ -1,0 +1,8 @@
+{
+    "app_name": "Termux-Omni-Matrix",
+    "version": "13.0.0",
+    "debug_mode": true,
+    "sleep_interval": 10,
+    "max_retries": 3,
+    "remote_endpoint": "https://httpbin.org/post"
+}

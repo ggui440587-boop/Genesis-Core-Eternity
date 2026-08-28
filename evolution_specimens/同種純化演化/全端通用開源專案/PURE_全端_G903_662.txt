@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G903_662
+Category: 全端通用開源專案
+Generation: 903
+Score: 23068
+Info: 【同種純化】基於前代[PURE_全端_G902_416]進化

@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G2267_800
+Category: 全端通用開源專案
+Generation: 2267
+Score: 57246
+Info: 【同種純化】基於前代[PURE_全端_G2266_236]進化

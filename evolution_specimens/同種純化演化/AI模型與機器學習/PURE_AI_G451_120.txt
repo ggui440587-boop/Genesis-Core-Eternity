@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G451_120
+Category: AI模型與機器學習
+Generation: 451
+Score: 11238
+Info: 【同種純化】基於前代[PURE_AI_G450_646]進化

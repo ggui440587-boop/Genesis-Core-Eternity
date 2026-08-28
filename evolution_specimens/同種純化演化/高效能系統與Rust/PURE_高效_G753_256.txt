@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G753_256
+Category: 高效能系統與Rust
+Generation: 753
+Score: 19187
+Info: 【同種純化】基於前代[PURE_高效_G752_282]進化

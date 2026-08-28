@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G1220_622
+Category: 全端通用開源專案
+Generation: 1220
+Score: 30929
+Info: 【同種純化】基於前代[PURE_全端_G1219_264]進化

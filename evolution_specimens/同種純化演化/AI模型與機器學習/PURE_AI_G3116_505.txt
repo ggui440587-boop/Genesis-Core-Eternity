@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G3116_505
+Category: AI模型與機器學習
+Generation: 3116
+Score: 77593
+Info: 【同種純化】基於前代[PURE_AI_G3115_324]進化

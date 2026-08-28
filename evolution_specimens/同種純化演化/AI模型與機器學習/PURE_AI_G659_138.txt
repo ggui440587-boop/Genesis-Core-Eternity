@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G659_138
+Category: AI模型與機器學習
+Generation: 659
+Score: 16342
+Info: 【同種純化】基於前代[PURE_AI_G658_822]進化

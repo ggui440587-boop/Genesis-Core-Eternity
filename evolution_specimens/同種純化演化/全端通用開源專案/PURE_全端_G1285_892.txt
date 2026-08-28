@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G1285_892
+Category: 全端通用開源專案
+Generation: 1285
+Score: 32463
+Info: 【同種純化】基於前代[PURE_全端_G1284_295]進化

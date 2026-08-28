@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G3397_105
+Category: AI模型與機器學習
+Generation: 3397
+Score: 84476
+Info: 【同種純化】基於前代[PURE_AI_G3396_955]進化

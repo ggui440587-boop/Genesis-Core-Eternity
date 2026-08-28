@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G97_220
+Category: 全端通用開源專案
+Generation: 97
+Score: 2600
+Info: 【同種純化】基於前代[PURE_全端_G96_885]進化

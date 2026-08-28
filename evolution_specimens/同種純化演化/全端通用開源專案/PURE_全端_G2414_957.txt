@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G2414_957
+Category: 全端通用開源專案
+Generation: 2414
+Score: 61073
+Info: 【同種純化】基於前代[PURE_全端_G2413_798]進化

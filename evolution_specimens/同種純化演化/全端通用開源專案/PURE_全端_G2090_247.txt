@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G2090_247
+Category: 全端通用開源專案
+Generation: 2090
+Score: 52691
+Info: 【同種純化】基於前代[PURE_全端_G2089_390]進化

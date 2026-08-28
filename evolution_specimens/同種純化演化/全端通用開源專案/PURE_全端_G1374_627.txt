@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G1374_627
+Category: 全端通用開源專案
+Generation: 1374
+Score: 34531
+Info: 【同種純化】基於前代[PURE_全端_G1373_699]進化

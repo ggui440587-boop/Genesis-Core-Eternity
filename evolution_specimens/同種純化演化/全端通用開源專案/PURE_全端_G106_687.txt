@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G106_687
+Category: 全端通用開源專案
+Generation: 106
+Score: 2813
+Info: 【同種純化】基於前代[PURE_全端_G105_274]進化

@@ -1,0 +1,4 @@
+Hybrid Specimen: HYBRID_OMEGA_7126
+Score: 205991
+Parents: HF_zai-org_GLM-5.3-Flash + HF_OBLITERATUS_Qwen3.8-27B-OBLITERATED
+Info: 【混合神獸】融合最強[HYBRID_OMEGA_3112]與異源[HF_zai-org_GLM-5.3-Flash]

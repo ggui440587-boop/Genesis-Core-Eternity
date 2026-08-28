@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G543_374
+Category: 全端通用開源專案
+Generation: 543
+Score: 13903
+Info: 【同種純化】基於前代[PURE_全端_G542_832]進化

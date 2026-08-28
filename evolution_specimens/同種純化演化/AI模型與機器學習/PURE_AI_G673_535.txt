@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G673_535
+Category: AI模型與機器學習
+Generation: 673
+Score: 16682
+Info: 【同種純化】基於前代[PURE_AI_G672_712]進化

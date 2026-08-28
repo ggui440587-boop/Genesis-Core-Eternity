@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G957_255
+Category: 全端通用開源專案
+Generation: 957
+Score: 24443
+Info: 【同種純化】基於前代[PURE_全端_G956_105]進化

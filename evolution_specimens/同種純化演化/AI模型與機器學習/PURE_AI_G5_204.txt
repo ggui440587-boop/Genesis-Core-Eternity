@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G5_204
+Category: AI模型與機器學習
+Generation: 5
+Score: 259
+Info: 【同種純化】基於前代[PURE_AI_G4_148]進化

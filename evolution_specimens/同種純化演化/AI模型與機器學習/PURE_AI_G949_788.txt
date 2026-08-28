@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G949_788
+Category: AI模型與機器學習
+Generation: 949
+Score: 23626
+Info: 【同種純化】基於前代[PURE_AI_G948_802]進化

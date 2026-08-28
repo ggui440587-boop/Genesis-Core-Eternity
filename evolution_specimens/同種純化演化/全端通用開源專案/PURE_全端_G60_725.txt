@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G60_725
+Category: 全端通用開源專案
+Generation: 60
+Score: 1613
+Info: 【同種純化】基於前代[PURE_全端_G59_998]進化

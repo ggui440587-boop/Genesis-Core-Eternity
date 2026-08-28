@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G850_889
+Category: 全端通用開源專案
+Generation: 850
+Score: 21762
+Info: 【同種純化】基於前代[PURE_全端_G849_586]進化

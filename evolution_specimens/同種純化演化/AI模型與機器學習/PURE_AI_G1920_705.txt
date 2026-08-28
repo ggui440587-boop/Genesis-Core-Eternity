@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G1920_705
+Category: AI模型與機器學習
+Generation: 1920
+Score: 47638
+Info: 【同種純化】基於前代[PURE_AI_G1919_632]進化

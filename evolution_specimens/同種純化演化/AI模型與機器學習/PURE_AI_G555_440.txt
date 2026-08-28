@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G555_440
+Category: AI模型與機器學習
+Generation: 555
+Score: 13862
+Info: 【同種純化】基於前代[PURE_AI_G554_200]進化

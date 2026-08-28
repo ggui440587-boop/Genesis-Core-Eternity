@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G46_706
+Category: AI模型與機器學習
+Generation: 46
+Score: 1212
+Info: 【同種純化】基於前代[PURE_AI_G45_617]進化

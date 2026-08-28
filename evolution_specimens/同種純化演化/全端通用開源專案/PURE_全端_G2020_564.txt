@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G2020_564
+Category: 全端通用開源專案
+Generation: 2020
+Score: 50971
+Info: 【同種純化】基於前代[PURE_全端_G2019_908]進化

@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G261_598
+Category: AI模型與機器學習
+Generation: 261
+Score: 6463
+Info: 【同種純化】基於前代[PURE_AI_G260_500]進化

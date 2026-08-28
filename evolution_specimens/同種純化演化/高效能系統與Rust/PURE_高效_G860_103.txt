@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G860_103
+Category: 高效能系統與Rust
+Generation: 860
+Score: 21842
+Info: 【同種純化】基於前代[PURE_高效_G859_459]進化

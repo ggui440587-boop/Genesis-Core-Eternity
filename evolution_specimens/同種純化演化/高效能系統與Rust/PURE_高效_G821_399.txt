@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G821_399
+Category: 高效能系統與Rust
+Generation: 821
+Score: 20861
+Info: 【同種純化】基於前代[PURE_高效_G820_911]進化

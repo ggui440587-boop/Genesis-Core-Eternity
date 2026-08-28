@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G1910_837
+Category: 全端通用開源專案
+Generation: 1910
+Score: 48158
+Info: 【同種純化】基於前代[PURE_全端_G1909_428]進化

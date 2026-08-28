@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G1231_985
+Category: 全端通用開源專案
+Generation: 1231
+Score: 31183
+Info: 【同種純化】基於前代[PURE_全端_G1230_973]進化

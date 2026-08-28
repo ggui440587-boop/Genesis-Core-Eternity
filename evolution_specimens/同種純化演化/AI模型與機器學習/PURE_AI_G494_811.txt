@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G494_811
+Category: AI模型與機器學習
+Generation: 494
+Score: 12349
+Info: 【同種純化】基於前代[PURE_AI_G493_263]進化

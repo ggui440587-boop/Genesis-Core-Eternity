@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G63_493
+Category: 全端通用開源專案
+Generation: 63
+Score: 1705
+Info: 【同種純化】基於前代[PURE_全端_G62_653]進化

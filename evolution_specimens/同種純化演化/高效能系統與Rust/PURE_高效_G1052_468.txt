@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G1052_468
+Category: 高效能系統與Rust
+Generation: 1052
+Score: 26420
+Info: 【同種純化】基於前代[PURE_高效_G1051_810]進化

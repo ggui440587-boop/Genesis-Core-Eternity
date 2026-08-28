@@ -1,0 +1,4 @@
+Hybrid Specimen: HYBRID_OMEGA_3791
+Score: 63959
+Parents: CR_ABC-ECS + GH_litellm
+Info: 【混合神獸】融合最強[HYBRID_OMEGA_4026]與異源[CR_ABC-ECS]

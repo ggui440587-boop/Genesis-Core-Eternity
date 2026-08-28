@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G2703_497
+Category: 全端通用開源專案
+Generation: 2703
+Score: 68446
+Info: 【同種純化】基於前代[PURE_全端_G2702_675]進化

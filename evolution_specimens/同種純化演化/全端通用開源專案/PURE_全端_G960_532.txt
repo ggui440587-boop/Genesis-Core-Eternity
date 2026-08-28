@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G960_532
+Category: 全端通用開源專案
+Generation: 960
+Score: 24529
+Info: 【同種純化】基於前代[PURE_全端_G959_191]進化

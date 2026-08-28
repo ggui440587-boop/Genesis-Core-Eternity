@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G2431_148
+Category: AI模型與機器學習
+Generation: 2431
+Score: 60355
+Info: 【同種純化】基於前代[PURE_AI_G2430_158]進化

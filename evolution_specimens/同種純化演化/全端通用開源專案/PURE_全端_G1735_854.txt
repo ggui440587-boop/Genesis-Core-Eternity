@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G1735_854
+Category: 全端通用開源專案
+Generation: 1735
+Score: 43807
+Info: 【同種純化】基於前代[PURE_全端_G1734_128]進化

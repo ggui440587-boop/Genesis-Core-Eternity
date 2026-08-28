@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G1076_290
+Category: 全端通用開源專案
+Generation: 1076
+Score: 27347
+Info: 【同種純化】基於前代[PURE_全端_G1075_806]進化

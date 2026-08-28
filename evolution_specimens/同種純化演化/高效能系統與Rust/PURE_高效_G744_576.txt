@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G744_576
+Category: 高效能系統與Rust
+Generation: 744
+Score: 18892
+Info: 【同種純化】基於前代[PURE_高效_G743_365]進化

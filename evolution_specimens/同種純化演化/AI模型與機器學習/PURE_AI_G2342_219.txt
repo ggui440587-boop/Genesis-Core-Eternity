@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G2342_219
+Category: AI模型與機器學習
+Generation: 2342
+Score: 58100
+Info: 【同種純化】基於前代[PURE_AI_G2341_119]進化

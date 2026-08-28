@@ -1,0 +1,4 @@
+Hybrid Specimen: HYBRID_OMEGA_8453
+Score: 225075
+Parents: CR_A2VConverter + HF_unsloth_Qwen3.8-27B-GGUF
+Info: 【混合神獸】融合最強[HYBRID_OMEGA_8648]與異源[CR_A2VConverter]

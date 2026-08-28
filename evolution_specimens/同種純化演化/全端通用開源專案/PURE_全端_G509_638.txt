@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G509_638
+Category: 全端通用開源專案
+Generation: 509
+Score: 13078
+Info: 【同種純化】基於前代[PURE_全端_G508_756]進化

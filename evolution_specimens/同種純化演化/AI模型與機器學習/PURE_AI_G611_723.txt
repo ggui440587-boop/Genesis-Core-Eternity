@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G611_723
+Category: AI模型與機器學習
+Generation: 611
+Score: 15143
+Info: 【同種純化】基於前代[PURE_AI_G610_309]進化

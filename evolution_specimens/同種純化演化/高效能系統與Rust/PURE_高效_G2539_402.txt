@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G2539_402
+Category: 高效能系統與Rust
+Generation: 2539
+Score: 63463
+Info: 【同種純化】基於前代[PURE_高效_G2538_238]進化

@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_663
+Category: AI模型與機器學習
+Generation: 1
+Score: 166
+Info: 【同種初始】源自 HuggingFace: OBLITERATUS/Qwen3.8-27B-OBLITERATED

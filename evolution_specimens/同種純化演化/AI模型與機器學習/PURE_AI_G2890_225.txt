@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G2890_225
+Category: AI模型與機器學習
+Generation: 2890
+Score: 71752
+Info: 【同種純化】基於前代[PURE_AI_G2889_444]進化

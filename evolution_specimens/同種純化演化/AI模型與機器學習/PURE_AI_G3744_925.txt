@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G3744_925
+Category: AI模型與機器學習
+Generation: 3744
+Score: 93606
+Info: 【同種純化】基於前代[PURE_AI_G3743_446]進化

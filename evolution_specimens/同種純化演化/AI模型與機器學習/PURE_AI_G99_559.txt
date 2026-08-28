@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G99_559
+Category: AI模型與機器學習
+Generation: 99
+Score: 2504
+Info: 【同種純化】基於前代[PURE_AI_G98_797]進化

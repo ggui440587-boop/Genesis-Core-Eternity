@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G2733_902
+Category: AI模型與機器學習
+Generation: 2733
+Score: 67934
+Info: 【同種純化】基於前代[PURE_AI_G2732_487]進化

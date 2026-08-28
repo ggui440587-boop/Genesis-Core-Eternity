@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G2012_805
+Category: AI模型與機器學習
+Generation: 2012
+Score: 49868
+Info: 【同種純化】基於前代[PURE_AI_G2011_368]進化

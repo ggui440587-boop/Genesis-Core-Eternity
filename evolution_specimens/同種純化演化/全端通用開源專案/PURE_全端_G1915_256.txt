@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G1915_256
+Category: 全端通用開源專案
+Generation: 1915
+Score: 48294
+Info: 【同種純化】基於前代[PURE_全端_G1914_771]進化

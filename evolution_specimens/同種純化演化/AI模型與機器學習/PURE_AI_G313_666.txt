@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G313_666
+Category: AI模型與機器學習
+Generation: 313
+Score: 7839
+Info: 【同種純化】基於前代[PURE_AI_G312_567]進化

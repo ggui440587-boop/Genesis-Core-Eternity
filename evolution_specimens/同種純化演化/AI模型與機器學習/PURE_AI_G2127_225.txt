@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G2127_225
+Category: AI模型與機器學習
+Generation: 2127
+Score: 52701
+Info: 【同種純化】基於前代[PURE_AI_G2126_498]進化

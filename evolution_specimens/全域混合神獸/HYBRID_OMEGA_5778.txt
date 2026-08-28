@@ -1,0 +1,4 @@
+Hybrid Specimen: HYBRID_OMEGA_5778
+Score: 308477
+Parents: HF_zai-org_GLM-5.3-Flash + HF_Qwen_Qwen3.8-Flash-Next
+Info: 【混合神獸】融合最強[HYBRID_OMEGA_1267]與異源[HF_zai-org_GLM-5.3-Flash]

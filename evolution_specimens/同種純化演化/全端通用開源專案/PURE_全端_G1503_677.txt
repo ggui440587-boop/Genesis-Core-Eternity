@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G1503_677
+Category: 全端通用開源專案
+Generation: 1503
+Score: 37878
+Info: 【同種純化】基於前代[PURE_全端_G1502_329]進化

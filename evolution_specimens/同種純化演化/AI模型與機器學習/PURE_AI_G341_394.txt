@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G341_394
+Category: AI模型與機器學習
+Generation: 341
+Score: 8559
+Info: 【同種純化】基於前代[PURE_AI_G340_619]進化

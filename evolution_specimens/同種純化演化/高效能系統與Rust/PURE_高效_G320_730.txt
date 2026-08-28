@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G320_730
+Category: 高效能系統與Rust
+Generation: 320
+Score: 8187
+Info: 【同種純化】基於前代[PURE_高效_G319_932]進化

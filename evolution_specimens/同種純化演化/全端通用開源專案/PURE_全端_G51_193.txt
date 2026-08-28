@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G51_193
+Category: 全端通用開源專案
+Generation: 51
+Score: 1364
+Info: 【同種純化】基於前代[PURE_全端_G50_148]進化

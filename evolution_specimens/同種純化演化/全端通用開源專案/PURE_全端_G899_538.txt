@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G899_538
+Category: 全端通用開源專案
+Generation: 899
+Score: 22965
+Info: 【同種純化】基於前代[PURE_全端_G898_537]進化

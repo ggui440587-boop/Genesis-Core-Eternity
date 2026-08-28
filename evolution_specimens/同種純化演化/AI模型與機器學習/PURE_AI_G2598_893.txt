@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G2598_893
+Category: AI模型與機器學習
+Generation: 2598
+Score: 64584
+Info: 【同種純化】基於前代[PURE_AI_G2597_131]進化

@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G3775_801
+Category: AI模型與機器學習
+Generation: 3775
+Score: 94463
+Info: 【同種純化】基於前代[PURE_AI_G3774_954]進化

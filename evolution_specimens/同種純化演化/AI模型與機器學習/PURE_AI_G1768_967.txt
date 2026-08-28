@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G1768_967
+Category: AI模型與機器學習
+Generation: 1768
+Score: 43894
+Info: 【同種純化】基於前代[PURE_AI_G1767_732]進化

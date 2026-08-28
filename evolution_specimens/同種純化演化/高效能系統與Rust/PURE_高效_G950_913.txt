@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G950_913
+Category: 高效能系統與Rust
+Generation: 950
+Score: 23970
+Info: 【同種純化】基於前代[PURE_高效_G949_540]進化

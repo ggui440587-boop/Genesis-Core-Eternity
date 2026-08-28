@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G40_367
+Category: 高效能系統與Rust
+Generation: 40
+Score: 1142
+Info: 【同種純化】基於前代[PURE_高效_G39_776]進化

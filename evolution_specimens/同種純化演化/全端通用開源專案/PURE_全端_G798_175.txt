@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G798_175
+Category: 全端通用開源專案
+Generation: 798
+Score: 20528
+Info: 【同種純化】基於前代[PURE_全端_G797_723]進化

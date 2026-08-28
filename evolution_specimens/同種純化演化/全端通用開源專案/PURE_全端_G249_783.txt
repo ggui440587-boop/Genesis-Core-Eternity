@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G249_783
+Category: 全端通用開源專案
+Generation: 249
+Score: 6560
+Info: 【同種純化】基於前代[PURE_全端_G248_596]進化

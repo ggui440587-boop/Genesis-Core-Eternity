@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G1556_720
+Category: 全端通用開源專案
+Generation: 1556
+Score: 39261
+Info: 【同種純化】基於前代[PURE_全端_G1555_224]進化

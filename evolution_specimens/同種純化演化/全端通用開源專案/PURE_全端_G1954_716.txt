@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G1954_716
+Category: 全端通用開源專案
+Generation: 1954
+Score: 49286
+Info: 【同種純化】基於前代[PURE_全端_G1953_242]進化

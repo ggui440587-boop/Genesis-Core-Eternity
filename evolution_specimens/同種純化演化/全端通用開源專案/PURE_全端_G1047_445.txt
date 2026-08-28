@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G1047_445
+Category: 全端通用開源專案
+Generation: 1047
+Score: 26623
+Info: 【同種純化】基於前代[PURE_全端_G1046_475]進化

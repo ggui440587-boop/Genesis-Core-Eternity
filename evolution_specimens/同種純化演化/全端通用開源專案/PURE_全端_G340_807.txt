@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G340_807
+Category: 全端通用開源專案
+Generation: 340
+Score: 8868
+Info: 【同種純化】基於前代[PURE_全端_G339_970]進化

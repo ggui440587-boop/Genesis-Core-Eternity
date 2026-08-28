@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G1563_136
+Category: 全端通用開源專案
+Generation: 1563
+Score: 39450
+Info: 【同種純化】基於前代[PURE_全端_G1562_850]進化

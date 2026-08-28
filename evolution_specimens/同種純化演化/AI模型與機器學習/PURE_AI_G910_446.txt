@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G910_446
+Category: AI模型與機器學習
+Generation: 910
+Score: 22647
+Info: 【同種純化】基於前代[PURE_AI_G909_463]進化

@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G2240_484
+Category: 全端通用開源專案
+Generation: 2240
+Score: 56554
+Info: 【同種純化】基於前代[PURE_全端_G2239_608]進化

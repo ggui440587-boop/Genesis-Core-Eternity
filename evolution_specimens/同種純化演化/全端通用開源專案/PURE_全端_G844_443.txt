@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G844_443
+Category: 全端通用開源專案
+Generation: 844
+Score: 21669
+Info: 【同種純化】基於前代[PURE_全端_G843_384]進化

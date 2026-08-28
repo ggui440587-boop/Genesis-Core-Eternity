@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G844_924
+Category: AI模型與機器學習
+Generation: 844
+Score: 21041
+Info: 【同種純化】基於前代[PURE_AI_G843_318]進化

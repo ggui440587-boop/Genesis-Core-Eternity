@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G1733_149
+Category: 全端通用開源專案
+Generation: 1733
+Score: 43773
+Info: 【同種純化】基於前代[PURE_全端_G1732_243]進化

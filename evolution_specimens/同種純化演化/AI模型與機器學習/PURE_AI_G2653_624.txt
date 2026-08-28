@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G2653_624
+Category: AI模型與機器學習
+Generation: 2653
+Score: 66031
+Info: 【同種純化】基於前代[PURE_AI_G2652_412]進化

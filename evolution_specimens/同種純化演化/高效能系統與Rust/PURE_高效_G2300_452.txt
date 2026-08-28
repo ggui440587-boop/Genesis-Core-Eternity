@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G2300_452
+Category: 高效能系統與Rust
+Generation: 2300
+Score: 57531
+Info: 【同種純化】基於前代[PURE_高效_G2299_907]進化

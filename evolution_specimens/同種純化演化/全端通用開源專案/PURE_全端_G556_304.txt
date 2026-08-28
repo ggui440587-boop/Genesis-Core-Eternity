@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G556_304
+Category: 全端通用開源專案
+Generation: 556
+Score: 14222
+Info: 【同種純化】基於前代[PURE_全端_G555_503]進化

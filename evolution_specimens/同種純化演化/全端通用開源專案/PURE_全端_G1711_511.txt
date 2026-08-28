@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G1711_511
+Category: 全端通用開源專案
+Generation: 1711
+Score: 43195
+Info: 【同種純化】基於前代[PURE_全端_G1710_675]進化

@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G1996_599
+Category: 全端通用開源專案
+Generation: 1996
+Score: 50345
+Info: 【同種純化】基於前代[PURE_全端_G1995_708]進化

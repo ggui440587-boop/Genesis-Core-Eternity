@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G2086_970
+Category: 全端通用開源專案
+Generation: 2086
+Score: 52596
+Info: 【同種純化】基於前代[PURE_全端_G2085_208]進化

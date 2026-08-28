@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G296_429
+Category: 全端通用開源專案
+Generation: 296
+Score: 7785
+Info: 【同種純化】基於前代[PURE_全端_G295_511]進化

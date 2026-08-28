@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G1396_149
+Category: AI模型與機器學習
+Generation: 1396
+Score: 34651
+Info: 【同種純化】基於前代[PURE_AI_G1395_376]進化

@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G3731_747
+Category: AI模型與機器學習
+Generation: 3731
+Score: 93278
+Info: 【同種純化】基於前代[PURE_AI_G3730_876]進化

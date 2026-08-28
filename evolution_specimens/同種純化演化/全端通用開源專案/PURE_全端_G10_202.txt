@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G10_202
+Category: 全端通用開源專案
+Generation: 10
+Score: 373
+Info: 【同種純化】基於前代[PURE_全端_G9_767]進化

@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G119_175
+Category: 全端通用開源專案
+Generation: 119
+Score: 3105
+Info: 【同種純化】基於前代[PURE_全端_G118_801]進化

@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G2422_214
+Category: AI模型與機器學習
+Generation: 2422
+Score: 60118
+Info: 【同種純化】基於前代[PURE_AI_G2421_761]進化

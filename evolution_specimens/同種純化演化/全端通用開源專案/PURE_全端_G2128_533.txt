@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G2128_533
+Category: 全端通用開源專案
+Generation: 2128
+Score: 53609
+Info: 【同種純化】基於前代[PURE_全端_G2127_431]進化

@@ -1,0 +1,5 @@
+🚀 【Genesis全球情報速遞】
+📂 分類：AI模型與機器學習
+🏷️ 標籤：#LLM #DeepLearning #AI
+🆔 識別：HF_google-bert_bert-base-uncased
+🔗 內容：HuggingFace AI: https://huggingface.co/google-bert/bert-base-uncased

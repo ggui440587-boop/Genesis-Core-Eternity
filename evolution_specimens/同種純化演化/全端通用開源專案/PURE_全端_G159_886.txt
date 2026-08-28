@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G159_886
+Category: 全端通用開源專案
+Generation: 159
+Score: 4224
+Info: 【同種純化】基於前代[PURE_全端_G158_212]進化

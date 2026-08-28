@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G2272_835
+Category: 全端通用開源專案
+Generation: 2272
+Score: 57368
+Info: 【同種純化】基於前代[PURE_全端_G2271_716]進化

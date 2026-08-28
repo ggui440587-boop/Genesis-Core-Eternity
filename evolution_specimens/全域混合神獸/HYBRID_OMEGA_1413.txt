@@ -1,0 +1,4 @@
+Hybrid Specimen: HYBRID_OMEGA_1413
+Score: 24095
+Parents: GH_rmux + HF_unsloth_Qwen3.8-27B-GGUF
+Info: 【混合神獸】融合最強[HYBRID_OMEGA_3358]與異源[GH_rmux]

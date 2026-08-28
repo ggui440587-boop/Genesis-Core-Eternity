@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G2120_431
+Category: 全端通用開源專案
+Generation: 2120
+Score: 53386
+Info: 【同種純化】基於前代[PURE_全端_G2119_458]進化

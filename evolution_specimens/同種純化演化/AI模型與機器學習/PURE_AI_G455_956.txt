@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G455_956
+Category: AI模型與機器學習
+Generation: 455
+Score: 11314
+Info: 【同種純化】基於前代[PURE_AI_G454_753]進化

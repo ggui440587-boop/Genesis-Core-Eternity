@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G721_346
+Category: 全端通用開源專案
+Generation: 721
+Score: 18550
+Info: 【同種純化】基於前代[PURE_全端_G720_612]進化

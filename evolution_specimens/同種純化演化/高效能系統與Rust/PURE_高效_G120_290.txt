@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G120_290
+Category: 高效能系統與Rust
+Generation: 120
+Score: 3127
+Info: 【同種純化】基於前代[PURE_高效_G119_879]進化

@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G2622_916
+Category: 全端通用開源專案
+Generation: 2622
+Score: 66400
+Info: 【同種純化】基於前代[PURE_全端_G2621_732]進化

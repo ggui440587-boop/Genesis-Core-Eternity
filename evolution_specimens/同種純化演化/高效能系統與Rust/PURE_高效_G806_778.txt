@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G806_778
+Category: 高效能系統與Rust
+Generation: 806
+Score: 20459
+Info: 【同種純化】基於前代[PURE_高效_G805_282]進化

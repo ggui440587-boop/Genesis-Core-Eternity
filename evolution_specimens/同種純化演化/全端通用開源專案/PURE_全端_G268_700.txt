@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G268_700
+Category: 全端通用開源專案
+Generation: 268
+Score: 7037
+Info: 【同種純化】基於前代[PURE_全端_G267_846]進化

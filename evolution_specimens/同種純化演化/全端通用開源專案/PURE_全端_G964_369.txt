@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G964_369
+Category: 全端通用開源專案
+Generation: 964
+Score: 24610
+Info: 【同種純化】基於前代[PURE_全端_G963_809]進化

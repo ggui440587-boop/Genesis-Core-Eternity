@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G2758_533
+Category: AI模型與機器學習
+Generation: 2758
+Score: 68564
+Info: 【同種純化】基於前代[PURE_AI_G2757_754]進化

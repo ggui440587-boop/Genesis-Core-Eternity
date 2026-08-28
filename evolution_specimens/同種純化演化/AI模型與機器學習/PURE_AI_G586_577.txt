@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G586_577
+Category: AI模型與機器學習
+Generation: 586
+Score: 14545
+Info: 【同種純化】基於前代[PURE_AI_G585_545]進化

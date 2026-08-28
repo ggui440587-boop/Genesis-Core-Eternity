@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G755_975
+Category: 全端通用開源專案
+Generation: 755
+Score: 19449
+Info: 【同種純化】基於前代[PURE_全端_G754_879]進化

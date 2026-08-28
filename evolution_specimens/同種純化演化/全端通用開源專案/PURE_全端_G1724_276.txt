@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G1724_276
+Category: 全端通用開源專案
+Generation: 1724
+Score: 43546
+Info: 【同種純化】基於前代[PURE_全端_G1723_331]進化

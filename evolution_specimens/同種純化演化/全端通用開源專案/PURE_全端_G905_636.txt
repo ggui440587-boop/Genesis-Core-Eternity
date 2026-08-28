@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G905_636
+Category: 全端通用開源專案
+Generation: 905
+Score: 23114
+Info: 【同種純化】基於前代[PURE_全端_G904_761]進化

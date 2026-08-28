@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G23_825
+Category: 高效能系統與Rust
+Generation: 23
+Score: 703
+Info: 【同種純化】基於前代[PURE_高效_G22_248]進化

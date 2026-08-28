@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G592_312
+Category: 高效能系統與Rust
+Generation: 592
+Score: 15158
+Info: 【同種純化】基於前代[PURE_高效_G591_634]進化

@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G445_339
+Category: 高效能系統與Rust
+Generation: 445
+Score: 11312
+Info: 【同種純化】基於前代[PURE_高效_G444_855]進化

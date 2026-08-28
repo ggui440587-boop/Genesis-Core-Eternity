@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G3400_983
+Category: AI模型與機器學習
+Generation: 3400
+Score: 84551
+Info: 【同種純化】基於前代[PURE_AI_G3399_684]進化

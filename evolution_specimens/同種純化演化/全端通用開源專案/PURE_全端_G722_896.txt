@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G722_896
+Category: 全端通用開源專案
+Generation: 722
+Score: 18579
+Info: 【同種純化】基於前代[PURE_全端_G721_346]進化

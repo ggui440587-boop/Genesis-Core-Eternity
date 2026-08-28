@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G1190_645
+Category: 全端通用開源專案
+Generation: 1190
+Score: 30149
+Info: 【同種純化】基於前代[PURE_全端_G1189_710]進化

@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G3007_123
+Category: 高效能系統與Rust
+Generation: 3007
+Score: 75305
+Info: 【同種純化】基於前代[PURE_高效_G3006_794]進化

@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G2230_795
+Category: AI模型與機器學習
+Generation: 2230
+Score: 55112
+Info: 【同種純化】基於前代[PURE_AI_G2229_512]進化

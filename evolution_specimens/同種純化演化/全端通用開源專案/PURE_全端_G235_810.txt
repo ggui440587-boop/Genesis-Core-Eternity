@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G235_810
+Category: 全端通用開源專案
+Generation: 235
+Score: 6213
+Info: 【同種純化】基於前代[PURE_全端_G234_389]進化

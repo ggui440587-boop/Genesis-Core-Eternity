@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G1953_242
+Category: 全端通用開源專案
+Generation: 1953
+Score: 49247
+Info: 【同種純化】基於前代[PURE_全端_G1952_636]進化

@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G3378_259
+Category: AI模型與機器學習
+Generation: 3378
+Score: 84055
+Info: 【同種純化】基於前代[PURE_AI_G3377_888]進化

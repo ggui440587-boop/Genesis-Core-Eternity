@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G2513_368
+Category: 全端通用開源專案
+Generation: 2513
+Score: 63641
+Info: 【同種純化】基於前代[PURE_全端_G2512_708]進化

@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G1939_974
+Category: 高效能系統與Rust
+Generation: 1939
+Score: 48776
+Info: 【同種純化】基於前代[PURE_高效_G1938_395]進化

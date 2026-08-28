@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G1905_926
+Category: 全端通用開源專案
+Generation: 1905
+Score: 48057
+Info: 【同種純化】基於前代[PURE_全端_G1904_462]進化

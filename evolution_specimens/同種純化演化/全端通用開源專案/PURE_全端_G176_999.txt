@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G176_999
+Category: 全端通用開源專案
+Generation: 176
+Score: 4733
+Info: 【同種純化】基於前代[PURE_全端_G175_575]進化

@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G216_460
+Category: 全端通用開源專案
+Generation: 216
+Score: 5688
+Info: 【同種純化】基於前代[PURE_全端_G215_104]進化

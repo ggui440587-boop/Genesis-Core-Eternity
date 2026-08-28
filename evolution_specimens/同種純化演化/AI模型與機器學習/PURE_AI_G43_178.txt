@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G43_178
+Category: AI模型與機器學習
+Generation: 43
+Score: 1161
+Info: 【同種純化】基於前代[PURE_AI_G42_662]進化

@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G1623_481
+Category: 全端通用開源專案
+Generation: 1623
+Score: 40943
+Info: 【同種純化】基於前代[PURE_全端_G1622_186]進化

@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G1315_776
+Category: 高效能系統與Rust
+Generation: 1315
+Score: 33128
+Info: 【同種純化】基於前代[PURE_高效_G1314_508]進化

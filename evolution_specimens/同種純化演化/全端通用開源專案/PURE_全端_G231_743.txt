@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G231_743
+Category: 全端通用開源專案
+Generation: 231
+Score: 6126
+Info: 【同種純化】基於前代[PURE_全端_G230_200]進化

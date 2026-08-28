@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G2172_185
+Category: 全端通用開源專案
+Generation: 2172
+Score: 54834
+Info: 【同種純化】基於前代[PURE_全端_G2171_527]進化

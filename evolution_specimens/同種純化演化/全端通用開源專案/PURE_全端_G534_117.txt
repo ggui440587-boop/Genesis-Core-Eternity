@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G534_117
+Category: 全端通用開源專案
+Generation: 534
+Score: 13699
+Info: 【同種純化】基於前代[PURE_全端_G533_104]進化

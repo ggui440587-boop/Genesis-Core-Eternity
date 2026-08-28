@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G599_237
+Category: 全端通用開源專案
+Generation: 599
+Score: 15377
+Info: 【同種純化】基於前代[PURE_全端_G598_499]進化

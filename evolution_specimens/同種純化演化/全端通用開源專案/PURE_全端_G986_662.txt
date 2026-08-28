@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G986_662
+Category: 全端通用開源專案
+Generation: 986
+Score: 25076
+Info: 【同種純化】基於前代[PURE_全端_G985_351]進化

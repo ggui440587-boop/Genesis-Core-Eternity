@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G1938_395
+Category: 高效能系統與Rust
+Generation: 1938
+Score: 48739
+Info: 【同種純化】基於前代[PURE_高效_G1937_102]進化

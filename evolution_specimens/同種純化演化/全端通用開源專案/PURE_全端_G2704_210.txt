@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G2704_210
+Category: 全端通用開源專案
+Generation: 2704
+Score: 68472
+Info: 【同種純化】基於前代[PURE_全端_G2703_497]進化

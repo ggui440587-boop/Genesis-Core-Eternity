@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G44_510
+Category: 全端通用開源專案
+Generation: 44
+Score: 1167
+Info: 【同種純化】基於前代[PURE_全端_G43_840]進化

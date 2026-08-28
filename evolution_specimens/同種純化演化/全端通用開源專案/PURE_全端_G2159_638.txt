@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G2159_638
+Category: 全端通用開源專案
+Generation: 2159
+Score: 54515
+Info: 【同種純化】基於前代[PURE_全端_G2158_764]進化

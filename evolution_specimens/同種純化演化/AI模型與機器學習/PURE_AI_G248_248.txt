@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G248_248
+Category: AI模型與機器學習
+Generation: 248
+Score: 6165
+Info: 【同種純化】基於前代[PURE_AI_G247_187]進化

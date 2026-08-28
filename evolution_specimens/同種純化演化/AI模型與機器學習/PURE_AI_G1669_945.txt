@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G1669_945
+Category: AI模型與機器學習
+Generation: 1669
+Score: 41411
+Info: 【同種純化】基於前代[PURE_AI_G1668_442]進化

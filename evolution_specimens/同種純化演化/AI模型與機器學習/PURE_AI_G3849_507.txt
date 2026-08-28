@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G3849_507
+Category: AI模型與機器學習
+Generation: 3849
+Score: 96228
+Info: 【同種純化】基於前代[PURE_AI_G3848_305]進化

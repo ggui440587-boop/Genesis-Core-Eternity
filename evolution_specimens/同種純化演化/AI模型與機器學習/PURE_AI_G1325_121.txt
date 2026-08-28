@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G1325_121
+Category: AI模型與機器學習
+Generation: 1325
+Score: 32897
+Info: 【同種純化】基於前代[PURE_AI_G1324_986]進化

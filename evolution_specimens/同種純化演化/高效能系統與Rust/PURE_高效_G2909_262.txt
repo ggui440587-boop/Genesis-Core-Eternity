@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G2909_262
+Category: 高效能系統與Rust
+Generation: 2909
+Score: 73048
+Info: 【同種純化】基於前代[PURE_高效_G2908_437]進化

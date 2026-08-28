@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G1844_725
+Category: AI模型與機器學習
+Generation: 1844
+Score: 45747
+Info: 【同種純化】基於前代[PURE_AI_G1843_265]進化

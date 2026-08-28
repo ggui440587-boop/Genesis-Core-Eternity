@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G16_534
+Category: 全端通用開源專案
+Generation: 16
+Score: 507
+Info: 【同種純化】基於前代[PURE_全端_G15_637]進化

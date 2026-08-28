@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G1237_547
+Category: 全端通用開源專案
+Generation: 1237
+Score: 31315
+Info: 【同種純化】基於前代[PURE_全端_G1236_894]進化

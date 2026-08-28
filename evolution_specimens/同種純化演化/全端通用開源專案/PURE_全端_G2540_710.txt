@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G2540_710
+Category: 全端通用開源專案
+Generation: 2540
+Score: 64283
+Info: 【同種純化】基於前代[PURE_全端_G2539_704]進化

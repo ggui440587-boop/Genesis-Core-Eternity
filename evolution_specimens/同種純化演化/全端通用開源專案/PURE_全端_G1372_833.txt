@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G1372_833
+Category: 全端通用開源專案
+Generation: 1372
+Score: 34455
+Info: 【同種純化】基於前代[PURE_全端_G1371_178]進化

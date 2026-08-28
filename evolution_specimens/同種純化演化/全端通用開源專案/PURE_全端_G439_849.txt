@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G439_849
+Category: 全端通用開源專案
+Generation: 439
+Score: 11277
+Info: 【同種純化】基於前代[PURE_全端_G438_774]進化

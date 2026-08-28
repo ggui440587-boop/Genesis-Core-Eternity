@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G1139_499
+Category: 全端通用開源專案
+Generation: 1139
+Score: 28966
+Info: 【同種純化】基於前代[PURE_全端_G1138_388]進化

@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G2261_208
+Category: 高效能系統與Rust
+Generation: 2261
+Score: 56608
+Info: 【同種純化】基於前代[PURE_高效_G2260_168]進化

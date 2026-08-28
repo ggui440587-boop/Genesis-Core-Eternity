@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G2506_722
+Category: 全端通用開源專案
+Generation: 2506
+Score: 63457
+Info: 【同種純化】基於前代[PURE_全端_G2505_254]進化

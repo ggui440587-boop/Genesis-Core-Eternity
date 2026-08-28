@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G2733_632
+Category: 高效能系統與Rust
+Generation: 2733
+Score: 68366
+Info: 【同種純化】基於前代[PURE_高效_G2732_433]進化

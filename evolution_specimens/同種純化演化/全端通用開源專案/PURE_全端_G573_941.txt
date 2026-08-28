@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G573_941
+Category: 全端通用開源專案
+Generation: 573
+Score: 14701
+Info: 【同種純化】基於前代[PURE_全端_G572_542]進化

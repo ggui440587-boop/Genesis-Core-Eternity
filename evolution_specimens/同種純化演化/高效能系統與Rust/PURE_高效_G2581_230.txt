@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G2581_230
+Category: 高效能系統與Rust
+Generation: 2581
+Score: 64453
+Info: 【同種純化】基於前代[PURE_高效_G2580_754]進化

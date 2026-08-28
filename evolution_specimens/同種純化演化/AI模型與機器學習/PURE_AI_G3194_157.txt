@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G3194_157
+Category: AI模型與機器學習
+Generation: 3194
+Score: 79521
+Info: 【同種純化】基於前代[PURE_AI_G3193_340]進化

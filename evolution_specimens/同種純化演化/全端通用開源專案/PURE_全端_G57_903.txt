@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G57_903
+Category: 全端通用開源專案
+Generation: 57
+Score: 1520
+Info: 【同種純化】基於前代[PURE_全端_G56_354]進化

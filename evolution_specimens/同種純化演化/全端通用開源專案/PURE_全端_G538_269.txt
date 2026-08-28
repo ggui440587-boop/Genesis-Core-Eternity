@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G538_269
+Category: 全端通用開源專案
+Generation: 538
+Score: 13769
+Info: 【同種純化】基於前代[PURE_全端_G537_512]進化

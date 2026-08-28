@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G3056_693
+Category: 高效能系統與Rust
+Generation: 3056
+Score: 76590
+Info: 【同種純化】基於前代[PURE_高效_G3055_253]進化

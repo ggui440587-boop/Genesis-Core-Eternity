@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G244_101
+Category: AI模型與機器學習
+Generation: 244
+Score: 6064
+Info: 【同種純化】基於前代[PURE_AI_G243_587]進化

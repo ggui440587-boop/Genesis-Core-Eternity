@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G1869_870
+Category: 全端通用開源專案
+Generation: 1869
+Score: 47124
+Info: 【同種純化】基於前代[PURE_全端_G1868_123]進化

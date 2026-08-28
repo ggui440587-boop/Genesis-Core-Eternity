@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G2170_167
+Category: 全端通用開源專案
+Generation: 2170
+Score: 54784
+Info: 【同種純化】基於前代[PURE_全端_G2169_461]進化

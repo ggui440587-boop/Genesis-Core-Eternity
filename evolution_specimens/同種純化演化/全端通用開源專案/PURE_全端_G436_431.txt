@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G436_431
+Category: 全端通用開源專案
+Generation: 436
+Score: 11191
+Info: 【同種純化】基於前代[PURE_全端_G435_716]進化

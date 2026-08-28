@@ -1,0 +1,4 @@
+Hybrid Specimen: HYBRID_OMEGA_8125
+Score: 13605
+Parents: CR_ABC_Game_Engine + HF_OBLITERATUS_Qwen3.8-27B-OBLITERATED
+Info: 【混合神獸】融合最強[HYBRID_OMEGA_2502]與異源[CR_ABC_Game_Engine]

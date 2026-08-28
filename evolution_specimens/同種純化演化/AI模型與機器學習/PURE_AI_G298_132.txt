@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G298_132
+Category: AI模型與機器學習
+Generation: 298
+Score: 7452
+Info: 【同種純化】基於前代[PURE_AI_G297_345]進化

@@ -1,0 +1,4 @@
+Hybrid Specimen: HYBRID_OMEGA_8952
+Score: 96902
+Parents: GH_yek + HF_Qwen_Qwen3.8-Flash-Next
+Info: 【混合神獸】融合最強[HYBRID_OMEGA_1481]與異源[GH_yek]

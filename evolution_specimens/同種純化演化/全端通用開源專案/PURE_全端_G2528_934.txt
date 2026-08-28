@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G2528_934
+Category: 全端通用開源專案
+Generation: 2528
+Score: 63973
+Info: 【同種純化】基於前代[PURE_全端_G2527_488]進化

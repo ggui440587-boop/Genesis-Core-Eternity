@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G2248_986
+Category: 全端通用開源專案
+Generation: 2248
+Score: 56768
+Info: 【同種純化】基於前代[PURE_全端_G2247_779]進化

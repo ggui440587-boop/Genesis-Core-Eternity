@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G1846_460
+Category: 全端通用開源專案
+Generation: 1846
+Score: 46476
+Info: 【同種純化】基於前代[PURE_全端_G1845_746]進化

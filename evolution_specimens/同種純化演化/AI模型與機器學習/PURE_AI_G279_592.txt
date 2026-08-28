@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G279_592
+Category: AI模型與機器學習
+Generation: 279
+Score: 6915
+Info: 【同種純化】基於前代[PURE_AI_G278_911]進化

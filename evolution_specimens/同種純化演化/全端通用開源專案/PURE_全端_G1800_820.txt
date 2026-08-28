@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G1800_820
+Category: 全端通用開源專案
+Generation: 1800
+Score: 45376
+Info: 【同種純化】基於前代[PURE_全端_G1799_378]進化

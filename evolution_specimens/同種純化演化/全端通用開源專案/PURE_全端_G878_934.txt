@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G878_934
+Category: 全端通用開源專案
+Generation: 878
+Score: 22460
+Info: 【同種純化】基於前代[PURE_全端_G877_414]進化

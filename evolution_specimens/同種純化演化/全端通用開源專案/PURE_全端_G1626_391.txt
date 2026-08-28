@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G1626_391
+Category: 全端通用開源專案
+Generation: 1626
+Score: 41026
+Info: 【同種純化】基於前代[PURE_全端_G1625_905]進化

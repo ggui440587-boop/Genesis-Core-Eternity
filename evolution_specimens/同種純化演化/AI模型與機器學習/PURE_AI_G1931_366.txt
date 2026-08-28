@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G1931_366
+Category: AI模型與機器學習
+Generation: 1931
+Score: 47894
+Info: 【同種純化】基於前代[PURE_AI_G1930_823]進化

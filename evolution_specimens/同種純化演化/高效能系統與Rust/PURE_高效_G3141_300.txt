@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G3141_300
+Category: 高效能系統與Rust
+Generation: 3141
+Score: 78852
+Info: 【同種純化】基於前代[PURE_高效_G3140_395]進化

@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G1650_566
+Category: 全端通用開源專案
+Generation: 1650
+Score: 41641
+Info: 【同種純化】基於前代[PURE_全端_G1649_608]進化

@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G1973_538
+Category: AI模型與機器學習
+Generation: 1973
+Score: 48872
+Info: 【同種純化】基於前代[PURE_AI_G1972_899]進化

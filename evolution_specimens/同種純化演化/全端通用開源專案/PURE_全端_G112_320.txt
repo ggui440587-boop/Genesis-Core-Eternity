@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G112_320
+Category: 全端通用開源專案
+Generation: 112
+Score: 2950
+Info: 【同種純化】基於前代[PURE_全端_G111_108]進化

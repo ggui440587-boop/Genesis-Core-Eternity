@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G322_548
+Category: 全端通用開源專案
+Generation: 322
+Score: 8397
+Info: 【同種純化】基於前代[PURE_全端_G321_337]進化

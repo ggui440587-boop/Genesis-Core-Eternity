@@ -1,0 +1,4 @@
+Hybrid Specimen: HYBRID_OMEGA_5053
+Score: 229441
+Parents: CR_ABC-ECS + GH_mirrord
+Info: 【混合神獸】融合最強[HYBRID_OMEGA_1011]與異源[CR_ABC-ECS]

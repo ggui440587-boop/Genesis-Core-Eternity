@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G2306_635
+Category: 全端通用開源專案
+Generation: 2306
+Score: 58218
+Info: 【同種純化】基於前代[PURE_全端_G2305_516]進化

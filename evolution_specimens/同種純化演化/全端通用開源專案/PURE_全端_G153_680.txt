@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G153_680
+Category: 全端通用開源專案
+Generation: 153
+Score: 4062
+Info: 【同種純化】基於前代[PURE_全端_G152_649]進化

@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G1977_597
+Category: AI模型與機器學習
+Generation: 1977
+Score: 48978
+Info: 【同種純化】基於前代[PURE_AI_G1976_318]進化

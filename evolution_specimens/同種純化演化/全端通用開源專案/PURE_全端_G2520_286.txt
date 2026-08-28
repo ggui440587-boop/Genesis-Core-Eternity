@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G2520_286
+Category: 全端通用開源專案
+Generation: 2520
+Score: 63823
+Info: 【同種純化】基於前代[PURE_全端_G2519_250]進化

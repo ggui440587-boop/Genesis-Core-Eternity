@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G2340_340
+Category: 全端通用開源專案
+Generation: 2340
+Score: 59107
+Info: 【同種純化】基於前代[PURE_全端_G2339_904]進化

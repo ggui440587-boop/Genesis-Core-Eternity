@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G734_321
+Category: 高效能系統與Rust
+Generation: 734
+Score: 18615
+Info: 【同種純化】基於前代[PURE_高效_G733_674]進化

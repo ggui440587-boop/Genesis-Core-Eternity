@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G2544_270
+Category: 全端通用開源專案
+Generation: 2544
+Score: 64413
+Info: 【同種純化】基於前代[PURE_全端_G2543_566]進化

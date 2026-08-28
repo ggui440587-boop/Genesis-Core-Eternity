@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G74_358
+Category: AI模型與機器學習
+Generation: 74
+Score: 1847
+Info: 【同種純化】基於前代[PURE_AI_G73_805]進化

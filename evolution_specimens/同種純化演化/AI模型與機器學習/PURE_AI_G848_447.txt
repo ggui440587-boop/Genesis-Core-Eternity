@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G848_447
+Category: AI模型與機器學習
+Generation: 848
+Score: 21152
+Info: 【同種純化】基於前代[PURE_AI_G847_990]進化

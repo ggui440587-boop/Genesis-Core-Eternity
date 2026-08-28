@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G1618_442
+Category: 全端通用開源專案
+Generation: 1618
+Score: 40812
+Info: 【同種純化】基於前代[PURE_全端_G1617_706]進化

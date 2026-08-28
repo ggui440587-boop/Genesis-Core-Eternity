@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G140_220
+Category: 高效能系統與Rust
+Generation: 140
+Score: 3639
+Info: 【同種純化】基於前代[PURE_高效_G139_443]進化

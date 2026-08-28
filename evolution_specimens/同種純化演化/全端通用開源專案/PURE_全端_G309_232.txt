@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G309_232
+Category: 全端通用開源專案
+Generation: 309
+Score: 8090
+Info: 【同種純化】基於前代[PURE_全端_G308_832]進化

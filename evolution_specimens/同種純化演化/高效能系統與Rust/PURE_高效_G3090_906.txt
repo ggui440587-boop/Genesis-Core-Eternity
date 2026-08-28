@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G3090_906
+Category: 高效能系統與Rust
+Generation: 3090
+Score: 77522
+Info: 【同種純化】基於前代[PURE_高效_G3089_984]進化

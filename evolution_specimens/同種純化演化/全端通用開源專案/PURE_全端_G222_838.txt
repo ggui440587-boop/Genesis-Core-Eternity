@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G222_838
+Category: 全端通用開源專案
+Generation: 222
+Score: 5879
+Info: 【同種純化】基於前代[PURE_全端_G221_915]進化

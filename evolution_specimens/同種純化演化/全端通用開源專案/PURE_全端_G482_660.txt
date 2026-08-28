@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G482_660
+Category: 全端通用開源專案
+Generation: 482
+Score: 12446
+Info: 【同種純化】基於前代[PURE_全端_G481_207]進化

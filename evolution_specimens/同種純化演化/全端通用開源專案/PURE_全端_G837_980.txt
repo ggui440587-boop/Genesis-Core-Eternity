@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G837_980
+Category: 全端通用開源專案
+Generation: 837
+Score: 21492
+Info: 【同種純化】基於前代[PURE_全端_G836_112]進化

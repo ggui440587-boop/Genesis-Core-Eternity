@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G1993_718
+Category: 高效能系統與Rust
+Generation: 1993
+Score: 50018
+Info: 【同種純化】基於前代[PURE_高效_G1992_366]進化

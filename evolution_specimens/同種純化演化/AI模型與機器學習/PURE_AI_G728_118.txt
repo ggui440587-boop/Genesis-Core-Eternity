@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G728_118
+Category: AI模型與機器學習
+Generation: 728
+Score: 18086
+Info: 【同種純化】基於前代[PURE_AI_G727_618]進化

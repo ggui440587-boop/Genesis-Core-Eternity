@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G2001_214
+Category: 全端通用開源專案
+Generation: 2001
+Score: 50491
+Info: 【同種純化】基於前代[PURE_全端_G2000_297]進化

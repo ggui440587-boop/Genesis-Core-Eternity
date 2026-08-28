@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G705_919
+Category: 全端通用開源專案
+Generation: 705
+Score: 18115
+Info: 【同種純化】基於前代[PURE_全端_G704_168]進化

@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G925_158
+Category: AI模型與機器學習
+Generation: 925
+Score: 23040
+Info: 【同種純化】基於前代[PURE_AI_G924_678]進化

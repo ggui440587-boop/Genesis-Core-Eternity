@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G1907_534
+Category: 全端通用開源專案
+Generation: 1907
+Score: 48090
+Info: 【同種純化】基於前代[PURE_全端_G1906_987]進化

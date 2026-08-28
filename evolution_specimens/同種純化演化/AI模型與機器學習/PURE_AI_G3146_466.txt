@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G3146_466
+Category: AI模型與機器學習
+Generation: 3146
+Score: 78388
+Info: 【同種純化】基於前代[PURE_AI_G3145_427]進化

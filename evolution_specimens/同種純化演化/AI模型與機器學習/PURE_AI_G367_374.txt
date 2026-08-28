@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G367_374
+Category: AI模型與機器學習
+Generation: 367
+Score: 9194
+Info: 【同種純化】基於前代[PURE_AI_G366_738]進化

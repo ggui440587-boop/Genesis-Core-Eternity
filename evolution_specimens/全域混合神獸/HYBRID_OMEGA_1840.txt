@@ -1,0 +1,4 @@
+Hybrid Specimen: HYBRID_OMEGA_1840
+Score: 111481
+Parents: GH_litellm + SEED_312
+Info: 【混合神獸】融合最強[HYBRID_OMEGA_6623]與異源[GH_litellm]

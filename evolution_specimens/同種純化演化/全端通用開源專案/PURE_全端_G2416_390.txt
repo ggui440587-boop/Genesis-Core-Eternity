@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G2416_390
+Category: 全端通用開源專案
+Generation: 2416
+Score: 61140
+Info: 【同種純化】基於前代[PURE_全端_G2415_324]進化

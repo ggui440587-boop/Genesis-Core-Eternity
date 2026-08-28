@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G526_775
+Category: AI模型與機器學習
+Generation: 526
+Score: 13127
+Info: 【同種純化】基於前代[PURE_AI_G525_691]進化

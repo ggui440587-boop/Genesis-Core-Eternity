@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G614_363
+Category: 全端通用開源專案
+Generation: 614
+Score: 15764
+Info: 【同種純化】基於前代[PURE_全端_G613_967]進化

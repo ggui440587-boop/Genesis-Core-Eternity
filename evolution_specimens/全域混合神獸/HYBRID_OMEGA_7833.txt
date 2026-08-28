@@ -1,0 +1,4 @@
+Hybrid Specimen: HYBRID_OMEGA_7833
+Score: 158709
+Parents: SEED_789 + SEED_220
+Info: 【混合神獸】融合最強[HYBRID_OMEGA_2416]與異源[SEED_789]

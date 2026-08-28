@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G930_260
+Category: 高效能系統與Rust
+Generation: 930
+Score: 23576
+Info: 【同種純化】基於前代[PURE_高效_G929_741]進化

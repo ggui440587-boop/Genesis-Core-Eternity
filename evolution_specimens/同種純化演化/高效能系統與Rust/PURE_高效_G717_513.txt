@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G717_513
+Category: 高效能系統與Rust
+Generation: 717
+Score: 18173
+Info: 【同種純化】基於前代[PURE_高效_G716_501]進化

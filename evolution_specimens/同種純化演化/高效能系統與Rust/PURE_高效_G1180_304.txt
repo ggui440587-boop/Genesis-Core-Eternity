@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G1180_304
+Category: 高效能系統與Rust
+Generation: 1180
+Score: 29599
+Info: 【同種純化】基於前代[PURE_高效_G1179_664]進化

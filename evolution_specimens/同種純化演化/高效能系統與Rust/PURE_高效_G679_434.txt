@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G679_434
+Category: 高效能系統與Rust
+Generation: 679
+Score: 17267
+Info: 【同種純化】基於前代[PURE_高效_G678_994]進化

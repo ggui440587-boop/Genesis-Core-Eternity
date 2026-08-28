@@ -1,0 +1,5 @@
+🚀 【Genesis全球情報速遞】
+📂 分類：AI模型與機器學習
+🏷️ 標籤：#LLM #DeepLearning #AI
+🆔 識別：HF_sentence-transformers_paraphrase-multilingual-MiniLM-L12-v2
+🔗 內容：HuggingFace AI: https://huggingface.co/sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2

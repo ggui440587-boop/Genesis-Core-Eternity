@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G2501_871
+Category: AI模型與機器學習
+Generation: 2501
+Score: 62150
+Info: 【同種純化】基於前代[PURE_AI_G2500_958]進化

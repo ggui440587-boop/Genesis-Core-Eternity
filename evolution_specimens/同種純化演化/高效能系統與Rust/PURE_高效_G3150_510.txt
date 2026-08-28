@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G3150_510
+Category: 高效能系統與Rust
+Generation: 3150
+Score: 79062
+Info: 【同種純化】基於前代[PURE_高效_G3149_244]進化

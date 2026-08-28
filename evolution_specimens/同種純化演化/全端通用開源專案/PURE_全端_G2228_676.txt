@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G2228_676
+Category: 全端通用開源專案
+Generation: 2228
+Score: 56203
+Info: 【同種純化】基於前代[PURE_全端_G2227_224]進化

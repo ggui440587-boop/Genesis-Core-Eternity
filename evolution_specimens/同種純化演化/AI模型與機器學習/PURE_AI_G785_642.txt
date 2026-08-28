@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G785_642
+Category: AI模型與機器學習
+Generation: 785
+Score: 19431
+Info: 【同種純化】基於前代[PURE_AI_G784_532]進化

@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G766_508
+Category: 高效能系統與Rust
+Generation: 766
+Score: 19473
+Info: 【同種純化】基於前代[PURE_高效_G765_187]進化

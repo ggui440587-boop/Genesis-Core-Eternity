@@ -1,0 +1,4 @@
+Hybrid Specimen: HYBRID_OMEGA_4930
+Score: 23487
+Parents: CR_A-Mazed + GH_litellm
+Info: 【混合神獸】融合最強[HYBRID_OMEGA_7478]與異源[CR_A-Mazed]

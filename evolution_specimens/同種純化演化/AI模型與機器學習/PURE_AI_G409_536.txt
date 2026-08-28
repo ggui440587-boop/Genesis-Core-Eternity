@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G409_536
+Category: AI模型與機器學習
+Generation: 409
+Score: 10225
+Info: 【同種純化】基於前代[PURE_AI_G408_836]進化

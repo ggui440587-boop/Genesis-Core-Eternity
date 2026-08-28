@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G2608_339
+Category: 全端通用開源專案
+Generation: 2608
+Score: 65988
+Info: 【同種純化】基於前代[PURE_全端_G2607_495]進化

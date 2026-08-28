@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G2555_281
+Category: 全端通用開源專案
+Generation: 2555
+Score: 64641
+Info: 【同種純化】基於前代[PURE_全端_G2554_807]進化

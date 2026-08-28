@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G2021_295
+Category: 高效能系統與Rust
+Generation: 2021
+Score: 50689
+Info: 【同種純化】基於前代[PURE_高效_G2020_835]進化

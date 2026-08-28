@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G664_505
+Category: 全端通用開源專案
+Generation: 664
+Score: 16994
+Info: 【同種純化】基於前代[PURE_全端_G663_546]進化

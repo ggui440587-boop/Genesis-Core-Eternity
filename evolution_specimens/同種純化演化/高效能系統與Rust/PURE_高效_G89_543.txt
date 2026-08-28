@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G89_543
+Category: 高效能系統與Rust
+Generation: 89
+Score: 2394
+Info: 【同種純化】基於前代[PURE_高效_G88_583]進化

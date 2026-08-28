@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G107_707
+Category: 全端通用開源專案
+Generation: 107
+Score: 2838
+Info: 【同種純化】基於前代[PURE_全端_G106_687]進化

@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G2259_383
+Category: 全端通用開源專案
+Generation: 2259
+Score: 57060
+Info: 【同種純化】基於前代[PURE_全端_G2258_702]進化

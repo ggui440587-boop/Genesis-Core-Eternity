@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G917_370
+Category: 全端通用開源專案
+Generation: 917
+Score: 23386
+Info: 【同種純化】基於前代[PURE_全端_G916_603]進化

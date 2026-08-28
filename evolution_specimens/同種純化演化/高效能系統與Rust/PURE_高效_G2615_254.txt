@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G2615_254
+Category: 高效能系統與Rust
+Generation: 2615
+Score: 65264
+Info: 【同種純化】基於前代[PURE_高效_G2614_853]進化

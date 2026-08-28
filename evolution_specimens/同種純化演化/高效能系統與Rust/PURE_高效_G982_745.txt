@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G982_745
+Category: 高效能系統與Rust
+Generation: 982
+Score: 24791
+Info: 【同種純化】基於前代[PURE_高效_G981_855]進化

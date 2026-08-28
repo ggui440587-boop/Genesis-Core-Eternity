@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G1812_649
+Category: AI模型與機器學習
+Generation: 1812
+Score: 44930
+Info: 【同種純化】基於前代[PURE_AI_G1811_262]進化

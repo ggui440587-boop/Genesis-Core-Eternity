@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G1998_222
+Category: 全端通用開源專案
+Generation: 1998
+Score: 50406
+Info: 【同種純化】基於前代[PURE_全端_G1997_905]進化

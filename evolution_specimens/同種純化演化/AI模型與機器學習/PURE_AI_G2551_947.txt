@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G2551_947
+Category: AI模型與機器學習
+Generation: 2551
+Score: 63470
+Info: 【同種純化】基於前代[PURE_AI_G2550_654]進化

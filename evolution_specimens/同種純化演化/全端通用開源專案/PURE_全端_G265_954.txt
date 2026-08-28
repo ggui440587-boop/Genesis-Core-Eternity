@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G265_954
+Category: 全端通用開源專案
+Generation: 265
+Score: 6956
+Info: 【同種純化】基於前代[PURE_全端_G264_523]進化

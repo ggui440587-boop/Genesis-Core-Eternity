@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G1145_721
+Category: 高效能系統與Rust
+Generation: 1145
+Score: 28711
+Info: 【同種純化】基於前代[PURE_高效_G1144_916]進化

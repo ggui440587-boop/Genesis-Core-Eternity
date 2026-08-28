@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G1989_919
+Category: AI模型與機器學習
+Generation: 1989
+Score: 49238
+Info: 【同種純化】基於前代[PURE_AI_G1988_509]進化

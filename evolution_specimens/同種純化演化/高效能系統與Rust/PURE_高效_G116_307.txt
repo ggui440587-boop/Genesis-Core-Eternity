@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G116_307
+Category: 高效能系統與Rust
+Generation: 116
+Score: 3003
+Info: 【同種純化】基於前代[PURE_高效_G115_297]進化

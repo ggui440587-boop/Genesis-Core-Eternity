@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G2011_403
+Category: 全端通用開源專案
+Generation: 2011
+Score: 50772
+Info: 【同種純化】基於前代[PURE_全端_G2010_662]進化

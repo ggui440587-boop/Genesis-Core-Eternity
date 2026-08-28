@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G1972_705
+Category: 全端通用開源專案
+Generation: 1972
+Score: 49695
+Info: 【同種純化】基於前代[PURE_全端_G1971_111]進化

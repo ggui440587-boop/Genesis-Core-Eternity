@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G707_722
+Category: 全端通用開源專案
+Generation: 707
+Score: 18179
+Info: 【同種純化】基於前代[PURE_全端_G706_504]進化

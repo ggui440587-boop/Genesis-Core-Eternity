@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G230_141
+Category: AI模型與機器學習
+Generation: 230
+Score: 5719
+Info: 【同種純化】基於前代[PURE_AI_G229_172]進化

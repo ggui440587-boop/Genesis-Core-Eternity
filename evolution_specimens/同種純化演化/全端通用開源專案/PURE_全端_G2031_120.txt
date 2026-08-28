@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G2031_120
+Category: 全端通用開源專案
+Generation: 2031
+Score: 51231
+Info: 【同種純化】基於前代[PURE_全端_G2030_654]進化

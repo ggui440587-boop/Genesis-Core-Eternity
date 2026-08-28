@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G834_635
+Category: 高效能系統與Rust
+Generation: 834
+Score: 21209
+Info: 【同種純化】基於前代[PURE_高效_G833_742]進化

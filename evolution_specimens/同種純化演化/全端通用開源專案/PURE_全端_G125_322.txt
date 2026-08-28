@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G125_322
+Category: 全端通用開源專案
+Generation: 125
+Score: 3268
+Info: 【同種純化】基於前代[PURE_全端_G124_444]進化

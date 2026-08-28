@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G641_357
+Category: AI模型與機器學習
+Generation: 641
+Score: 15907
+Info: 【同種純化】基於前代[PURE_AI_G640_731]進化

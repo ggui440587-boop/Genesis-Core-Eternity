@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G1386_270
+Category: AI模型與機器學習
+Generation: 1386
+Score: 34418
+Info: 【同種純化】基於前代[PURE_AI_G1385_243]進化

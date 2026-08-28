@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G787_976
+Category: AI模型與機器學習
+Generation: 787
+Score: 19469
+Info: 【同種純化】基於前代[PURE_AI_G786_590]進化

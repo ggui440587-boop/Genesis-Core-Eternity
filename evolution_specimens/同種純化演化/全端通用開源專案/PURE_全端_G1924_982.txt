@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G1924_982
+Category: 全端通用開源專案
+Generation: 1924
+Score: 48496
+Info: 【同種純化】基於前代[PURE_全端_G1923_768]進化

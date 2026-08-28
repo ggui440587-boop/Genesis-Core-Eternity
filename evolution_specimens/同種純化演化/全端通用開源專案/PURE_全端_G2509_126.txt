@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G2509_126
+Category: 全端通用開源專案
+Generation: 2509
+Score: 63542
+Info: 【同種純化】基於前代[PURE_全端_G2508_100]進化

@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G2369_600
+Category: 全端通用開源專案
+Generation: 2369
+Score: 59866
+Info: 【同種純化】基於前代[PURE_全端_G2368_190]進化

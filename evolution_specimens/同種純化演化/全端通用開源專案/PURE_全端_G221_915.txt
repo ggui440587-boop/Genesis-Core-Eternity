@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G221_915
+Category: 全端通用開源專案
+Generation: 221
+Score: 5852
+Info: 【同種純化】基於前代[PURE_全端_G220_211]進化

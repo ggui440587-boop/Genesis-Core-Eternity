@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G158_979
+Category: AI模型與機器學習
+Generation: 158
+Score: 3885
+Info: 【同種純化】基於前代[PURE_AI_G157_553]進化

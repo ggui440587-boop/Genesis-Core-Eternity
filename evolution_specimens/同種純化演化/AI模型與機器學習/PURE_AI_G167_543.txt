@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G167_543
+Category: AI模型與機器學習
+Generation: 167
+Score: 4155
+Info: 【同種純化】基於前代[PURE_AI_G166_236]進化

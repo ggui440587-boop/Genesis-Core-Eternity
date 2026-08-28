@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G20_255
+Category: 全端通用開源專案
+Generation: 20
+Score: 626
+Info: 【同種純化】基於前代[PURE_全端_G19_997]進化

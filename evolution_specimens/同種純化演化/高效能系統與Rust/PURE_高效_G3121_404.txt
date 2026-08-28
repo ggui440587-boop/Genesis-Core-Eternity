@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G3121_404
+Category: 高效能系統與Rust
+Generation: 3121
+Score: 78384
+Info: 【同種純化】基於前代[PURE_高效_G3120_581]進化

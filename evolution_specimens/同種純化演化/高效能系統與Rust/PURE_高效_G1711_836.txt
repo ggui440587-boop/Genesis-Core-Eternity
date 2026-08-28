@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G1711_836
+Category: 高效能系統與Rust
+Generation: 1711
+Score: 42944
+Info: 【同種純化】基於前代[PURE_高效_G1710_732]進化

@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G800_322
+Category: 全端通用開源專案
+Generation: 800
+Score: 20597
+Info: 【同種純化】基於前代[PURE_全端_G799_403]進化

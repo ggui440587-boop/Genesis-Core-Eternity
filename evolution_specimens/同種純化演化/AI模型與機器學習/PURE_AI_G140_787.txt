@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G140_787
+Category: AI模型與機器學習
+Generation: 140
+Score: 3469
+Info: 【同種純化】基於前代[PURE_AI_G139_451]進化

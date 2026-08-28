@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G81_893
+Category: AI模型與機器學習
+Generation: 81
+Score: 2048
+Info: 【同種純化】基於前代[PURE_AI_G80_663]進化

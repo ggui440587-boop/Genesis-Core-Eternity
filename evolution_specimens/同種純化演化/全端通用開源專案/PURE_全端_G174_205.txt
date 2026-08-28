@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G174_205
+Category: 全端通用開源專案
+Generation: 174
+Score: 4674
+Info: 【同種純化】基於前代[PURE_全端_G173_168]進化

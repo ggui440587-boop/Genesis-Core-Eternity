@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G1571_399
+Category: 全端通用開源專案
+Generation: 1571
+Score: 39690
+Info: 【同種純化】基於前代[PURE_全端_G1570_309]進化

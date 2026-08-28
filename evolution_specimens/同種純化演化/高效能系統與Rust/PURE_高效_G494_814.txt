@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G494_814
+Category: 高效能系統與Rust
+Generation: 494
+Score: 12624
+Info: 【同種純化】基於前代[PURE_高效_G493_981]進化

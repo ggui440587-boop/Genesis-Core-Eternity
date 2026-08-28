@@ -1,0 +1,4 @@
+Hybrid Specimen: HYBRID_OMEGA_9960
+Score: 11168
+Parents: CR_ABC_Game_Engine + GH_rmux
+Info: 【混合神獸】融合最強[HYBRID_OMEGA_6567]與異源[CR_ABC_Game_Engine]

@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G799_403
+Category: 全端通用開源專案
+Generation: 799
+Score: 20567
+Info: 【同種純化】基於前代[PURE_全端_G798_175]進化

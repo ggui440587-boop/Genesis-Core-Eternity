@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G1062_612
+Category: 全端通用開源專案
+Generation: 1062
+Score: 26980
+Info: 【同種純化】基於前代[PURE_全端_G1061_361]進化

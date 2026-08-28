@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G2358_371
+Category: 全端通用開源專案
+Generation: 2358
+Score: 59566
+Info: 【同種純化】基於前代[PURE_全端_G2357_246]進化

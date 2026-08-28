@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G2671_803
+Category: 全端通用開源專案
+Generation: 2671
+Score: 67641
+Info: 【同種純化】基於前代[PURE_全端_G2670_620]進化

@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G263_481
+Category: 全端通用開源專案
+Generation: 263
+Score: 6911
+Info: 【同種純化】基於前代[PURE_全端_G262_406]進化

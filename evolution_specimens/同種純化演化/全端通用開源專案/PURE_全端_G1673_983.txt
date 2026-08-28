@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G1673_983
+Category: 全端通用開源專案
+Generation: 1673
+Score: 42217
+Info: 【同種純化】基於前代[PURE_全端_G1672_874]進化

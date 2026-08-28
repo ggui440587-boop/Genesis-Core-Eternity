@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G1369_542
+Category: 全端通用開源專案
+Generation: 1369
+Score: 34389
+Info: 【同種純化】基於前代[PURE_全端_G1368_356]進化

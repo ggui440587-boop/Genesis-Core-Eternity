@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G749_887
+Category: 全端通用開源專案
+Generation: 749
+Score: 19284
+Info: 【同種純化】基於前代[PURE_全端_G748_429]進化

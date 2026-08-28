@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G644_559
+Category: AI模型與機器學習
+Generation: 644
+Score: 15972
+Info: 【同種純化】基於前代[PURE_AI_G643_936]進化

@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G1427_105
+Category: 全端通用開源專案
+Generation: 1427
+Score: 35927
+Info: 【同種純化】基於前代[PURE_全端_G1426_103]進化

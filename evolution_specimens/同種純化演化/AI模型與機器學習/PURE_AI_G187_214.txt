@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G187_214
+Category: AI模型與機器學習
+Generation: 187
+Score: 4628
+Info: 【同種純化】基於前代[PURE_AI_G186_997]進化

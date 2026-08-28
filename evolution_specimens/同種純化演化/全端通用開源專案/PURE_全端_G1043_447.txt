@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G1043_447
+Category: 全端通用開源專案
+Generation: 1043
+Score: 26539
+Info: 【同種純化】基於前代[PURE_全端_G1042_191]進化

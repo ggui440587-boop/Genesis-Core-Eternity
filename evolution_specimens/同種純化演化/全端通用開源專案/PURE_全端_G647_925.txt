@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G647_925
+Category: 全端通用開源專案
+Generation: 647
+Score: 16603
+Info: 【同種純化】基於前代[PURE_全端_G646_127]進化

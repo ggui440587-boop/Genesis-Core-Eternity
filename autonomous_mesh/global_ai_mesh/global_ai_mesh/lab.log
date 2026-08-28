@@ -1,0 +1,60 @@
+ * Serving Flask app 'app_dual_lab'
+ * Debug mode: off
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8082
+ * Running on http://192.168.1.101:8082
+[33mPress CTRL+C to quit[0m
+127.0.0.1 - - [28/Aug/2026 09:04:04] "GET /?v=5 HTTP/1.1" 200 -
+127.0.0.1 - - [28/Aug/2026 09:04:04] "GET /api/status HTTP/1.1" 200 -
+127.0.0.1 - - [28/Aug/2026 09:04:05] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+127.0.0.1 - - [28/Aug/2026 09:04:06] "GET /api/status HTTP/1.1" 200 -
+127.0.0.1 - - [28/Aug/2026 09:04:07] "GET /?v=5 HTTP/1.1" 200 -
+127.0.0.1 - - [28/Aug/2026 09:04:07] "GET /api/status HTTP/1.1" 200 -
+127.0.0.1 - - [28/Aug/2026 09:04:10] "GET /api/status HTTP/1.1" 200 -
+127.0.0.1 - - [28/Aug/2026 09:04:11] "GET /api/status HTTP/1.1" 200 -
+127.0.0.1 - - [28/Aug/2026 09:04:13] "GET /api/status HTTP/1.1" 200 -
+127.0.0.1 - - [28/Aug/2026 09:04:15] "GET /api/status HTTP/1.1" 200 -
+127.0.0.1 - - [28/Aug/2026 09:04:18] "GET /api/status HTTP/1.1" 200 -
+127.0.0.1 - - [28/Aug/2026 09:04:20] "GET /api/status HTTP/1.1" 200 -
+127.0.0.1 - - [28/Aug/2026 09:04:22] "GET /api/status HTTP/1.1" 200 -
+127.0.0.1 - - [28/Aug/2026 09:04:24] "GET /api/status HTTP/1.1" 200 -
+127.0.0.1 - - [28/Aug/2026 09:04:26] "GET /api/status HTTP/1.1" 200 -
+127.0.0.1 - - [28/Aug/2026 09:04:28] "GET /api/status HTTP/1.1" 200 -
+127.0.0.1 - - [28/Aug/2026 09:04:30] "GET /api/status HTTP/1.1" 200 -
+127.0.0.1 - - [28/Aug/2026 09:04:32] "GET /api/status HTTP/1.1" 200 -
+127.0.0.1 - - [28/Aug/2026 09:04:34] "GET /api/status HTTP/1.1" 200 -
+127.0.0.1 - - [28/Aug/2026 09:04:36] "GET /api/status HTTP/1.1" 200 -
+127.0.0.1 - - [28/Aug/2026 09:04:38] "GET /api/status HTTP/1.1" 200 -
+127.0.0.1 - - [28/Aug/2026 09:04:40] "GET /api/status HTTP/1.1" 200 -
+127.0.0.1 - - [28/Aug/2026 09:04:42] "GET /api/status HTTP/1.1" 200 -
+127.0.0.1 - - [28/Aug/2026 09:04:44] "GET /api/status HTTP/1.1" 200 -
+127.0.0.1 - - [28/Aug/2026 09:04:46] "GET /api/status HTTP/1.1" 200 -
+127.0.0.1 - - [28/Aug/2026 09:04:48] "GET /api/status HTTP/1.1" 200 -
+127.0.0.1 - - [28/Aug/2026 09:04:50] "GET /api/status HTTP/1.1" 200 -
+127.0.0.1 - - [28/Aug/2026 09:04:52] "GET /api/status HTTP/1.1" 200 -
+127.0.0.1 - - [28/Aug/2026 09:04:54] "GET /api/status HTTP/1.1" 200 -
+127.0.0.1 - - [28/Aug/2026 09:04:56] "GET /api/status HTTP/1.1" 200 -
+127.0.0.1 - - [28/Aug/2026 09:04:58] "GET /api/status HTTP/1.1" 200 -
+127.0.0.1 - - [28/Aug/2026 09:05:00] "GET /api/status HTTP/1.1" 200 -
+127.0.0.1 - - [28/Aug/2026 09:05:02] "GET /api/status HTTP/1.1" 200 -
+127.0.0.1 - - [28/Aug/2026 09:05:04] "GET /api/status HTTP/1.1" 200 -
+127.0.0.1 - - [28/Aug/2026 09:05:06] "GET /api/status HTTP/1.1" 200 -
+127.0.0.1 - - [28/Aug/2026 09:05:08] "GET /api/status HTTP/1.1" 200 -
+127.0.0.1 - - [28/Aug/2026 09:05:10] "GET /api/status HTTP/1.1" 200 -
+127.0.0.1 - - [28/Aug/2026 09:05:12] "GET /api/status HTTP/1.1" 200 -
+127.0.0.1 - - [28/Aug/2026 09:05:14] "GET /api/status HTTP/1.1" 200 -
+127.0.0.1 - - [28/Aug/2026 09:05:16] "GET /api/status HTTP/1.1" 200 -
+127.0.0.1 - - [28/Aug/2026 09:05:40] "GET /api/status HTTP/1.1" 200 -
+127.0.0.1 - - [28/Aug/2026 09:05:41] "GET /api/status HTTP/1.1" 200 -
+127.0.0.1 - - [28/Aug/2026 09:05:42] "GET /?v=5 HTTP/1.1" 200 -
+127.0.0.1 - - [28/Aug/2026 09:05:42] "GET /api/status HTTP/1.1" 200 -
+127.0.0.1 - - [28/Aug/2026 09:05:44] "GET /api/status HTTP/1.1" 200 -
+127.0.0.1 - - [28/Aug/2026 09:05:47] "GET /api/status HTTP/1.1" 200 -
+127.0.0.1 - - [28/Aug/2026 09:05:49] "GET /api/status HTTP/1.1" 200 -
+127.0.0.1 - - [28/Aug/2026 09:05:51] "GET /api/status HTTP/1.1" 200 -
+127.0.0.1 - - [28/Aug/2026 09:05:53] "GET /api/status HTTP/1.1" 200 -
+127.0.0.1 - - [28/Aug/2026 09:05:55] "GET /api/status HTTP/1.1" 200 -
+127.0.0.1 - - [28/Aug/2026 09:05:57] "GET /api/status HTTP/1.1" 200 -
+127.0.0.1 - - [28/Aug/2026 09:05:58] "GET /api/status HTTP/1.1" 200 -
+127.0.0.1 - - [28/Aug/2026 09:06:01] "GET /api/status HTTP/1.1" 200 -

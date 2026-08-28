@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G1321_810
+Category: 全端通用開源專案
+Generation: 1321
+Score: 33316
+Info: 【同種純化】基於前代[PURE_全端_G1320_970]進化

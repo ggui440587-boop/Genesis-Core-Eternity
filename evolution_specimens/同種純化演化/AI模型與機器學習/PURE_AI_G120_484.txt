@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G120_484
+Category: AI模型與機器學習
+Generation: 120
+Score: 3000
+Info: 【同種純化】基於前代[PURE_AI_G119_548]進化

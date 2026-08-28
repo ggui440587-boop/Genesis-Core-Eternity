@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G553_325
+Category: 全端通用開源專案
+Generation: 553
+Score: 14160
+Info: 【同種純化】基於前代[PURE_全端_G552_236]進化

@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G2610_741
+Category: 全端通用開源專案
+Generation: 2610
+Score: 66042
+Info: 【同種純化】基於前代[PURE_全端_G2609_904]進化

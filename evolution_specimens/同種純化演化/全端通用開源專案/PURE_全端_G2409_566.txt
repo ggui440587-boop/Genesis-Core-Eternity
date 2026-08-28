@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G2409_566
+Category: 全端通用開源專案
+Generation: 2409
+Score: 60940
+Info: 【同種純化】基於前代[PURE_全端_G2408_878]進化

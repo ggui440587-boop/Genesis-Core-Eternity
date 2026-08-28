@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G108_211
+Category: AI模型與機器學習
+Generation: 108
+Score: 2724
+Info: 【同種純化】基於前代[PURE_AI_G107_342]進化

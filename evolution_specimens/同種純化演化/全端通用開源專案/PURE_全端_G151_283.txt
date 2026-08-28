@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G151_283
+Category: 全端通用開源專案
+Generation: 151
+Score: 4001
+Info: 【同種純化】基於前代[PURE_全端_G150_567]進化

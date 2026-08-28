@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G256_708
+Category: 全端通用開源專案
+Generation: 256
+Score: 6728
+Info: 【同種純化】基於前代[PURE_全端_G255_569]進化

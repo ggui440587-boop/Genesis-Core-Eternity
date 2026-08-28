@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G1534_700
+Category: AI模型與機器學習
+Generation: 1534
+Score: 38102
+Info: 【同種純化】基於前代[PURE_AI_G1533_783]進化

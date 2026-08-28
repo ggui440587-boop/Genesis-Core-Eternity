@@ -1,0 +1,5 @@
+🚀 【Genesis全球情報速遞】
+📂 分類：雲原生與DevOps
+🏷️ 標籤：#Docker #Cloud #DevOps
+🆔 識別：GL_nodejs-app
+🔗 內容：GitLab Public: https://gitlab.com/techworld-with-nana2623304/15-ansible/nodejs-app

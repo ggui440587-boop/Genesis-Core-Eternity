@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G965_624
+Category: 高效能系統與Rust
+Generation: 965
+Score: 24360
+Info: 【同種純化】基於前代[PURE_高效_G964_815]進化

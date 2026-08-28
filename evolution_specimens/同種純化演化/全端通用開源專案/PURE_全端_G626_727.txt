@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G626_727
+Category: 全端通用開源專案
+Generation: 626
+Score: 16091
+Info: 【同種純化】基於前代[PURE_全端_G625_170]進化

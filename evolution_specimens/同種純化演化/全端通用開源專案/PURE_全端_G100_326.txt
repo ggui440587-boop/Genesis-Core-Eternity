@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G100_326
+Category: 全端通用開源專案
+Generation: 100
+Score: 2674
+Info: 【同種純化】基於前代[PURE_全端_G99_840]進化

@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G2274_822
+Category: AI模型與機器學習
+Generation: 2274
+Score: 56385
+Info: 【同種純化】基於前代[PURE_AI_G2273_928]進化

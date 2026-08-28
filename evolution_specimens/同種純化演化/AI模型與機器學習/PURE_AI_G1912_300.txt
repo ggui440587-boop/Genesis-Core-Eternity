@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G1912_300
+Category: AI模型與機器學習
+Generation: 1912
+Score: 47405
+Info: 【同種純化】基於前代[PURE_AI_G1911_205]進化

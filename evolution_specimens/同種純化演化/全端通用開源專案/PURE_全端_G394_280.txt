@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G394_280
+Category: 全端通用開源專案
+Generation: 394
+Score: 10249
+Info: 【同種純化】基於前代[PURE_全端_G393_282]進化

@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G754_272
+Category: AI模型與機器學習
+Generation: 754
+Score: 18680
+Info: 【同種純化】基於前代[PURE_AI_G753_988]進化

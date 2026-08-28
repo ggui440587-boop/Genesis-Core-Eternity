@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G2484_759
+Category: 全端通用開源專案
+Generation: 2484
+Score: 62862
+Info: 【同種純化】基於前代[PURE_全端_G2483_206]進化

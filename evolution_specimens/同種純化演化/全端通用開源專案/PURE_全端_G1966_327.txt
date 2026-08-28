@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G1966_327
+Category: 全端通用開源專案
+Generation: 1966
+Score: 49561
+Info: 【同種純化】基於前代[PURE_全端_G1965_266]進化

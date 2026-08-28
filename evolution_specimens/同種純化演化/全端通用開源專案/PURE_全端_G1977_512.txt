@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G1977_512
+Category: 全端通用開源專案
+Generation: 1977
+Score: 49830
+Info: 【同種純化】基於前代[PURE_全端_G1976_703]進化

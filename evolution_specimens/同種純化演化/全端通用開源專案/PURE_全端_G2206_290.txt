@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G2206_290
+Category: 全端通用開源專案
+Generation: 2206
+Score: 55602
+Info: 【同種純化】基於前代[PURE_全端_G2205_663]進化

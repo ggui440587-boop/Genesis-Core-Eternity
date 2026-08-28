@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G945_357
+Category: 全端通用開源專案
+Generation: 945
+Score: 24152
+Info: 【同種純化】基於前代[PURE_全端_G944_491]進化

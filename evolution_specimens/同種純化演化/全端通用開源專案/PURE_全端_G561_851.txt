@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G561_851
+Category: 全端通用開源專案
+Generation: 561
+Score: 14352
+Info: 【同種純化】基於前代[PURE_全端_G560_164]進化

@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G680_175
+Category: 全端通用開源專案
+Generation: 680
+Score: 17429
+Info: 【同種純化】基於前代[PURE_全端_G679_256]進化

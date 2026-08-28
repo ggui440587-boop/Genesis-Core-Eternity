@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G745_810
+Category: 全端通用開源專案
+Generation: 745
+Score: 19190
+Info: 【同種純化】基於前代[PURE_全端_G744_898]進化

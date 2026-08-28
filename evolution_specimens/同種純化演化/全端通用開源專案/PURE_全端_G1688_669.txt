@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G1688_669
+Category: 全端通用開源專案
+Generation: 1688
+Score: 42601
+Info: 【同種純化】基於前代[PURE_全端_G1687_622]進化

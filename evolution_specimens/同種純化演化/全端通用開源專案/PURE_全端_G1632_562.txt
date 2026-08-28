@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G1632_562
+Category: 全端通用開源專案
+Generation: 1632
+Score: 41221
+Info: 【同種純化】基於前代[PURE_全端_G1631_528]進化

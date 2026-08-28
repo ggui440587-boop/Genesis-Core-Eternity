@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G1972_899
+Category: AI模型與機器學習
+Generation: 1972
+Score: 48851
+Info: 【同種純化】基於前代[PURE_AI_G1971_127]進化

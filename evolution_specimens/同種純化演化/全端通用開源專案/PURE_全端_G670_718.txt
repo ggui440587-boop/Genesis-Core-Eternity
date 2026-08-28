@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G670_718
+Category: 全端通用開源專案
+Generation: 670
+Score: 17150
+Info: 【同種純化】基於前代[PURE_全端_G669_489]進化

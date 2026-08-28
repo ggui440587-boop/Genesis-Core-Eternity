@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G2105_675
+Category: 全端通用開源專案
+Generation: 2105
+Score: 53060
+Info: 【同種純化】基於前代[PURE_全端_G2104_987]進化

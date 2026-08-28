@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G767_297
+Category: 全端通用開源專案
+Generation: 767
+Score: 19751
+Info: 【同種純化】基於前代[PURE_全端_G766_597]進化

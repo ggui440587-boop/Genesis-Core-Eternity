@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G1840_736
+Category: 全端通用開源專案
+Generation: 1840
+Score: 46323
+Info: 【同種純化】基於前代[PURE_全端_G1839_697]進化

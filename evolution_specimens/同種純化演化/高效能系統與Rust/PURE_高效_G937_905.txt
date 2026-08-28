@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G937_905
+Category: 高效能系統與Rust
+Generation: 937
+Score: 23698
+Info: 【同種純化】基於前代[PURE_高效_G936_127]進化

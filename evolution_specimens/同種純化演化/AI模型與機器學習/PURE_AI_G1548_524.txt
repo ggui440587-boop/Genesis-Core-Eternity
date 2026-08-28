@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G1548_524
+Category: AI模型與機器學習
+Generation: 1548
+Score: 38456
+Info: 【同種純化】基於前代[PURE_AI_G1547_509]進化

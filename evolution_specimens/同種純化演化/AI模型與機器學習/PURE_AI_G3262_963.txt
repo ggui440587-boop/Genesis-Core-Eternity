@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G3262_963
+Category: AI模型與機器學習
+Generation: 3262
+Score: 81260
+Info: 【同種純化】基於前代[PURE_AI_G3261_790]進化

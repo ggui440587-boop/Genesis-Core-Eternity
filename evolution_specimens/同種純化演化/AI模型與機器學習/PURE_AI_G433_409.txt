@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G433_409
+Category: AI模型與機器學習
+Generation: 433
+Score: 10794
+Info: 【同種純化】基於前代[PURE_AI_G432_413]進化

@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G2027_353
+Category: AI模型與機器學習
+Generation: 2027
+Score: 50279
+Info: 【同種純化】基於前代[PURE_AI_G2026_880]進化

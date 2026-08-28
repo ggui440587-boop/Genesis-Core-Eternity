@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G131_322
+Category: AI模型與機器學習
+Generation: 131
+Score: 3277
+Info: 【同種純化】基於前代[PURE_AI_G130_292]進化

@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G57_381
+Category: 高效能系統與Rust
+Generation: 57
+Score: 1576
+Info: 【同種純化】基於前代[PURE_高效_G56_723]進化

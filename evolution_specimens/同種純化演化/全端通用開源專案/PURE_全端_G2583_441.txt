@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G2583_441
+Category: 全端通用開源專案
+Generation: 2583
+Score: 65359
+Info: 【同種純化】基於前代[PURE_全端_G2582_843]進化

@@ -1,0 +1,4 @@
+Hybrid Specimen: HYBRID_OMEGA_4531
+Score: 11948
+Parents: SEED_671 + HF_OBLITERATUS_Qwen3.8-27B-OBLITERATED
+Info: 【混合神獸】融合最強[HYBRID_OMEGA_3465]與異源[SEED_671]

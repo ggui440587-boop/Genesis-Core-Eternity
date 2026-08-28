@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G923_345
+Category: AI模型與機器學習
+Generation: 923
+Score: 23020
+Info: 【同種純化】基於前代[PURE_AI_G922_636]進化

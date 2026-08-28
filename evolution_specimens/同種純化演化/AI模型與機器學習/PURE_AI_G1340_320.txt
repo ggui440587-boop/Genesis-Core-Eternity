@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G1340_320
+Category: AI模型與機器學習
+Generation: 1340
+Score: 33260
+Info: 【同種純化】基於前代[PURE_AI_G1339_123]進化

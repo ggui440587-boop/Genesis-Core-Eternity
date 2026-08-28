@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G2532_188
+Category: 高效能系統與Rust
+Generation: 2532
+Score: 63292
+Info: 【同種純化】基於前代[PURE_高效_G2531_693]進化

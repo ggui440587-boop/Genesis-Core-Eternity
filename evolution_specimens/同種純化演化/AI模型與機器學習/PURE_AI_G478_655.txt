@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G478_655
+Category: AI模型與機器學習
+Generation: 478
+Score: 11926
+Info: 【同種純化】基於前代[PURE_AI_G477_449]進化

@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G1509_155
+Category: 全端通用開源專案
+Generation: 1509
+Score: 38054
+Info: 【同種純化】基於前代[PURE_全端_G1508_963]進化

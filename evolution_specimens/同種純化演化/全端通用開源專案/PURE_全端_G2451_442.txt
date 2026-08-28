@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G2451_442
+Category: 全端通用開源專案
+Generation: 2451
+Score: 62011
+Info: 【同種純化】基於前代[PURE_全端_G2450_174]進化

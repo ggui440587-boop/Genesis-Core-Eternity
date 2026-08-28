@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G760_458
+Category: AI模型與機器學習
+Generation: 760
+Score: 18814
+Info: 【同種純化】基於前代[PURE_AI_G759_792]進化

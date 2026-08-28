@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G614_583
+Category: AI模型與機器學習
+Generation: 614
+Score: 15229
+Info: 【同種純化】基於前代[PURE_AI_G613_294]進化

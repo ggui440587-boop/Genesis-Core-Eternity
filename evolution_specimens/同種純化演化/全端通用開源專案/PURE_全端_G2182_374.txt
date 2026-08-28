@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G2182_374
+Category: 全端通用開源專案
+Generation: 2182
+Score: 55059
+Info: 【同種純化】基於前代[PURE_全端_G2181_625]進化

@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G2067_954
+Category: 高效能系統與Rust
+Generation: 2067
+Score: 51852
+Info: 【同種純化】基於前代[PURE_高效_G2066_731]進化

@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G2277_409
+Category: 全端通用開源專案
+Generation: 2277
+Score: 57497
+Info: 【同種純化】基於前代[PURE_全端_G2276_801]進化

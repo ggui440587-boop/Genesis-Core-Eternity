@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G3201_440
+Category: AI模型與機器學習
+Generation: 3201
+Score: 79728
+Info: 【同種純化】基於前代[PURE_AI_G3200_774]進化

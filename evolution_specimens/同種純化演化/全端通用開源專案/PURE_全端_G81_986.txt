@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G81_986
+Category: 全端通用開源專案
+Generation: 81
+Score: 2148
+Info: 【同種純化】基於前代[PURE_全端_G80_972]進化

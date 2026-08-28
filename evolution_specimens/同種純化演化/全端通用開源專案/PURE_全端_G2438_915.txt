@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G2438_915
+Category: 全端通用開源專案
+Generation: 2438
+Score: 61712
+Info: 【同種純化】基於前代[PURE_全端_G2437_473]進化

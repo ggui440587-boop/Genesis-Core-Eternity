@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G789_900
+Category: 全端通用開源專案
+Generation: 789
+Score: 20317
+Info: 【同種純化】基於前代[PURE_全端_G788_903]進化

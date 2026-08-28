@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G219_868
+Category: AI模型與機器學習
+Generation: 219
+Score: 5469
+Info: 【同種純化】基於前代[PURE_AI_G218_595]進化

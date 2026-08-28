@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G846_703
+Category: AI模型與機器學習
+Generation: 846
+Score: 21103
+Info: 【同種純化】基於前代[PURE_AI_G845_368]進化

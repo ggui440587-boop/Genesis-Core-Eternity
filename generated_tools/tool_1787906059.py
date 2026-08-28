@@ -1,0 +1,1 @@
+print('import os, sys; print(os.uname())')

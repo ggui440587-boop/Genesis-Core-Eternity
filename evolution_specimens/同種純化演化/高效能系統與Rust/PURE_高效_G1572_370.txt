@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G1572_370
+Category: 高效能系統與Rust
+Generation: 1572
+Score: 39424
+Info: 【同種純化】基於前代[PURE_高效_G1571_315]進化

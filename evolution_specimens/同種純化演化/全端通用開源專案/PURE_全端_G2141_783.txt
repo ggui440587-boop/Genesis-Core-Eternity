@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G2141_783
+Category: 全端通用開源專案
+Generation: 2141
+Score: 53988
+Info: 【同種純化】基於前代[PURE_全端_G2140_847]進化

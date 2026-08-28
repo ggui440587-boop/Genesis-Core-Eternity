@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G1998_530
+Category: 高效能系統與Rust
+Generation: 1998
+Score: 50136
+Info: 【同種純化】基於前代[PURE_高效_G1997_943]進化

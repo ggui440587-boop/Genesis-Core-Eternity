@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G2531_769
+Category: 全端通用開源專案
+Generation: 2531
+Score: 64048
+Info: 【同種純化】基於前代[PURE_全端_G2530_771]進化

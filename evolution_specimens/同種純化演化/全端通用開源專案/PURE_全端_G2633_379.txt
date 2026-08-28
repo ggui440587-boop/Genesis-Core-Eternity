@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G2633_379
+Category: 全端通用開源專案
+Generation: 2633
+Score: 66613
+Info: 【同種純化】基於前代[PURE_全端_G2632_284]進化

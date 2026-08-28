@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G161_909
+Category: 全端通用開源專案
+Generation: 161
+Score: 4268
+Info: 【同種純化】基於前代[PURE_全端_G160_596]進化

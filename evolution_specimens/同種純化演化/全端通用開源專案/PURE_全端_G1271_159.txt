@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G1271_159
+Category: 全端通用開源專案
+Generation: 1271
+Score: 32121
+Info: 【同種純化】基於前代[PURE_全端_G1270_817]進化

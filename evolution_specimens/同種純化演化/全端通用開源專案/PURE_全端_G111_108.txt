@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G111_108
+Category: 全端通用開源專案
+Generation: 111
+Score: 2934
+Info: 【同種純化】基於前代[PURE_全端_G110_989]進化

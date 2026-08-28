@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G285_841
+Category: 高效能系統與Rust
+Generation: 285
+Score: 7321
+Info: 【同種純化】基於前代[PURE_高效_G284_402]進化

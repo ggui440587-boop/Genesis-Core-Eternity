@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G949_416
+Category: 全端通用開源專案
+Generation: 949
+Score: 24251
+Info: 【同種純化】基於前代[PURE_全端_G948_271]進化

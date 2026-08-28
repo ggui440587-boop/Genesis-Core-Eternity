@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G1701_746
+Category: AI模型與機器學習
+Generation: 1701
+Score: 42211
+Info: 【同種純化】基於前代[PURE_AI_G1700_650]進化

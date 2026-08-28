@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G2572_646
+Category: 高效能系統與Rust
+Generation: 2572
+Score: 64273
+Info: 【同種純化】基於前代[PURE_高效_G2571_367]進化

@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G440_292
+Category: 高效能系統與Rust
+Generation: 440
+Score: 11177
+Info: 【同種純化】基於前代[PURE_高效_G439_530]進化

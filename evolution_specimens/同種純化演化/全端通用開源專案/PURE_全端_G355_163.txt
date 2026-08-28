@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G355_163
+Category: 全端通用開源專案
+Generation: 355
+Score: 9290
+Info: 【同種純化】基於前代[PURE_全端_G354_686]進化

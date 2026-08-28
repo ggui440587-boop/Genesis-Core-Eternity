@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G2014_640
+Category: 高效能系統與Rust
+Generation: 2014
+Score: 50505
+Info: 【同種純化】基於前代[PURE_高效_G2013_394]進化

@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G824_198
+Category: 全端通用開源專案
+Generation: 824
+Score: 21193
+Info: 【同種純化】基於前代[PURE_全端_G823_397]進化

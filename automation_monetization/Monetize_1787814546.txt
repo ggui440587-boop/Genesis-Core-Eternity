@@ -1,0 +1,4 @@
+🔥 【全網最新爆款技術速遞】
+專案識別: NPM_@vercel_detect-agent
+來源位址: NPM: git+https://github.com/vercel/vercel.git
+自動化分析：本專案具備高度市場潛力與變現應用價值。

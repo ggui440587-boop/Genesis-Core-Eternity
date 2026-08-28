@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G3106_168
+Category: 高效能系統與Rust
+Generation: 3106
+Score: 77966
+Info: 【同種純化】基於前代[PURE_高效_G3105_820]進化

@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G1994_281
+Category: 高效能系統與Rust
+Generation: 1994
+Score: 50035
+Info: 【同種純化】基於前代[PURE_高效_G1993_718]進化

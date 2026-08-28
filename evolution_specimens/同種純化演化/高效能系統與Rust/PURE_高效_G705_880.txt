@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G705_880
+Category: 高效能系統與Rust
+Generation: 705
+Score: 17865
+Info: 【同種純化】基於前代[PURE_高效_G704_260]進化

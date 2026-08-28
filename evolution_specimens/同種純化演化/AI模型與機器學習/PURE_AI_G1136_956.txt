@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G1136_956
+Category: AI模型與機器學習
+Generation: 1136
+Score: 28184
+Info: 【同種純化】基於前代[PURE_AI_G1135_189]進化

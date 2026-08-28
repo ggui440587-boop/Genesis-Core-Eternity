@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G2112_932
+Category: 高效能系統與Rust
+Generation: 2112
+Score: 53045
+Info: 【同種純化】基於前代[PURE_高效_G2111_694]進化

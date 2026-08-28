@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G2419_453
+Category: AI模型與機器學習
+Generation: 2419
+Score: 60024
+Info: 【同種純化】基於前代[PURE_AI_G2418_728]進化

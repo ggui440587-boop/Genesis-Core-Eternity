@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G114_983
+Category: 全端通用開源專案
+Generation: 114
+Score: 3001
+Info: 【同種純化】基於前代[PURE_全端_G113_648]進化

@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G2209_634
+Category: AI模型與機器學習
+Generation: 2209
+Score: 54601
+Info: 【同種純化】基於前代[PURE_AI_G2208_772]進化

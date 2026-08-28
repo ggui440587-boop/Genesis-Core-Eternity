@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G210_936
+Category: AI模型與機器學習
+Generation: 210
+Score: 5220
+Info: 【同種純化】基於前代[PURE_AI_G209_576]進化

@@ -1,0 +1,4 @@
+Hybrid Specimen: HYBRID_OMEGA_5434
+Score: 169444
+Parents: CR_ABC_lumenpyx + HF_Qwen_Qwen3.8-Flash-Next
+Info: 【混合神獸】融合最強[HYBRID_OMEGA_8041]與異源[CR_ABC_lumenpyx]

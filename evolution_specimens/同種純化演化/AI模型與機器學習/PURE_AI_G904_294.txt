@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G904_294
+Category: AI模型與機器學習
+Generation: 904
+Score: 22520
+Info: 【同種純化】基於前代[PURE_AI_G903_981]進化

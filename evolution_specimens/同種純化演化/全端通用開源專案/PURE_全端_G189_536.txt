@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G189_536
+Category: 全端通用開源專案
+Generation: 189
+Score: 5036
+Info: 【同種純化】基於前代[PURE_全端_G188_177]進化

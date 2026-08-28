@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G737_622
+Category: 全端通用開源專案
+Generation: 737
+Score: 19028
+Info: 【同種純化】基於前代[PURE_全端_G736_346]進化

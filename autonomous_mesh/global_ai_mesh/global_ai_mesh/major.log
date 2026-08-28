@@ -1,0 +1,5 @@
+nohup: ignoring input
+  File "/data/data/com.termux/files/home/autonomous_mesh/global_ai_mesh/global_ai_mesh/app_major_category.py", line 40
+    content = f"{cat} {title} [{random.randint(1000,9999)]}"
+                                                         ^
+SyntaxError: f-string: unmatched ']'

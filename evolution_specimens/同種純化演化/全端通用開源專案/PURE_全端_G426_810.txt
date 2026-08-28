@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G426_810
+Category: 全端通用開源專案
+Generation: 426
+Score: 10988
+Info: 【同種純化】基於前代[PURE_全端_G425_677]進化

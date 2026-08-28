@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G108_333
+Category: 高效能系統與Rust
+Generation: 108
+Score: 2792
+Info: 【同種純化】基於前代[PURE_高效_G107_649]進化

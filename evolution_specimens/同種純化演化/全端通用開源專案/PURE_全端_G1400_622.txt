@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G1400_622
+Category: 全端通用開源專案
+Generation: 1400
+Score: 35239
+Info: 【同種純化】基於前代[PURE_全端_G1399_135]進化

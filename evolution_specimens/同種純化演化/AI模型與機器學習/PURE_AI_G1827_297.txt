@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G1827_297
+Category: AI模型與機器學習
+Generation: 1827
+Score: 45351
+Info: 【同種純化】基於前代[PURE_AI_G1826_773]進化

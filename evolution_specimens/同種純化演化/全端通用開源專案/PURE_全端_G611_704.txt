@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G611_704
+Category: 全端通用開源專案
+Generation: 611
+Score: 15669
+Info: 【同種純化】基於前代[PURE_全端_G610_133]進化

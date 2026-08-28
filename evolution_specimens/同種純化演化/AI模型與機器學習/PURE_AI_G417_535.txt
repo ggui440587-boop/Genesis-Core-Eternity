@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G417_535
+Category: AI模型與機器學習
+Generation: 417
+Score: 10413
+Info: 【同種純化】基於前代[PURE_AI_G416_575]進化

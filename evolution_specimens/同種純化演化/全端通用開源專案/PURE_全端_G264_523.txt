@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G264_523
+Category: 全端通用開源專案
+Generation: 264
+Score: 6921
+Info: 【同種純化】基於前代[PURE_全端_G263_481]進化

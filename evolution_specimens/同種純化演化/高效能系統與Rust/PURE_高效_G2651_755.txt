@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G2651_755
+Category: 高效能系統與Rust
+Generation: 2651
+Score: 66199
+Info: 【同種純化】基於前代[PURE_高效_G2650_180]進化

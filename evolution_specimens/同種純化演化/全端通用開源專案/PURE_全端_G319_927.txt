@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G319_927
+Category: 全端通用開源專案
+Generation: 319
+Score: 8335
+Info: 【同種純化】基於前代[PURE_全端_G318_802]進化

@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G3246_189
+Category: AI模型與機器學習
+Generation: 3246
+Score: 80894
+Info: 【同種純化】基於前代[PURE_AI_G3245_314]進化

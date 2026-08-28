@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G290_247
+Category: AI模型與機器學習
+Generation: 290
+Score: 7205
+Info: 【同種純化】基於前代[PURE_AI_G289_392]進化

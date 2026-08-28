@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G56_354
+Category: 全端通用開源專案
+Generation: 56
+Score: 1480
+Info: 【同種純化】基於前代[PURE_全端_G55_163]進化

@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G3269_974
+Category: AI模型與機器學習
+Generation: 3269
+Score: 81444
+Info: 【同種純化】基於前代[PURE_AI_G3268_811]進化

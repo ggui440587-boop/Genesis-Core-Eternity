@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G2118_504
+Category: 全端通用開源專案
+Generation: 2118
+Score: 53345
+Info: 【同種純化】基於前代[PURE_全端_G2117_414]進化

@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G2414_359
+Category: AI模型與機器學習
+Generation: 2414
+Score: 59917
+Info: 【同種純化】基於前代[PURE_AI_G2413_601]進化

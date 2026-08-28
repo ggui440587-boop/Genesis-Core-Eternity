@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G328_145
+Category: 高效能系統與Rust
+Generation: 328
+Score: 8382
+Info: 【同種純化】基於前代[PURE_高效_G327_499]進化

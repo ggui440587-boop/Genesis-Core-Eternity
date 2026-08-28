@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G1076_728
+Category: 高效能系統與Rust
+Generation: 1076
+Score: 27028
+Info: 【同種純化】基於前代[PURE_高效_G1075_841]進化

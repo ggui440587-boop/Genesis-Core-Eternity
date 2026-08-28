@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G2721_160
+Category: 高效能系統與Rust
+Generation: 2721
+Score: 67993
+Info: 【同種純化】基於前代[PURE_高效_G2720_580]進化

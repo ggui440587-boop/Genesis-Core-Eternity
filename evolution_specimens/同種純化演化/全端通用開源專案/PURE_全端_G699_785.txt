@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G699_785
+Category: 全端通用開源專案
+Generation: 699
+Score: 17960
+Info: 【同種純化】基於前代[PURE_全端_G698_409]進化

@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G898_161
+Category: AI模型與機器學習
+Generation: 898
+Score: 22368
+Info: 【同種純化】基於前代[PURE_AI_G897_245]進化

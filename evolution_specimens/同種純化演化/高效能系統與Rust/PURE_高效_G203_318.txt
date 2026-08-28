@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G203_318
+Category: 高效能系統與Rust
+Generation: 203
+Score: 5245
+Info: 【同種純化】基於前代[PURE_高效_G202_438]進化

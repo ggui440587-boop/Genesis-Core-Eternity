@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G2042_658
+Category: 全端通用開源專案
+Generation: 2042
+Score: 51491
+Info: 【同種純化】基於前代[PURE_全端_G2041_613]進化

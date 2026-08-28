@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G1395_483
+Category: 全端通用開源專案
+Generation: 1395
+Score: 35070
+Info: 【同種純化】基於前代[PURE_全端_G1394_388]進化

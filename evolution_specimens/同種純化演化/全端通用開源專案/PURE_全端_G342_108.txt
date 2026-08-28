@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G342_108
+Category: 全端通用開源專案
+Generation: 342
+Score: 8927
+Info: 【同種純化】基於前代[PURE_全端_G341_880]進化

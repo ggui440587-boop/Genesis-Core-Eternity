@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G2981_650
+Category: 高效能系統與Rust
+Generation: 2981
+Score: 74702
+Info: 【同種純化】基於前代[PURE_高效_G2980_170]進化

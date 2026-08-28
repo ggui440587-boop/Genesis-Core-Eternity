@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G2023_446
+Category: AI模型與機器學習
+Generation: 2023
+Score: 50155
+Info: 【同種純化】基於前代[PURE_AI_G2022_207]進化

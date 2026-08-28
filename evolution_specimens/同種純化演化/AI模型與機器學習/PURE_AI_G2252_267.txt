@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G2252_267
+Category: AI模型與機器學習
+Generation: 2252
+Score: 55781
+Info: 【同種純化】基於前代[PURE_AI_G2251_272]進化

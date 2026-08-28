@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G2432_823
+Category: 全端通用開源專案
+Generation: 2432
+Score: 61550
+Info: 【同種純化】基於前代[PURE_全端_G2431_414]進化

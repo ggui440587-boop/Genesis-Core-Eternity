@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G828_337
+Category: AI模型與機器學習
+Generation: 828
+Score: 20624
+Info: 【同種純化】基於前代[PURE_AI_G827_699]進化

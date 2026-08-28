@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G453_796
+Category: AI模型與機器學習
+Generation: 453
+Score: 11263
+Info: 【同種純化】基於前代[PURE_AI_G452_681]進化

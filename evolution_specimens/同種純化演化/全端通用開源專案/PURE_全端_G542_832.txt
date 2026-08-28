@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G542_832
+Category: 全端通用開源專案
+Generation: 542
+Score: 13870
+Info: 【同種純化】基於前代[PURE_全端_G541_408]進化

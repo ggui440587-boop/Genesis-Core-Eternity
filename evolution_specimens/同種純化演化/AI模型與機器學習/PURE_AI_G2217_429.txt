@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G2217_429
+Category: AI模型與機器學習
+Generation: 2217
+Score: 54774
+Info: 【同種純化】基於前代[PURE_AI_G2216_630]進化

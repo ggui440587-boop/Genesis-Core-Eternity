@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G495_275
+Category: 全端通用開源專案
+Generation: 495
+Score: 12741
+Info: 【同種純化】基於前代[PURE_全端_G494_167]進化

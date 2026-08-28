@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G1011_181
+Category: AI模型與機器學習
+Generation: 1011
+Score: 25124
+Info: 【同種純化】基於前代[PURE_AI_G1010_325]進化

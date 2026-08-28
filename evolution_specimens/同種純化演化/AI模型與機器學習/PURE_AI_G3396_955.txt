@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G3396_955
+Category: AI模型與機器學習
+Generation: 3396
+Score: 84464
+Info: 【同種純化】基於前代[PURE_AI_G3395_785]進化

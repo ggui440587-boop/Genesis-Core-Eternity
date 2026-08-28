@@ -1,0 +1,4 @@
+Hybrid Specimen: HYBRID_OMEGA_5942
+Score: 211896
+Parents: CR_ABC_lumenpyx + GH_rmux
+Info: 【混合神獸】融合最強[HYBRID_OMEGA_2787]與異源[CR_ABC_lumenpyx]

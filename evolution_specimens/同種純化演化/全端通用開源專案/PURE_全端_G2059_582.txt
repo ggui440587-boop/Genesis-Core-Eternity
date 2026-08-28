@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G2059_582
+Category: 全端通用開源專案
+Generation: 2059
+Score: 51893
+Info: 【同種純化】基於前代[PURE_全端_G2058_836]進化

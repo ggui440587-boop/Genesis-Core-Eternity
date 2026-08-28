@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G572_542
+Category: 全端通用開源專案
+Generation: 572
+Score: 14668
+Info: 【同種純化】基於前代[PURE_全端_G571_907]進化

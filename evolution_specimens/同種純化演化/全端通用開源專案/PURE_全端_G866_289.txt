@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G866_289
+Category: 全端通用開源專案
+Generation: 866
+Score: 22187
+Info: 【同種純化】基於前代[PURE_全端_G865_599]進化

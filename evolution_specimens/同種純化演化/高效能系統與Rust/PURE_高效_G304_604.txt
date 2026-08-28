@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G304_604
+Category: 高效能系統與Rust
+Generation: 304
+Score: 7829
+Info: 【同種純化】基於前代[PURE_高效_G303_848]進化

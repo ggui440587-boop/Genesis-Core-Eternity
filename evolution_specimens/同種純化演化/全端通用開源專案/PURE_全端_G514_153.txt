@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G514_153
+Category: 全端通用開源專案
+Generation: 514
+Score: 13224
+Info: 【同種純化】基於前代[PURE_全端_G513_317]進化

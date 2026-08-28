@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G2449_731
+Category: 全端通用開源專案
+Generation: 2449
+Score: 61950
+Info: 【同種純化】基於前代[PURE_全端_G2448_920]進化

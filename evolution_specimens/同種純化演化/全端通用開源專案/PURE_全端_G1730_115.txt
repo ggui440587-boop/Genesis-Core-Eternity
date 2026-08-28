@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G1730_115
+Category: 全端通用開源專案
+Generation: 1730
+Score: 43706
+Info: 【同種純化】基於前代[PURE_全端_G1729_599]進化

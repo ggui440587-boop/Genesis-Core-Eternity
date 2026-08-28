@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G492_422
+Category: AI模型與機器學習
+Generation: 492
+Score: 12293
+Info: 【同種純化】基於前代[PURE_AI_G491_800]進化

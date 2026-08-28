@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G625_170
+Category: 全端通用開源專案
+Generation: 625
+Score: 16059
+Info: 【同種純化】基於前代[PURE_全端_G624_139]進化

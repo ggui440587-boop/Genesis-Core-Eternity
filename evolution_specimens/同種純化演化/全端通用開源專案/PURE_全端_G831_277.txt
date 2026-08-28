@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G831_277
+Category: 全端通用開源專案
+Generation: 831
+Score: 21382
+Info: 【同種純化】基於前代[PURE_全端_G830_147]進化

@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G1913_888
+Category: 全端通用開源專案
+Generation: 1913
+Score: 48229
+Info: 【同種純化】基於前代[PURE_全端_G1912_766]進化

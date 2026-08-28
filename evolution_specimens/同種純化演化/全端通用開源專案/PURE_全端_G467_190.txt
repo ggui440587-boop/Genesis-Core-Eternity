@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G467_190
+Category: 全端通用開源專案
+Generation: 467
+Score: 12064
+Info: 【同種純化】基於前代[PURE_全端_G466_601]進化

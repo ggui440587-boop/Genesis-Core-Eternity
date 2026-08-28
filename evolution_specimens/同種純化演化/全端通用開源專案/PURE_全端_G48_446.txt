@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G48_446
+Category: 全端通用開源專案
+Generation: 48
+Score: 1299
+Info: 【同種純化】基於前代[PURE_全端_G47_618]進化

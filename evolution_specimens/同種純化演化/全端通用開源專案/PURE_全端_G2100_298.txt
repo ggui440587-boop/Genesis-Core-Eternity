@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G2100_298
+Category: 全端通用開源專案
+Generation: 2100
+Score: 52916
+Info: 【同種純化】基於前代[PURE_全端_G2099_649]進化

@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G521_162
+Category: 高效能系統與Rust
+Generation: 521
+Score: 13356
+Info: 【同種純化】基於前代[PURE_高效_G520_253]進化

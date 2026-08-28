@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G137_114
+Category: 全端通用開源專案
+Generation: 137
+Score: 3606
+Info: 【同種純化】基於前代[PURE_全端_G136_342]進化

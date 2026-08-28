@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G3285_102
+Category: AI模型與機器學習
+Generation: 3285
+Score: 81843
+Info: 【同種純化】基於前代[PURE_AI_G3284_920]進化

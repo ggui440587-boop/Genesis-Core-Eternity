@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G655_523
+Category: 全端通用開源專案
+Generation: 655
+Score: 16747
+Info: 【同種純化】基於前代[PURE_全端_G654_674]進化

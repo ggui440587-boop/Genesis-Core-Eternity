@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G1260_808
+Category: 高效能系統與Rust
+Generation: 1260
+Score: 31745
+Info: 【同種純化】基於前代[PURE_高效_G1259_263]進化

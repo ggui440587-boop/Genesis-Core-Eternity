@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G1044_931
+Category: 全端通用開源專案
+Generation: 1044
+Score: 26550
+Info: 【同種純化】基於前代[PURE_全端_G1043_447]進化

@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G73_519
+Category: 全端通用開源專案
+Generation: 73
+Score: 1954
+Info: 【同種純化】基於前代[PURE_全端_G72_501]進化

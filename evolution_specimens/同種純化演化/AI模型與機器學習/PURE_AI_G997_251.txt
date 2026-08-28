@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G997_251
+Category: AI模型與機器學習
+Generation: 997
+Score: 24834
+Info: 【同種純化】基於前代[PURE_AI_G996_371]進化

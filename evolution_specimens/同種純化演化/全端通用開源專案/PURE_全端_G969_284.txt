@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G969_284
+Category: 全端通用開源專案
+Generation: 969
+Score: 24737
+Info: 【同種純化】基於前代[PURE_全端_G968_347]進化

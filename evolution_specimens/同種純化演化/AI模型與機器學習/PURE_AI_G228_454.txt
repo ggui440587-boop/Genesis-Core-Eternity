@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G228_454
+Category: AI模型與機器學習
+Generation: 228
+Score: 5673
+Info: 【同種純化】基於前代[PURE_AI_G227_159]進化

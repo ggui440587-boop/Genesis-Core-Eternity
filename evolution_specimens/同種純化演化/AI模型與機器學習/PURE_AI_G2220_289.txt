@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G2220_289
+Category: AI模型與機器學習
+Generation: 2220
+Score: 54879
+Info: 【同種純化】基於前代[PURE_AI_G2219_782]進化

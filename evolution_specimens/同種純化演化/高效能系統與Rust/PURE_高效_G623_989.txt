@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G623_989
+Category: 高效能系統與Rust
+Generation: 623
+Score: 15951
+Info: 【同種純化】基於前代[PURE_高效_G622_811]進化

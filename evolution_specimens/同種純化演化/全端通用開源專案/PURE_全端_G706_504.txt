@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G706_504
+Category: 全端通用開源專案
+Generation: 706
+Score: 18145
+Info: 【同種純化】基於前代[PURE_全端_G705_919]進化

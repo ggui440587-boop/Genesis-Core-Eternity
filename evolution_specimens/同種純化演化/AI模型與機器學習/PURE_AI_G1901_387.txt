@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G1901_387
+Category: AI模型與機器學習
+Generation: 1901
+Score: 47106
+Info: 【同種純化】基於前代[PURE_AI_G1900_538]進化

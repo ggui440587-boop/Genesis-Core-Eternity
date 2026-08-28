@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G372_501
+Category: 高效能系統與Rust
+Generation: 372
+Score: 9500
+Info: 【同種純化】基於前代[PURE_高效_G371_678]進化

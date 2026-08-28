@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G1648_960
+Category: 全端通用開源專案
+Generation: 1648
+Score: 41579
+Info: 【同種純化】基於前代[PURE_全端_G1647_197]進化

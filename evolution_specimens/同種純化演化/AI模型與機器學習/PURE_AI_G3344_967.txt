@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G3344_967
+Category: AI模型與機器學習
+Generation: 3344
+Score: 83190
+Info: 【同種純化】基於前代[PURE_AI_G3343_789]進化

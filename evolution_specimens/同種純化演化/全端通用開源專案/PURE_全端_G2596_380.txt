@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G2596_380
+Category: 全端通用開源專案
+Generation: 2596
+Score: 65727
+Info: 【同種純化】基於前代[PURE_全端_G2595_776]進化

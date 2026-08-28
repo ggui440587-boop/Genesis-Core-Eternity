@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G838_537
+Category: 高效能系統與Rust
+Generation: 838
+Score: 21309
+Info: 【同種純化】基於前代[PURE_高效_G837_658]進化

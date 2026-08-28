@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G641_299
+Category: 高效能系統與Rust
+Generation: 641
+Score: 16389
+Info: 【同種純化】基於前代[PURE_高效_G640_490]進化

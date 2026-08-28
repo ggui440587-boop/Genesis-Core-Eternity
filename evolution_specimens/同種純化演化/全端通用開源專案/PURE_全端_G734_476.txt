@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G734_476
+Category: 全端通用開源專案
+Generation: 734
+Score: 18946
+Info: 【同種純化】基於前代[PURE_全端_G733_982]進化

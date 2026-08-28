@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G1159_455
+Category: 全端通用開源專案
+Generation: 1159
+Score: 29451
+Info: 【同種純化】基於前代[PURE_全端_G1158_463]進化

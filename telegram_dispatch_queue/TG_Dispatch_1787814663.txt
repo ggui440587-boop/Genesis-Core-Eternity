@@ -1,0 +1,5 @@
+🚀 【Genesis全球情報速遞】
+📂 分類：AI模型與機器學習
+🏷️ 標籤：#LLM #DeepLearning #AI
+🆔 識別：NPM_size-limit
+🔗 內容：NPM Package: git+https://github.com/ai/size-limit.git

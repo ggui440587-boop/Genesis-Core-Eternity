@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G490_581
+Category: AI模型與機器學習
+Generation: 490
+Score: 12244
+Info: 【同種純化】基於前代[PURE_AI_G489_888]進化

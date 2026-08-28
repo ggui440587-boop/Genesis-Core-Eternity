@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G1999_443
+Category: AI模型與機器學習
+Generation: 1999
+Score: 49494
+Info: 【同種純化】基於前代[PURE_AI_G1998_713]進化

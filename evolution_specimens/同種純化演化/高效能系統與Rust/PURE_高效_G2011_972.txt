@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G2011_972
+Category: 高效能系統與Rust
+Generation: 2011
+Score: 50430
+Info: 【同種純化】基於前代[PURE_高效_G2010_813]進化

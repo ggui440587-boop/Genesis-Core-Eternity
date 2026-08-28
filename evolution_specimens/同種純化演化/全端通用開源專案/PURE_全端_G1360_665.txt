@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G1360_665
+Category: 全端通用開源專案
+Generation: 1360
+Score: 34188
+Info: 【同種純化】基於前代[PURE_全端_G1359_727]進化

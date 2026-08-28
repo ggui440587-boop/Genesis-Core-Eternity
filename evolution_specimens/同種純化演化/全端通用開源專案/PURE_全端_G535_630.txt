@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G535_630
+Category: 全端通用開源專案
+Generation: 535
+Score: 13720
+Info: 【同種純化】基於前代[PURE_全端_G534_117]進化

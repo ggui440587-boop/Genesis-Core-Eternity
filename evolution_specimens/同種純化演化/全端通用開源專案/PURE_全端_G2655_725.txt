@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G2655_725
+Category: 全端通用開源專案
+Generation: 2655
+Score: 67208
+Info: 【同種純化】基於前代[PURE_全端_G2654_556]進化

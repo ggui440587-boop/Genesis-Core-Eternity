@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G2307_374
+Category: 全端通用開源專案
+Generation: 2307
+Score: 58255
+Info: 【同種純化】基於前代[PURE_全端_G2306_635]進化

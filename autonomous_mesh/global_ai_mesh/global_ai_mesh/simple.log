@@ -1,0 +1,48 @@
+nohup: ignoring input
+ * Serving Flask app 'app_simple'
+ * Debug mode: off
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8082
+ * Running on http://192.168.1.101:8082
+[33mPress CTRL+C to quit[0m
+127.0.0.1 - - [28/Aug/2026 08:09:50] "GET /api/status HTTP/1.1" 200 -
+127.0.0.1 - - [28/Aug/2026 08:09:52] "GET /api/status HTTP/1.1" 200 -
+127.0.0.1 - - [28/Aug/2026 08:09:52] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [28/Aug/2026 08:09:52] "GET /api/status HTTP/1.1" 200 -
+127.0.0.1 - - [28/Aug/2026 08:09:54] "GET /api/status HTTP/1.1" 200 -
+127.0.0.1 - - [28/Aug/2026 08:09:54] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [28/Aug/2026 08:09:54] "GET /api/status HTTP/1.1" 200 -
+127.0.0.1 - - [28/Aug/2026 08:09:56] "GET /api/status HTTP/1.1" 200 -
+127.0.0.1 - - [28/Aug/2026 08:09:58] "GET /api/status HTTP/1.1" 200 -
+127.0.0.1 - - [28/Aug/2026 08:10:01] "GET /api/status HTTP/1.1" 200 -
+127.0.0.1 - - [28/Aug/2026 08:10:03] "GET /api/status HTTP/1.1" 200 -
+127.0.0.1 - - [28/Aug/2026 08:10:05] "GET /api/status HTTP/1.1" 200 -
+127.0.0.1 - - [28/Aug/2026 08:10:07] "GET /api/status HTTP/1.1" 200 -
+127.0.0.1 - - [28/Aug/2026 08:10:09] "GET /api/status HTTP/1.1" 200 -
+127.0.0.1 - - [28/Aug/2026 08:10:11] "GET /api/status HTTP/1.1" 200 -
+127.0.0.1 - - [28/Aug/2026 08:10:13] "GET /api/status HTTP/1.1" 200 -
+127.0.0.1 - - [28/Aug/2026 08:10:15] "GET /api/status HTTP/1.1" 200 -
+127.0.0.1 - - [28/Aug/2026 08:10:17] "GET /api/status HTTP/1.1" 200 -
+127.0.0.1 - - [28/Aug/2026 08:10:19] "GET /api/status HTTP/1.1" 200 -
+127.0.0.1 - - [28/Aug/2026 08:10:21] "GET /api/status HTTP/1.1" 200 -
+127.0.0.1 - - [28/Aug/2026 08:10:23] "GET /api/status HTTP/1.1" 200 -
+127.0.0.1 - - [28/Aug/2026 08:10:25] "GET /api/status HTTP/1.1" 200 -
+127.0.0.1 - - [28/Aug/2026 08:10:27] "GET /api/status HTTP/1.1" 200 -
+127.0.0.1 - - [28/Aug/2026 08:10:29] "GET /api/status HTTP/1.1" 200 -
+127.0.0.1 - - [28/Aug/2026 08:10:31] "GET /api/status HTTP/1.1" 200 -
+127.0.0.1 - - [28/Aug/2026 08:10:33] "GET /api/status HTTP/1.1" 200 -
+127.0.0.1 - - [28/Aug/2026 08:10:35] "GET /api/status HTTP/1.1" 200 -
+127.0.0.1 - - [28/Aug/2026 08:10:37] "GET /api/status HTTP/1.1" 200 -
+127.0.0.1 - - [28/Aug/2026 08:10:39] "GET /api/status HTTP/1.1" 200 -
+127.0.0.1 - - [28/Aug/2026 08:10:41] "GET /api/status HTTP/1.1" 200 -
+127.0.0.1 - - [28/Aug/2026 08:10:43] "GET /api/status HTTP/1.1" 200 -
+127.0.0.1 - - [28/Aug/2026 08:10:45] "GET /api/status HTTP/1.1" 200 -
+127.0.0.1 - - [28/Aug/2026 08:10:47] "GET /api/status HTTP/1.1" 200 -
+127.0.0.1 - - [28/Aug/2026 08:10:49] "GET /api/status HTTP/1.1" 200 -
+127.0.0.1 - - [28/Aug/2026 08:10:51] "GET /api/status HTTP/1.1" 200 -
+127.0.0.1 - - [28/Aug/2026 08:10:53] "GET /api/status HTTP/1.1" 200 -
+127.0.0.1 - - [28/Aug/2026 08:10:55] "GET /api/status HTTP/1.1" 200 -
+127.0.0.1 - - [28/Aug/2026 08:10:57] "GET /api/status HTTP/1.1" 200 -
+127.0.0.1 - - [28/Aug/2026 08:11:05] "GET /api/status HTTP/1.1" 200 -
+127.0.0.1 - - [28/Aug/2026 08:11:06] "GET /api/status HTTP/1.1" 200 -

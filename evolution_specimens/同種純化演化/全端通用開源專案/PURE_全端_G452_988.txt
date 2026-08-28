@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G452_988
+Category: 全端通用開源專案
+Generation: 452
+Score: 11678
+Info: 【同種純化】基於前代[PURE_全端_G451_437]進化

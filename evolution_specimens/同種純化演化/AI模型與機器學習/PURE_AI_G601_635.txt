@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G601_635
+Category: AI模型與機器學習
+Generation: 601
+Score: 14916
+Info: 【同種純化】基於前代[PURE_AI_G600_651]進化

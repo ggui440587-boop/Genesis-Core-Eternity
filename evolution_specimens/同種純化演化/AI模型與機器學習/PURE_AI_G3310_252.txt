@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G3310_252
+Category: AI模型與機器學習
+Generation: 3310
+Score: 82353
+Info: 【同種純化】基於前代[PURE_AI_G3309_112]進化

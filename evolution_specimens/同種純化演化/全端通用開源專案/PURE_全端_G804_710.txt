@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G804_710
+Category: 全端通用開源專案
+Generation: 804
+Score: 20695
+Info: 【同種純化】基於前代[PURE_全端_G803_753]進化

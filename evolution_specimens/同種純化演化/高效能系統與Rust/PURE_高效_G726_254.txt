@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G726_254
+Category: 高效能系統與Rust
+Generation: 726
+Score: 18378
+Info: 【同種純化】基於前代[PURE_高效_G725_777]進化

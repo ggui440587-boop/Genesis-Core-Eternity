@@ -1,0 +1,4 @@
+Hybrid Specimen: HYBRID_OMEGA_7831
+Score: 68840
+Parents: CR_ABC_Game_Engine + GH_litellm
+Info: 【混合神獸】融合最強[HYBRID_OMEGA_9065]與異源[CR_ABC_Game_Engine]

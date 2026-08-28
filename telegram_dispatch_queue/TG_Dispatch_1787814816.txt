@@ -1,0 +1,5 @@
+🚀 【Genesis全球情報速遞】
+📂 分類：雲原生與DevOps
+🏷️ 標籤：#Docker #Cloud #DevOps
+🆔 識別：DOCKER_scratch
+🔗 內容：Docker Hub: https://hub.docker.com/_/scratch

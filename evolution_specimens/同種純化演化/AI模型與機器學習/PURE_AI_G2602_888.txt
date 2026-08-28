@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G2602_888
+Category: AI模型與機器學習
+Generation: 2602
+Score: 64684
+Info: 【同種純化】基於前代[PURE_AI_G2601_386]進化

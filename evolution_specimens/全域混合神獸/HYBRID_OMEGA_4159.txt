@@ -1,0 +1,4 @@
+Hybrid Specimen: HYBRID_OMEGA_4159
+Score: 171152
+Parents: GH_rmux + GH_ort
+Info: 【混合神獸】融合最強[HYBRID_OMEGA_5518]與異源[GH_rmux]

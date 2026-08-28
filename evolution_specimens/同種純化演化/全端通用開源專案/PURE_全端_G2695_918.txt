@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G2695_918
+Category: 全端通用開源專案
+Generation: 2695
+Score: 68244
+Info: 【同種純化】基於前代[PURE_全端_G2694_307]進化

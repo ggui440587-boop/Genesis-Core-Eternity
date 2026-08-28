@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G2110_861
+Category: 全端通用開源專案
+Generation: 2110
+Score: 53154
+Info: 【同種純化】基於前代[PURE_全端_G2109_138]進化

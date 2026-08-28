@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G1298_945
+Category: 全端通用開源專案
+Generation: 1298
+Score: 32800
+Info: 【同種純化】基於前代[PURE_全端_G1297_277]進化

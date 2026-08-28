@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G1703_725
+Category: AI模型與機器學習
+Generation: 1703
+Score: 42273
+Info: 【同種純化】基於前代[PURE_AI_G1702_564]進化

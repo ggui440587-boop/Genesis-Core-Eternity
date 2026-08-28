@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G291_328
+Category: 全端通用開源專案
+Generation: 291
+Score: 7651
+Info: 【同種純化】基於前代[PURE_全端_G290_742]進化

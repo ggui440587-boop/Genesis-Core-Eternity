@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G1620_262
+Category: 全端通用開源專案
+Generation: 1620
+Score: 40888
+Info: 【同種純化】基於前代[PURE_全端_G1619_497]進化

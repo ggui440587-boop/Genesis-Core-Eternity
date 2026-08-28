@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G221_460
+Category: AI模型與機器學習
+Generation: 221
+Score: 5519
+Info: 【同種純化】基於前代[PURE_AI_G220_964]進化

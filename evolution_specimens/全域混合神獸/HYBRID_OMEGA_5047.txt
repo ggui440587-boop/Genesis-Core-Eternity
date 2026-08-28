@@ -1,0 +1,4 @@
+Hybrid Specimen: HYBRID_OMEGA_5047
+Score: 286966
+Parents: CR_A2VConverter + GH_yek
+Info: 【混合神獸】融合最強[HYBRID_OMEGA_5264]與異源[CR_A2VConverter]

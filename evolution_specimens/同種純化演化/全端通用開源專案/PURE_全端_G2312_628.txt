@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G2312_628
+Category: 全端通用開源專案
+Generation: 2312
+Score: 58398
+Info: 【同種純化】基於前代[PURE_全端_G2311_740]進化

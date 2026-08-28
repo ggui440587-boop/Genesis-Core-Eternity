@@ -1,0 +1,4 @@
+Hybrid Specimen: HYBRID_OMEGA_5483
+Score: 287055
+Parents: GH_mirrord + CR_A-Mazed
+Info: 【混合神獸】融合最強[HYBRID_OMEGA_8452]與異源[GH_mirrord]

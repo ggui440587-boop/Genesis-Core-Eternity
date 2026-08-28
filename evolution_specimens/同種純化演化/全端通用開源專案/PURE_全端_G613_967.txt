@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G613_967
+Category: 全端通用開源專案
+Generation: 613
+Score: 15724
+Info: 【同種純化】基於前代[PURE_全端_G612_200]進化

@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G3040_866
+Category: AI模型與機器學習
+Generation: 3040
+Score: 75511
+Info: 【同種純化】基於前代[PURE_AI_G3039_721]進化

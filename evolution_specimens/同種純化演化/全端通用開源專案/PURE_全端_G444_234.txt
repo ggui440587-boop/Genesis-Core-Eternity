@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G444_234
+Category: 全端通用開源專案
+Generation: 444
+Score: 11434
+Info: 【同種純化】基於前代[PURE_全端_G443_334]進化

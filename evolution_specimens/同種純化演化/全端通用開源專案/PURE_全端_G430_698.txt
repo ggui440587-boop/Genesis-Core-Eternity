@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G430_698
+Category: 全端通用開源專案
+Generation: 430
+Score: 11055
+Info: 【同種純化】基於前代[PURE_全端_G429_322]進化

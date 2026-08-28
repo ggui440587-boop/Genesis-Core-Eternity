@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G214_703
+Category: 全端通用開源專案
+Generation: 214
+Score: 5623
+Info: 【同種純化】基於前代[PURE_全端_G213_268]進化

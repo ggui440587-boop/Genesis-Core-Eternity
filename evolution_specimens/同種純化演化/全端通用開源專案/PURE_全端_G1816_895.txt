@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G1816_895
+Category: 全端通用開源專案
+Generation: 1816
+Score: 45750
+Info: 【同種純化】基於前代[PURE_全端_G1815_548]進化

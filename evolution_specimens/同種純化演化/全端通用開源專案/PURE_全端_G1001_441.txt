@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G1001_441
+Category: 全端通用開源專案
+Generation: 1001
+Score: 25446
+Info: 【同種純化】基於前代[PURE_全端_G1000_291]進化

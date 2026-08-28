@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G515_705
+Category: 全端通用開源專案
+Generation: 515
+Score: 13241
+Info: 【同種純化】基於前代[PURE_全端_G514_153]進化

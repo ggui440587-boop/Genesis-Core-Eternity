@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G549_824
+Category: 全端通用開源專案
+Generation: 549
+Score: 14053
+Info: 【同種純化】基於前代[PURE_全端_G548_482]進化

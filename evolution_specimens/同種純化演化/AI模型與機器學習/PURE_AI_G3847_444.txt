@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G3847_444
+Category: AI模型與機器學習
+Generation: 3847
+Score: 96177
+Info: 【同種純化】基於前代[PURE_AI_G3846_560]進化

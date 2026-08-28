@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G2006_996
+Category: 高效能系統與Rust
+Generation: 2006
+Score: 50302
+Info: 【同種純化】基於前代[PURE_高效_G2005_735]進化

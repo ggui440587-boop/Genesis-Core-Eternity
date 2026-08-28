@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G1975_280
+Category: 高效能系統與Rust
+Generation: 1975
+Score: 49618
+Info: 【同種純化】基於前代[PURE_高效_G1974_371]進化

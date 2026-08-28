@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G1006_497
+Category: 全端通用開源專案
+Generation: 1006
+Score: 25587
+Info: 【同種純化】基於前代[PURE_全端_G1005_153]進化

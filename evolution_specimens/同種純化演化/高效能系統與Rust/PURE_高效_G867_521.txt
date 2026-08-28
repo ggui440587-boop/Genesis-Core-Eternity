@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G867_521
+Category: 高效能系統與Rust
+Generation: 867
+Score: 22037
+Info: 【同種純化】基於前代[PURE_高效_G866_964]進化

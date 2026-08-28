@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G873_549
+Category: 全端通用開源專案
+Generation: 873
+Score: 22354
+Info: 【同種純化】基於前代[PURE_全端_G872_146]進化

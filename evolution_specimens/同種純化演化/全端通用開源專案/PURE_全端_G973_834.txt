@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G973_834
+Category: 全端通用開源專案
+Generation: 973
+Score: 24820
+Info: 【同種純化】基於前代[PURE_全端_G972_795]進化

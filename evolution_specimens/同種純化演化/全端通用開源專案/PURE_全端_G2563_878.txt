@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G2563_878
+Category: 全端通用開源專案
+Generation: 2563
+Score: 64837
+Info: 【同種純化】基於前代[PURE_全端_G2562_201]進化

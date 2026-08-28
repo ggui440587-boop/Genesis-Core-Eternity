@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G312_539
+Category: 高效能系統與Rust
+Generation: 312
+Score: 8018
+Info: 【同種純化】基於前代[PURE_高效_G311_354]進化

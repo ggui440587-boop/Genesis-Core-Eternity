@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G2426_647
+Category: AI模型與機器學習
+Generation: 2426
+Score: 60200
+Info: 【同種純化】基於前代[PURE_AI_G2425_548]進化

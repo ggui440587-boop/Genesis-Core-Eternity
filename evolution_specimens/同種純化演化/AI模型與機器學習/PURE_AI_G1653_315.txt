@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G1653_315
+Category: AI模型與機器學習
+Generation: 1653
+Score: 41018
+Info: 【同種純化】基於前代[PURE_AI_G1652_625]進化

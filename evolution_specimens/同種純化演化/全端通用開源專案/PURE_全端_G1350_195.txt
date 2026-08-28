@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G1350_195
+Category: 全端通用開源專案
+Generation: 1350
+Score: 34008
+Info: 【同種純化】基於前代[PURE_全端_G1349_943]進化

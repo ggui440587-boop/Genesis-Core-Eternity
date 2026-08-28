@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G2364_312
+Category: AI模型與機器學習
+Generation: 2364
+Score: 58633
+Info: 【同種純化】基於前代[PURE_AI_G2363_802]進化

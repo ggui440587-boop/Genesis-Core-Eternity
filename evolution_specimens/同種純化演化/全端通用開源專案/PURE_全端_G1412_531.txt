@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G1412_531
+Category: 全端通用開源專案
+Generation: 1412
+Score: 35499
+Info: 【同種純化】基於前代[PURE_全端_G1411_729]進化

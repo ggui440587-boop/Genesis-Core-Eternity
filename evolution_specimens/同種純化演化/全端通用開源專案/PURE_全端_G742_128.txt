@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G742_128
+Category: 全端通用開源專案
+Generation: 742
+Score: 19117
+Info: 【同種純化】基於前代[PURE_全端_G741_372]進化

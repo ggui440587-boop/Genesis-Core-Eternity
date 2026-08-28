@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G615_191
+Category: 全端通用開源專案
+Generation: 615
+Score: 15798
+Info: 【同種純化】基於前代[PURE_全端_G614_363]進化

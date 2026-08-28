@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G3607_587
+Category: AI模型與機器學習
+Generation: 3607
+Score: 90010
+Info: 【同種純化】基於前代[PURE_AI_G3606_609]進化

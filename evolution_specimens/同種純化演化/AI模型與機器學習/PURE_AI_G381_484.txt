@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G381_484
+Category: AI模型與機器學習
+Generation: 381
+Score: 9554
+Info: 【同種純化】基於前代[PURE_AI_G380_145]進化

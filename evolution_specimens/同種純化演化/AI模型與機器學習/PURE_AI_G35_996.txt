@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G35_996
+Category: AI模型與機器學習
+Generation: 35
+Score: 982
+Info: 【同種純化】基於前代[PURE_AI_G34_916]進化

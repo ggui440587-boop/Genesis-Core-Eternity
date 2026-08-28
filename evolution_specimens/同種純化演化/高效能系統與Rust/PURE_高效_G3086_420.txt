@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G3086_420
+Category: 高效能系統與Rust
+Generation: 3086
+Score: 77411
+Info: 【同種純化】基於前代[PURE_高效_G3085_502]進化

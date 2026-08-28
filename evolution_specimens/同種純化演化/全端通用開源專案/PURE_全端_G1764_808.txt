@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G1764_808
+Category: 全端通用開源專案
+Generation: 1764
+Score: 44516
+Info: 【同種純化】基於前代[PURE_全端_G1763_658]進化

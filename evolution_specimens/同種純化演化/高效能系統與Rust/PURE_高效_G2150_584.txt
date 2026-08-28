@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G2150_584
+Category: 高效能系統與Rust
+Generation: 2150
+Score: 53885
+Info: 【同種純化】基於前代[PURE_高效_G2149_453]進化

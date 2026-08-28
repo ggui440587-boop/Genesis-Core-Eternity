@@ -1,0 +1,4 @@
+Hybrid Specimen: HYBRID_OMEGA_8754
+Score: 289765
+Parents: GH_yek + CR_A2VConverter
+Info: 【混合神獸】融合最強[HYBRID_OMEGA_8469]與異源[GH_yek]

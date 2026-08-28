@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G2613_298
+Category: 全端通用開源專案
+Generation: 2613
+Score: 66131
+Info: 【同種純化】基於前代[PURE_全端_G2612_662]進化

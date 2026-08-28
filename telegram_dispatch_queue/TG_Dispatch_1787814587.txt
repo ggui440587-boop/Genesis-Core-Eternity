@@ -1,0 +1,5 @@
+🚀 【Genesis全球情報速遞】
+📂 分類：高效能系統與Rust
+🏷️ 標籤：#Rust #Systems #CLI
+🆔 識別：GH_system-design-primer
+🔗 內容：GitHub: https://github.com/donnemartin/system-design-primer - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.

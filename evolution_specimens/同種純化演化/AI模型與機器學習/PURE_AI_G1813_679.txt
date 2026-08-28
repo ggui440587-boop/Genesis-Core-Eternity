@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G1813_679
+Category: AI模型與機器學習
+Generation: 1813
+Score: 44954
+Info: 【同種純化】基於前代[PURE_AI_G1812_649]進化

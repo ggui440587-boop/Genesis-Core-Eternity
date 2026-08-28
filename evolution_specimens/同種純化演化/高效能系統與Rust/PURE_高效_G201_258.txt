@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G201_258
+Category: 高效能系統與Rust
+Generation: 201
+Score: 5201
+Info: 【同種純化】基於前代[PURE_高效_G200_906]進化

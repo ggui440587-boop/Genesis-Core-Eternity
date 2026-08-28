@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G348_403
+Category: 全端通用開源專案
+Generation: 348
+Score: 9106
+Info: 【同種純化】基於前代[PURE_全端_G347_645]進化

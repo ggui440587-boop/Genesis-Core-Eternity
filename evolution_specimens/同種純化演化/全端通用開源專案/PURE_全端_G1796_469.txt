@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G1796_469
+Category: 全端通用開源專案
+Generation: 1796
+Score: 45299
+Info: 【同種純化】基於前代[PURE_全端_G1795_703]進化

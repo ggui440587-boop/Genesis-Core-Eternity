@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G2780_825
+Category: AI模型與機器學習
+Generation: 2780
+Score: 69134
+Info: 【同種純化】基於前代[PURE_AI_G2779_535]進化

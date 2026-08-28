@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G215_104
+Category: 全端通用開源專案
+Generation: 215
+Score: 5661
+Info: 【同種純化】基於前代[PURE_全端_G214_703]進化

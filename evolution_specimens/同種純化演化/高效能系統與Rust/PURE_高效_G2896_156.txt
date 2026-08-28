@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G2896_156
+Category: 高效能系統與Rust
+Generation: 2896
+Score: 72735
+Info: 【同種純化】基於前代[PURE_高效_G2895_184]進化

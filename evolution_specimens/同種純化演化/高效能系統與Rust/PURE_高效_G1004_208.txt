@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G1004_208
+Category: 高效能系統與Rust
+Generation: 1004
+Score: 25337
+Info: 【同種純化】基於前代[PURE_高效_G1003_905]進化

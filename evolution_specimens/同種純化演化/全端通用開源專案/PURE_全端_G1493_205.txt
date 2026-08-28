@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G1493_205
+Category: 全端通用開源專案
+Generation: 1493
+Score: 37616
+Info: 【同種純化】基於前代[PURE_全端_G1492_520]進化

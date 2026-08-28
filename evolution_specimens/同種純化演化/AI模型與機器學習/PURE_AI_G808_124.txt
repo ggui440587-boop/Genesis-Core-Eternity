@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G808_124
+Category: AI模型與機器學習
+Generation: 808
+Score: 20055
+Info: 【同種純化】基於前代[PURE_AI_G807_971]進化

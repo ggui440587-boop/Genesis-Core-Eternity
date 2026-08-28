@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G2211_361
+Category: 高效能系統與Rust
+Generation: 2211
+Score: 55398
+Info: 【同種純化】基於前代[PURE_高效_G2210_295]進化

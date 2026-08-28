@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G2028_184
+Category: 全端通用開源專案
+Generation: 2028
+Score: 51165
+Info: 【同種純化】基於前代[PURE_全端_G2027_966]進化

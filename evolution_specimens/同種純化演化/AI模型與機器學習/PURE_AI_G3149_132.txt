@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G3149_132
+Category: AI模型與機器學習
+Generation: 3149
+Score: 78442
+Info: 【同種純化】基於前代[PURE_AI_G3148_252]進化

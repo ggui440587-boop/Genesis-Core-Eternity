@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G138_250
+Category: 全端通用開源專案
+Generation: 138
+Score: 3632
+Info: 【同種純化】基於前代[PURE_全端_G137_114]進化

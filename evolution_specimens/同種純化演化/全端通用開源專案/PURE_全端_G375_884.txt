@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G375_884
+Category: 全端通用開源專案
+Generation: 375
+Score: 9792
+Info: 【同種純化】基於前代[PURE_全端_G374_981]進化

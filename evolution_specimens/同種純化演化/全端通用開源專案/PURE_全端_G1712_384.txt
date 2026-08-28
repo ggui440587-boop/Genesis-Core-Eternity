@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G1712_384
+Category: 全端通用開源專案
+Generation: 1712
+Score: 43223
+Info: 【同種純化】基於前代[PURE_全端_G1711_511]進化

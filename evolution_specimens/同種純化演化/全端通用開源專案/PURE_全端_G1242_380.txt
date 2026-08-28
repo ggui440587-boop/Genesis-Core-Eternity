@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G1242_380
+Category: 全端通用開源專案
+Generation: 1242
+Score: 31448
+Info: 【同種純化】基於前代[PURE_全端_G1241_960]進化

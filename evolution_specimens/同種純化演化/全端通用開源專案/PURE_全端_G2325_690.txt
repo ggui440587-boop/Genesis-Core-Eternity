@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G2325_690
+Category: 全端通用開源專案
+Generation: 2325
+Score: 58732
+Info: 【同種純化】基於前代[PURE_全端_G2324_520]進化

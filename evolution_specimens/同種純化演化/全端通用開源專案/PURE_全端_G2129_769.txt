@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G2129_769
+Category: 全端通用開源專案
+Generation: 2129
+Score: 53619
+Info: 【同種純化】基於前代[PURE_全端_G2128_533]進化

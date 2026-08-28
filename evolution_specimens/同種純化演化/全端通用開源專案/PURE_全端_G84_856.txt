@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G84_856
+Category: 全端通用開源專案
+Generation: 84
+Score: 2242
+Info: 【同種純化】基於前代[PURE_全端_G83_762]進化

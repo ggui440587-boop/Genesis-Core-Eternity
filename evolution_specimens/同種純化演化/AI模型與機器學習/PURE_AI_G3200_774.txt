@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G3200_774
+Category: AI模型與機器學習
+Generation: 3200
+Score: 79697
+Info: 【同種純化】基於前代[PURE_AI_G3199_723]進化

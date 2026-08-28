@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G586_337
+Category: 高效能系統與Rust
+Generation: 586
+Score: 15004
+Info: 【同種純化】基於前代[PURE_高效_G585_355]進化

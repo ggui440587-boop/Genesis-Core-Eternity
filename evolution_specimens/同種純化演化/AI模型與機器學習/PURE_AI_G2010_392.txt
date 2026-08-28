@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G2010_392
+Category: AI模型與機器學習
+Generation: 2010
+Score: 49793
+Info: 【同種純化】基於前代[PURE_AI_G2009_266]進化

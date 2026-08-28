@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G502_540
+Category: 全端通用開源專案
+Generation: 502
+Score: 12931
+Info: 【同種純化】基於前代[PURE_全端_G501_709]進化

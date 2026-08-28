@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G903_838
+Category: 高效能系統與Rust
+Generation: 903
+Score: 22924
+Info: 【同種純化】基於前代[PURE_高效_G902_118]進化

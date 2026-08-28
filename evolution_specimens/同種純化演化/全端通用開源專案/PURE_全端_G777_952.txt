@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G777_952
+Category: 全端通用開源專案
+Generation: 777
+Score: 20001
+Info: 【同種純化】基於前代[PURE_全端_G776_563]進化

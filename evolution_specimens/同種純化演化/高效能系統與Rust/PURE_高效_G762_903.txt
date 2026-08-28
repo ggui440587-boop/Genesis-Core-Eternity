@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G762_903
+Category: 高效能系統與Rust
+Generation: 762
+Score: 19362
+Info: 【同種純化】基於前代[PURE_高效_G761_147]進化

@@ -1,0 +1,4 @@
+Hybrid Specimen: HYBRID_OMEGA_8104
+Score: 175902
+Parents: CR_ABC_Game_Engine + GH_yek
+Info: 【混合神獸】融合最強[HYBRID_OMEGA_1943]與異源[CR_ABC_Game_Engine]

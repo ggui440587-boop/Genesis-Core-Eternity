@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G2013_748
+Category: 全端通用開源專案
+Generation: 2013
+Score: 50803
+Info: 【同種純化】基於前代[PURE_全端_G2012_296]進化

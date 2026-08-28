@@ -1,0 +1,4 @@
+Hybrid Specimen: HYBRID_OMEGA_1615
+Score: 18043
+Parents: CR_ABC-ECS + HF_OBLITERATUS_Qwen3.8-27B-OBLITERATED
+Info: 【混合神獸】融合最強[HYBRID_OMEGA_8209]與異源[CR_ABC-ECS]

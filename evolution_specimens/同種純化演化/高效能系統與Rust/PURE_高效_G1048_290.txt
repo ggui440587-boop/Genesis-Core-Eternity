@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G1048_290
+Category: 高效能系統與Rust
+Generation: 1048
+Score: 26345
+Info: 【同種純化】基於前代[PURE_高效_G1047_510]進化

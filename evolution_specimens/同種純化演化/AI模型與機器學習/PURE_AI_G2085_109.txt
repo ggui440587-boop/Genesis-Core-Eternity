@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G2085_109
+Category: AI模型與機器學習
+Generation: 2085
+Score: 51707
+Info: 【同種純化】基於前代[PURE_AI_G2084_867]進化

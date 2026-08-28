@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G475_354
+Category: AI模型與機器學習
+Generation: 475
+Score: 11876
+Info: 【同種純化】基於前代[PURE_AI_G474_127]進化

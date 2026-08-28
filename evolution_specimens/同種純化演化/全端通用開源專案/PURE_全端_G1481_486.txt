@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G1481_486
+Category: 全端通用開源專案
+Generation: 1481
+Score: 37288
+Info: 【同種純化】基於前代[PURE_全端_G1480_403]進化

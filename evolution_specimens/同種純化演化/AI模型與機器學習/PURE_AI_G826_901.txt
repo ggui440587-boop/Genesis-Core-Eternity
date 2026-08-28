@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G826_901
+Category: AI模型與機器學習
+Generation: 826
+Score: 20567
+Info: 【同種純化】基於前代[PURE_AI_G825_945]進化

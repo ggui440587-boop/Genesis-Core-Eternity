@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G775_873
+Category: 全端通用開源專案
+Generation: 775
+Score: 19943
+Info: 【同種純化】基於前代[PURE_全端_G774_891]進化

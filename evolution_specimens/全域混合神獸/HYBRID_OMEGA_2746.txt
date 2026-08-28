@@ -1,0 +1,4 @@
+Hybrid Specimen: HYBRID_OMEGA_2746
+Score: 171674
+Parents: GH_mirrord + HF_OBLITERATUS_Qwen3.8-27B-OBLITERATED
+Info: 【混合神獸】融合最強[HYBRID_OMEGA_3866]與異源[GH_mirrord]

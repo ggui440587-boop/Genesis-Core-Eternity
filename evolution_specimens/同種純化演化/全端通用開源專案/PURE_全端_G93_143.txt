@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G93_143
+Category: 全端通用開源專案
+Generation: 93
+Score: 2494
+Info: 【同種純化】基於前代[PURE_全端_G92_746]進化

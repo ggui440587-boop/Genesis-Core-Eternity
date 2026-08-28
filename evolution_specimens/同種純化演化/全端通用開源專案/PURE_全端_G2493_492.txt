@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G2493_492
+Category: 全端通用開源專案
+Generation: 2493
+Score: 63081
+Info: 【同種純化】基於前代[PURE_全端_G2492_911]進化

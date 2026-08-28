@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G842_412
+Category: 全端通用開源專案
+Generation: 842
+Score: 21627
+Info: 【同種純化】基於前代[PURE_全端_G841_396]進化

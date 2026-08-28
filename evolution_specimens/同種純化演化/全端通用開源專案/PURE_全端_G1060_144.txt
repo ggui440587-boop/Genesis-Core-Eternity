@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G1060_144
+Category: 全端通用開源專案
+Generation: 1060
+Score: 26943
+Info: 【同種純化】基於前代[PURE_全端_G1059_384]進化

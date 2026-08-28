@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G3427_229
+Category: AI模型與機器學習
+Generation: 3427
+Score: 85209
+Info: 【同種純化】基於前代[PURE_AI_G3426_822]進化

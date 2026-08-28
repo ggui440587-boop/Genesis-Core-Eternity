@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G1968_544
+Category: 全端通用開源專案
+Generation: 1968
+Score: 49613
+Info: 【同種純化】基於前代[PURE_全端_G1967_548]進化

@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G1599_841
+Category: AI模型與機器學習
+Generation: 1599
+Score: 39740
+Info: 【同種純化】基於前代[PURE_AI_G1598_453]進化

@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G620_844
+Category: AI模型與機器學習
+Generation: 620
+Score: 15372
+Info: 【同種純化】基於前代[PURE_AI_G619_537]進化

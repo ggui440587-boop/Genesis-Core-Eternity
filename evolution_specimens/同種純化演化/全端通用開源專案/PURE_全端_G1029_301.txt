@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G1029_301
+Category: 全端通用開源專案
+Generation: 1029
+Score: 26130
+Info: 【同種純化】基於前代[PURE_全端_G1028_995]進化

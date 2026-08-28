@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G854_997
+Category: 全端通用開源專案
+Generation: 854
+Score: 21865
+Info: 【同種純化】基於前代[PURE_全端_G853_605]進化

@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G2111_485
+Category: 全端通用開源專案
+Generation: 2111
+Score: 53175
+Info: 【同種純化】基於前代[PURE_全端_G2110_861]進化

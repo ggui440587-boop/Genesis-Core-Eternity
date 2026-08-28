@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G3284_920
+Category: AI模型與機器學習
+Generation: 3284
+Score: 81820
+Info: 【同種純化】基於前代[PURE_AI_G3283_152]進化

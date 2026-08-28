@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G1909_747
+Category: AI模型與機器學習
+Generation: 1909
+Score: 47323
+Info: 【同種純化】基於前代[PURE_AI_G1908_893]進化

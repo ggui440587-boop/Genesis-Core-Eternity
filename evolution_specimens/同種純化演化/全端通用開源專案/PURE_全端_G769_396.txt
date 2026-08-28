@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G769_396
+Category: 全端通用開源專案
+Generation: 769
+Score: 19800
+Info: 【同種純化】基於前代[PURE_全端_G768_219]進化

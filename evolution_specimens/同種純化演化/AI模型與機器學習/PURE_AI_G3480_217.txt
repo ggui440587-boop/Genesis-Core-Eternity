@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G3480_217
+Category: AI模型與機器學習
+Generation: 3480
+Score: 86665
+Info: 【同種純化】基於前代[PURE_AI_G3479_169]進化

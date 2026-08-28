@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_294
+Category: 高效能系統與Rust
+Generation: 1
+Score: 135
+Info: 【同種初始】源自 Crates.io: ABC-ECS

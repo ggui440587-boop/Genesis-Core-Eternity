@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G2455_592
+Category: 全端通用開源專案
+Generation: 2455
+Score: 62090
+Info: 【同種純化】基於前代[PURE_全端_G2454_394]進化

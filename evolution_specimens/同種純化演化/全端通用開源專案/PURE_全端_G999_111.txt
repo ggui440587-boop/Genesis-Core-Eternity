@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G999_111
+Category: 全端通用開源專案
+Generation: 999
+Score: 25394
+Info: 【同種純化】基於前代[PURE_全端_G998_890]進化

@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G2330_133
+Category: 高效能系統與Rust
+Generation: 2330
+Score: 58240
+Info: 【同種純化】基於前代[PURE_高效_G2329_142]進化

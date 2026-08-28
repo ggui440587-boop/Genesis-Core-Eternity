@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G2053_804
+Category: AI模型與機器學習
+Generation: 2053
+Score: 50916
+Info: 【同種純化】基於前代[PURE_AI_G2052_296]進化

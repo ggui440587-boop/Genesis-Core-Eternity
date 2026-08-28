@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G2124_683
+Category: AI模型與機器學習
+Generation: 2124
+Score: 52593
+Info: 【同種純化】基於前代[PURE_AI_G2123_147]進化

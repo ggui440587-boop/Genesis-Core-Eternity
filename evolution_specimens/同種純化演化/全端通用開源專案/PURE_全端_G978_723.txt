@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G978_723
+Category: 全端通用開源專案
+Generation: 978
+Score: 24922
+Info: 【同種純化】基於前代[PURE_全端_G977_256]進化

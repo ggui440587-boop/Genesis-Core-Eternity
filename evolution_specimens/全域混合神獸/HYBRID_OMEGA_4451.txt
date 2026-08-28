@@ -1,0 +1,4 @@
+Hybrid Specimen: HYBRID_OMEGA_4451
+Score: 202868
+Parents: GH_yek + GH_litellm
+Info: 【混合神獸】融合最強[HYBRID_OMEGA_5058]與異源[GH_yek]

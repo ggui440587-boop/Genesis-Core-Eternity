@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G709_316
+Category: AI模型與機器學習
+Generation: 709
+Score: 17598
+Info: 【同種純化】基於前代[PURE_AI_G708_188]進化

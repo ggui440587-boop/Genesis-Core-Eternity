@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G422_274
+Category: 全端通用開源專案
+Generation: 422
+Score: 10931
+Info: 【同種純化】基於前代[PURE_全端_G421_589]進化

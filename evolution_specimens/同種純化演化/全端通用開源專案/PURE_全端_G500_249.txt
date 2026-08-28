@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G500_249
+Category: 全端通用開源專案
+Generation: 500
+Score: 12879
+Info: 【同種純化】基於前代[PURE_全端_G499_249]進化

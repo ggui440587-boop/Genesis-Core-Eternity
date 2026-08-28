@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G445_683
+Category: AI模型與機器學習
+Generation: 445
+Score: 11090
+Info: 【同種純化】基於前代[PURE_AI_G444_925]進化

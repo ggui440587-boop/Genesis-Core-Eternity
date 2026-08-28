@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G2253_449
+Category: 全端通用開源專案
+Generation: 2253
+Score: 56880
+Info: 【同種純化】基於前代[PURE_全端_G2252_955]進化

@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G416_782
+Category: 全端通用開源專案
+Generation: 416
+Score: 10765
+Info: 【同種純化】基於前代[PURE_全端_G415_882]進化

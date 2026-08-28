@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G1178_132
+Category: 全端通用開源專案
+Generation: 1178
+Score: 29917
+Info: 【同種純化】基於前代[PURE_全端_G1177_869]進化

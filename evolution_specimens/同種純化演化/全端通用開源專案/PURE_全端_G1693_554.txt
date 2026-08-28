@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G1693_554
+Category: 全端通用開源專案
+Generation: 1693
+Score: 42727
+Info: 【同種純化】基於前代[PURE_全端_G1692_861]進化

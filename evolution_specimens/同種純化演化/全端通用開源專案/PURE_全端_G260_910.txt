@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G260_910
+Category: 全端通用開源專案
+Generation: 260
+Score: 6853
+Info: 【同種純化】基於前代[PURE_全端_G259_691]進化

@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G1979_879
+Category: 高效能系統與Rust
+Generation: 1979
+Score: 49693
+Info: 【同種純化】基於前代[PURE_高效_G1978_639]進化

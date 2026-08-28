@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G2315_507
+Category: 全端通用開源專案
+Generation: 2315
+Score: 58487
+Info: 【同種純化】基於前代[PURE_全端_G2314_189]進化

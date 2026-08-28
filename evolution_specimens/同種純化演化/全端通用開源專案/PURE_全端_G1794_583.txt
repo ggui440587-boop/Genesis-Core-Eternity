@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G1794_583
+Category: 全端通用開源專案
+Generation: 1794
+Score: 45256
+Info: 【同種純化】基於前代[PURE_全端_G1793_808]進化

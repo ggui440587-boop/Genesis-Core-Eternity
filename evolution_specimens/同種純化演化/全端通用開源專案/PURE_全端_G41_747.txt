@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G41_747
+Category: 全端通用開源專案
+Generation: 41
+Score: 1093
+Info: 【同種純化】基於前代[PURE_全端_G40_301]進化

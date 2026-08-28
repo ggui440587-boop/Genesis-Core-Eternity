@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G2077_767
+Category: 全端通用開源專案
+Generation: 2077
+Score: 52331
+Info: 【同種純化】基於前代[PURE_全端_G2076_236]進化

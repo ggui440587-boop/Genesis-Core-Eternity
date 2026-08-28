@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G17_398
+Category: 全端通用開源專案
+Generation: 17
+Score: 541
+Info: 【同種純化】基於前代[PURE_全端_G16_534]進化

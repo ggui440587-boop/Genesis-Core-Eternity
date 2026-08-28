@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G3018_277
+Category: 高效能系統與Rust
+Generation: 3018
+Score: 75605
+Info: 【同種純化】基於前代[PURE_高效_G3017_907]進化

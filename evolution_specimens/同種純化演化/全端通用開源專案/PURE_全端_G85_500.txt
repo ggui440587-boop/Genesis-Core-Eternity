@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G85_500
+Category: 全端通用開源專案
+Generation: 85
+Score: 2277
+Info: 【同種純化】基於前代[PURE_全端_G84_856]進化

@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G1562_850
+Category: 全端通用開源專案
+Generation: 1562
+Score: 39434
+Info: 【同種純化】基於前代[PURE_全端_G1561_522]進化

@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G1131_288
+Category: 全端通用開源專案
+Generation: 1131
+Score: 28769
+Info: 【同種純化】基於前代[PURE_全端_G1130_905]進化

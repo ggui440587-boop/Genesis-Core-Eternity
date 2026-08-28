@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G3002_920
+Category: 高效能系統與Rust
+Generation: 3002
+Score: 75169
+Info: 【同種純化】基於前代[PURE_高效_G3001_483]進化

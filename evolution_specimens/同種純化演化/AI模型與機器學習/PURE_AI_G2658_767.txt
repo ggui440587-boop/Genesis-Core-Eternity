@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G2658_767
+Category: AI模型與機器學習
+Generation: 2658
+Score: 66172
+Info: 【同種純化】基於前代[PURE_AI_G2657_616]進化

@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G808_682
+Category: 全端通用開源專案
+Generation: 808
+Score: 20783
+Info: 【同種純化】基於前代[PURE_全端_G807_928]進化

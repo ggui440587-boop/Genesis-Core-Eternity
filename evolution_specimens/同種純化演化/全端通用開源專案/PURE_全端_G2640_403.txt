@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G2640_403
+Category: 全端通用開源專案
+Generation: 2640
+Score: 66805
+Info: 【同種純化】基於前代[PURE_全端_G2639_342]進化

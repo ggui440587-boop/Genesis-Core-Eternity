@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G378_501
+Category: AI模型與機器學習
+Generation: 378
+Score: 9488
+Info: 【同種純化】基於前代[PURE_AI_G377_818]進化

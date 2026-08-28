@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G1786_984
+Category: AI模型與機器學習
+Generation: 1786
+Score: 44324
+Info: 【同種純化】基於前代[PURE_AI_G1785_765]進化

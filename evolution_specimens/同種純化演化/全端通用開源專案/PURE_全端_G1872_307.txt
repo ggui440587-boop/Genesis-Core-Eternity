@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G1872_307
+Category: 全端通用開源專案
+Generation: 1872
+Score: 47204
+Info: 【同種純化】基於前代[PURE_全端_G1871_131]進化

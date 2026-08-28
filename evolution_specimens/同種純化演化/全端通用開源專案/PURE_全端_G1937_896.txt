@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G1937_896
+Category: 全端通用開源專案
+Generation: 1937
+Score: 48780
+Info: 【同種純化】基於前代[PURE_全端_G1936_157]進化

@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G415_595
+Category: AI模型與機器學習
+Generation: 415
+Score: 10375
+Info: 【同種純化】基於前代[PURE_AI_G414_411]進化

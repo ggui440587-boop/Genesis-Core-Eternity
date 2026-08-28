@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G1908_160
+Category: 全端通用開源專案
+Generation: 1908
+Score: 48117
+Info: 【同種純化】基於前代[PURE_全端_G1907_534]進化

@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G639_569
+Category: 全端通用開源專案
+Generation: 639
+Score: 16406
+Info: 【同種純化】基於前代[PURE_全端_G638_120]進化

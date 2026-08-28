@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G894_151
+Category: 高效能系統與Rust
+Generation: 894
+Score: 22715
+Info: 【同種純化】基於前代[PURE_高效_G893_381]進化

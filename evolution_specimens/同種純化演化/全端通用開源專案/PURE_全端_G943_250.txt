@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G943_250
+Category: 全端通用開源專案
+Generation: 943
+Score: 24127
+Info: 【同種純化】基於前代[PURE_全端_G942_335]進化

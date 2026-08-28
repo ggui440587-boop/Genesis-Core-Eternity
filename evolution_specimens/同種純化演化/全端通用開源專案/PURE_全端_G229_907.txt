@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G229_907
+Category: 全端通用開源專案
+Generation: 229
+Score: 6056
+Info: 【同種純化】基於前代[PURE_全端_G228_914]進化

@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G2663_947
+Category: 高效能系統與Rust
+Generation: 2663
+Score: 66501
+Info: 【同種純化】基於前代[PURE_高效_G2662_632]進化

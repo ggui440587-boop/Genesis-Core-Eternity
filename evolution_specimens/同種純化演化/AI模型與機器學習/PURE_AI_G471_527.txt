@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G471_527
+Category: AI模型與機器學習
+Generation: 471
+Score: 11800
+Info: 【同種純化】基於前代[PURE_AI_G470_671]進化

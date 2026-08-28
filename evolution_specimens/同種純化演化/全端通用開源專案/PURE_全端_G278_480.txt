@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G278_480
+Category: 全端通用開源專案
+Generation: 278
+Score: 7264
+Info: 【同種純化】基於前代[PURE_全端_G277_897]進化

@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G3227_204
+Category: AI模型與機器學習
+Generation: 3227
+Score: 80398
+Info: 【同種純化】基於前代[PURE_AI_G3226_344]進化

@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G3160_985
+Category: 高效能系統與Rust
+Generation: 3160
+Score: 79299
+Info: 【同種純化】基於前代[PURE_高效_G3159_175]進化

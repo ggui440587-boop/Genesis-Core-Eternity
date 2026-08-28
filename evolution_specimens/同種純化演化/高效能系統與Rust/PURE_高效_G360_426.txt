@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G360_426
+Category: 高效能系統與Rust
+Generation: 360
+Score: 9175
+Info: 【同種純化】基於前代[PURE_高效_G359_668]進化

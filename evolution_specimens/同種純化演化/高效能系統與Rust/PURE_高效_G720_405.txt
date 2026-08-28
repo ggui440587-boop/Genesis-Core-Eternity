@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G720_405
+Category: 高效能系統與Rust
+Generation: 720
+Score: 18243
+Info: 【同種純化】基於前代[PURE_高效_G719_247]進化

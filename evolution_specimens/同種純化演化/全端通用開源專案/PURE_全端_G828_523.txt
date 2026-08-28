@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G828_523
+Category: 全端通用開源專案
+Generation: 828
+Score: 21310
+Info: 【同種純化】基於前代[PURE_全端_G827_856]進化

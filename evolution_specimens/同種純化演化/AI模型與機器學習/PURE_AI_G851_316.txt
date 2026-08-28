@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G851_316
+Category: AI模型與機器學習
+Generation: 851
+Score: 21218
+Info: 【同種純化】基於前代[PURE_AI_G850_745]進化

@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G690_393
+Category: 全端通用開源專案
+Generation: 690
+Score: 17733
+Info: 【同種純化】基於前代[PURE_全端_G689_635]進化

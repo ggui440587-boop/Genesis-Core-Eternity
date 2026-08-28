@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G466_601
+Category: 全端通用開源專案
+Generation: 466
+Score: 12028
+Info: 【同種純化】基於前代[PURE_全端_G465_331]進化

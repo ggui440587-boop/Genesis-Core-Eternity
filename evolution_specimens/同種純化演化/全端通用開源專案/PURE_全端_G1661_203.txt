@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G1661_203
+Category: 全端通用開源專案
+Generation: 1661
+Score: 41894
+Info: 【同種純化】基於前代[PURE_全端_G1660_172]進化

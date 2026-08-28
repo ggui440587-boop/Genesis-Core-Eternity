@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G121_800
+Category: 高效能系統與Rust
+Generation: 121
+Score: 3149
+Info: 【同種純化】基於前代[PURE_高效_G120_290]進化

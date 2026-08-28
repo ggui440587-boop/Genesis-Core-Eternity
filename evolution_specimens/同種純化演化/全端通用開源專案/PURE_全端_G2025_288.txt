@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G2025_288
+Category: 全端通用開源專案
+Generation: 2025
+Score: 51089
+Info: 【同種純化】基於前代[PURE_全端_G2024_248]進化

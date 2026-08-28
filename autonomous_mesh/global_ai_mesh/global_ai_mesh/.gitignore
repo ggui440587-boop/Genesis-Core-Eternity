@@ -1,0 +1,5 @@
+.env
+mesh_node/
+__pycache__/
+*.pyc
+*.db

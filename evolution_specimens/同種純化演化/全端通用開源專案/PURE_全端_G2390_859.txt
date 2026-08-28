@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G2390_859
+Category: 全端通用開源專案
+Generation: 2390
+Score: 60424
+Info: 【同種純化】基於前代[PURE_全端_G2389_343]進化

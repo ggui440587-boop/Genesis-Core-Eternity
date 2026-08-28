@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G2186_753
+Category: 全端通用開源專案
+Generation: 2186
+Score: 55182
+Info: 【同種純化】基於前代[PURE_全端_G2185_851]進化

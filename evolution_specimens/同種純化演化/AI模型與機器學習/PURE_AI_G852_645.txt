@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G852_645
+Category: AI模型與機器學習
+Generation: 852
+Score: 21235
+Info: 【同種純化】基於前代[PURE_AI_G851_316]進化

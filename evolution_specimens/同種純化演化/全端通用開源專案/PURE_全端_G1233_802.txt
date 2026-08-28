@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G1233_802
+Category: 全端通用開源專案
+Generation: 1233
+Score: 31224
+Info: 【同種純化】基於前代[PURE_全端_G1232_706]進化

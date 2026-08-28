@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G1299_781
+Category: AI模型與機器學習
+Generation: 1299
+Score: 32223
+Info: 【同種純化】基於前代[PURE_AI_G1298_805]進化

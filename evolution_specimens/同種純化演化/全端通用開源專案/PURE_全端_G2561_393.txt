@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G2561_393
+Category: 全端通用開源專案
+Generation: 2561
+Score: 64786
+Info: 【同種純化】基於前代[PURE_全端_G2560_206]進化

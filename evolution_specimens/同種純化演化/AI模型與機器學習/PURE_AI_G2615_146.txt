@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G2615_146
+Category: AI模型與機器學習
+Generation: 2615
+Score: 65037
+Info: 【同種純化】基於前代[PURE_AI_G2614_531]進化

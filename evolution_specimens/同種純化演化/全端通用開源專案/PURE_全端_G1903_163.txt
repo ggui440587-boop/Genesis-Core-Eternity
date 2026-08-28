@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G1903_163
+Category: 全端通用開源專案
+Generation: 1903
+Score: 47998
+Info: 【同種純化】基於前代[PURE_全端_G1902_701]進化

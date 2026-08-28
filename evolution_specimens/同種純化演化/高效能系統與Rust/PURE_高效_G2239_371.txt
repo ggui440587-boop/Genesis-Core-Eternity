@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G2239_371
+Category: 高效能系統與Rust
+Generation: 2239
+Score: 56069
+Info: 【同種純化】基於前代[PURE_高效_G2238_236]進化

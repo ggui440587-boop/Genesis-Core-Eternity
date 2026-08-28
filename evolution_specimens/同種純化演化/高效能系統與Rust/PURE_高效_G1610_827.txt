@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G1610_827
+Category: 高效能系統與Rust
+Generation: 1610
+Score: 40395
+Info: 【同種純化】基於前代[PURE_高效_G1609_998]進化

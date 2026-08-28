@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G2009_266
+Category: AI模型與機器學習
+Generation: 2009
+Score: 49775
+Info: 【同種純化】基於前代[PURE_AI_G2008_978]進化

@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G2490_722
+Category: 全端通用開源專案
+Generation: 2490
+Score: 63012
+Info: 【同種純化】基於前代[PURE_全端_G2489_805]進化

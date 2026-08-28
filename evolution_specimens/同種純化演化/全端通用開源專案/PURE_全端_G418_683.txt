@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G418_683
+Category: 全端通用開源專案
+Generation: 418
+Score: 10798
+Info: 【同種純化】基於前代[PURE_全端_G417_373]進化

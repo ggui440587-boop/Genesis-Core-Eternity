@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G1366_393
+Category: 全端通用開源專案
+Generation: 1366
+Score: 34314
+Info: 【同種純化】基於前代[PURE_全端_G1365_294]進化

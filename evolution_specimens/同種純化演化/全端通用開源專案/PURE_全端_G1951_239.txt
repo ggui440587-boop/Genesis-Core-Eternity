@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G1951_239
+Category: 全端通用開源專案
+Generation: 1951
+Score: 49177
+Info: 【同種純化】基於前代[PURE_全端_G1950_641]進化

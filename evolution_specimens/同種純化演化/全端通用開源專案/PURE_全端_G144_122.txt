@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G144_122
+Category: 全端通用開源專案
+Generation: 144
+Score: 3827
+Info: 【同種純化】基於前代[PURE_全端_G143_716]進化

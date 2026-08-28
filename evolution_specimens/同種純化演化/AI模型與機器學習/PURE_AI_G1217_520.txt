@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G1217_520
+Category: AI模型與機器學習
+Generation: 1217
+Score: 30130
+Info: 【同種純化】基於前代[PURE_AI_G1216_272]進化

@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G4_149
+Category: 全端通用開源專案
+Generation: 4
+Score: 234
+Info: 【同種純化】基於前代[PURE_全端_G3_749]進化

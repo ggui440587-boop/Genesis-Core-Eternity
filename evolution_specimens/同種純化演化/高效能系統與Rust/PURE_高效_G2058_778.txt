@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G2058_778
+Category: 高效能系統與Rust
+Generation: 2058
+Score: 51607
+Info: 【同種純化】基於前代[PURE_高效_G2057_458]進化

@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G1333_236
+Category: 全端通用開源專案
+Generation: 1333
+Score: 33616
+Info: 【同種純化】基於前代[PURE_全端_G1332_489]進化

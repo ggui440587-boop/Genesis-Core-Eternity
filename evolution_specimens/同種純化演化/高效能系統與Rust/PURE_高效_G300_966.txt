@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G300_966
+Category: 高效能系統與Rust
+Generation: 300
+Score: 7695
+Info: 【同種純化】基於前代[PURE_高效_G299_455]進化

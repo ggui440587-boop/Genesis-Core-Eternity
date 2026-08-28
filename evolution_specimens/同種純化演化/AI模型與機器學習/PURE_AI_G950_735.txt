@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G950_735
+Category: AI模型與機器學習
+Generation: 950
+Score: 23660
+Info: 【同種純化】基於前代[PURE_AI_G949_788]進化

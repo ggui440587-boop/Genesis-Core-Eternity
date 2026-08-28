@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G208_582
+Category: 全端通用開源專案
+Generation: 208
+Score: 5467
+Info: 【同種純化】基於前代[PURE_全端_G207_409]進化

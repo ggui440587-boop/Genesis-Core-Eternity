@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G2216_325
+Category: 全端通用開源專案
+Generation: 2216
+Score: 55874
+Info: 【同種純化】基於前代[PURE_全端_G2215_126]進化

@@ -1,0 +1,4 @@
+Hybrid Specimen: HYBRID_OMEGA_4196
+Score: 42123
+Parents: CR_ABC_lumenpyx + SEED_970
+Info: 【混合神獸】融合最強[HYBRID_OMEGA_5287]與異源[CR_ABC_lumenpyx]

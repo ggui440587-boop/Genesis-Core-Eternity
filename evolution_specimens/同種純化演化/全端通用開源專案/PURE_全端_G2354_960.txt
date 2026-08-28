@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G2354_960
+Category: 全端通用開源專案
+Generation: 2354
+Score: 59472
+Info: 【同種純化】基於前代[PURE_全端_G2353_650]進化

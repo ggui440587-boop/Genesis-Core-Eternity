@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G813_487
+Category: 全端通用開源專案
+Generation: 813
+Score: 20874
+Info: 【同種純化】基於前代[PURE_全端_G812_677]進化

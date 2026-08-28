@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G2554_807
+Category: 全端通用開源專案
+Generation: 2554
+Score: 64614
+Info: 【同種純化】基於前代[PURE_全端_G2553_194]進化

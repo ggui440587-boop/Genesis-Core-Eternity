@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G2616_701
+Category: AI模型與機器學習
+Generation: 2616
+Score: 65056
+Info: 【同種純化】基於前代[PURE_AI_G2615_146]進化

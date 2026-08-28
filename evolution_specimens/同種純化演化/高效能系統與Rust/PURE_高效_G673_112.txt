@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G673_112
+Category: 高效能系統與Rust
+Generation: 673
+Score: 17135
+Info: 【同種純化】基於前代[PURE_高效_G672_427]進化

@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G162_994
+Category: AI模型與機器學習
+Generation: 162
+Score: 4016
+Info: 【同種純化】基於前代[PURE_AI_G161_247]進化

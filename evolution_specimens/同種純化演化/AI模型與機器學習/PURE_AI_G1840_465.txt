@@ -1,0 +1,5 @@
+Pure Specimen: PURE_AI_G1840_465
+Category: AI模型與機器學習
+Generation: 1840
+Score: 45665
+Info: 【同種純化】基於前代[PURE_AI_G1839_796]進化

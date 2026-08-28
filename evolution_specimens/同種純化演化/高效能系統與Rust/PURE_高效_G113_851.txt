@@ -1,0 +1,5 @@
+Pure Specimen: PURE_高效_G113_851
+Category: 高效能系統與Rust
+Generation: 113
+Score: 2945
+Info: 【同種純化】基於前代[PURE_高效_G112_545]進化

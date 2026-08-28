@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G23_768
+Category: 全端通用開源專案
+Generation: 23
+Score: 674
+Info: 【同種純化】基於前代[PURE_全端_G22_378]進化

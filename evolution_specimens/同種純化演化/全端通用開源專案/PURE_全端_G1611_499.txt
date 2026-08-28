@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G1611_499
+Category: 全端通用開源專案
+Generation: 1611
+Score: 40617
+Info: 【同種純化】基於前代[PURE_全端_G1610_672]進化

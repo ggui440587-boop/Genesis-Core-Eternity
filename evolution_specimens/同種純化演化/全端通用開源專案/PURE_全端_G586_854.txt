@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G586_854
+Category: 全端通用開源專案
+Generation: 586
+Score: 15027
+Info: 【同種純化】基於前代[PURE_全端_G585_950]進化

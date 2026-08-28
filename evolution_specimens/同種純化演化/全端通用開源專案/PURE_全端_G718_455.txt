@@ -1,0 +1,5 @@
+Pure Specimen: PURE_全端_G718_455
+Category: 全端通用開源專案
+Generation: 718
+Score: 18461
+Info: 【同種純化】基於前代[PURE_全端_G717_292]進化
